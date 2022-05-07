@@ -1,0 +1,2 @@
+from webscrapping.Scrapper import TournamentsScrapper
+from webscrapping.URLConfigure import URLConfigure
