@@ -1,3 +1,4 @@
+from base64 import encode
 import urllib
 class URLConfigure : 
     """
@@ -38,14 +39,51 @@ class URLConfigure :
     CHESS_MANAGER_LINK = "https://www.chessmanager.com/pl/tournaments"
     CHESS_ARBITER_LINK = "http://www.chessarbiter.com/"
 
-    def __init__(self, 
+    def __init__(self) -> None:
+        pass
+        # create data query for url
+        #  safe = :+ ignores encoding "+" signs as a %2f 
+        
+    def retrieve_chess_arbiter_link(self,
+                    tournament_name = "",
+                    tournament_city = "", 
+                    tournament_speed = "", 
+                    tournament_status = "ALL", 
+                    country_state = "", 
+                    tempo_option = ""   
+        ) -> str:
+        """
+        Parameters
+        ==========
+            tournament_name (str) :, 
+            tournament_city (str):,
+            tournament_speed (str) : - option not implemented yet
+            tournament_status (str) : one of option written as string (ALL, FINISHED, ONGOING, PLANNED),
+            country_State (str) : polish shortcut of country state ex DS for "Lower Silesian State",
+            
+        """
+        chess_arbiter_params = {
+            "nazwa": tournament_name,
+            "miejsce": tournament_city,
+            "status": self.TOURNAMENT_STATUS[tournament_status][0] if tournament_status != "" else '',
+            "wojewodztwo": self.COUNTRY_STATES[country_state][0] if country_state != "" else '',
+            "typ": "wszystkie",
+            "rodzaj": self.TEMPO_OPTIONS[tempo_option][0] if tempo_option != '' else 'wszystkie',
+            "szukaj": "Wyswietl+turnieje" 
+        }
+        chess_arbiter_data = urllib.parse.urlencode(chess_arbiter_params, safe=":+")
+        link = urllib.parse.urljoin(self.CHESS_ARBITER_LINK, f"index.php?{chess_arbiter_data}")
+        # Potrzebne uzycie unquota by zastapic wyrażenia %xx na jego odpowiednik w znaku  
+        return     urllib.parse.unquote(link)
+
+    def retrieve_chess_manager_link(self, 
                     tournament_name = "",
                     tournament_city = "", 
                     tournament_speed = "", 
                     tournament_status = "ALL", 
                     country_state = "", 
                     tempo_option = ""  
-        ) -> None:
+        ) -> str:
         """
         Parameters
         ==========
@@ -58,25 +96,12 @@ class URLConfigure :
         """
         chess_manager_params = {
             "country" : "POL",
-            "country_state":  self.COUNTRY_STATES[country_state][1] if country_state != "" else '',
+            "country_state":  self.COUNTRY_STATES[country_state][1] if country_state != "" else "all",
             "city": tournament_city, 
-            "tempo": self.TEMPO_OPTIONS[tempo_option][1] if tempo_option != '' else ''
         }
-        chess_arbiter_params = {
-            "nazwa": tournament_name,
-            "miejsce": tournament_city,
-            "status": self.TOURNAMENT_STATUS[tournament_status][0],
-            "wojewodztwo": self.COUNTRY_STATES[country_state][0] if country_state != "" else '',
-            "typ": "wszystkie",
-            "rodzaj": self.TEMPO_OPTIONS[tempo_option][0] if tempo_option != '' else 'wszystkie',
-            "szukaj": "Wyswietl+turnieje" 
-        }
-        # create data query for url
-        #  safe = :+ ignores encoding "+" signs as a %2f 
+        if tempo_option != '':
+            chess_manager_params["tempo"] =  self.TEMPO_OPTIONS[tempo_option][1]
         chess_manager_data = urllib.parse.urlencode(chess_manager_params, safe=":+")
-        chess_arbiter_data = urllib.parse.urlencode(chess_arbiter_params, safe=":+")
-        
-        # create links with data 
-        self.actual_link_arbiter = urllib.parse.urljoin(self.CHESS_ARBITER_LINK, f"index.php?{chess_arbiter_data}")     
-        self.actual_link_manager = urllib.parse.urljoin(f"{self.CHESS_MANAGER_LINK}/", f"{self.TOURNAMENT_STATUS[tournament_status][1]}{chess_manager_data}")        
 
+        # create links with data   
+        return urllib.parse.urljoin(f"{self.CHESS_MANAGER_LINK}/", f"{self.TOURNAMENT_STATUS[tournament_status][1]}{chess_manager_data}")        

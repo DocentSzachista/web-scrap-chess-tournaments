@@ -1,4 +1,5 @@
 
+from base64 import encode
 from webscrapping import URLConfigure, TournamentsScrapper
 import json
 
@@ -19,12 +20,13 @@ def dump_score_to_file(chess_base)->None:
 if __name__ == "__main__":
     
     printer = lambda els : [print(f"{x} \n" ) for x in els]
-    config = URLConfigure(tournament_city="", country_state="DS", tournament_status="PLANNED", tempo_option="classic")
-    chess_arbiter = TournamentsScrapper.get_tournaments_chessarbiter(config.actual_link_arbiter)
-    chess_manager = TournamentsScrapper.get_tournaments_chessmanager(config.actual_link_manager)
+    config = URLConfigure()
+    
+    chess_arbiter = TournamentsScrapper.get_tournaments_chessarbiter(config.retrieve_chess_arbiter_link(tournament_city="Poznań", country_state="", tournament_status="PLANNED", tempo_option=""))
+    chess_manager = TournamentsScrapper.get_tournaments_chessmanager(config.retrieve_chess_manager_link(tournament_city="Wroclaw", country_state="", tournament_status="PLANNED", tempo_option=""))
     chess_base = {
-        "chess_arbiter": chess_arbiter,
         "chess_manager": chess_manager,
+        "chess_arbiter": chess_arbiter,
     }
     dump_score_to_file(chess_base)
 

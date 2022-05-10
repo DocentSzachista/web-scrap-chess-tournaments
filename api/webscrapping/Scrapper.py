@@ -36,54 +36,44 @@ class TournamentsScrapper:
 
     @staticmethod
     def get_tournaments_chessarbiter(url)->list:
+        print(url)
         """
             Retrieve data from chessarbiter website 
-
         """
         element  = "table"
         page = requests.get(url)
-        soup = BeautifulSoup(page.content, 'html.parser')
+        page = page.content
+        print(page)
+        soup = BeautifulSoup(page.decode("utf-8", "ignore"), 'html.parser')
         tournament_list = []
 
         # retrieve all the tables with tournaments 
         tables = soup.find_all(name=element, attrs = {"style" : "tbl", "width" : "100%"})
+        #print(tables[0].prettify())
         # lets locate all the table rows containing data 
         for table in tables : 
-                
-        #   get the columns yay
+            # aquiring columns 
             table_rows = table.find_all(name="tr")
-            for i in range(0, len(table_rows)):
-                
-                table_data = table_rows[i].find_all(name="td")
-                if len(table_data) != 3 : # if we get table row without full data, its not worth our time then 
-                    continue
-                link =  table_data[1].find("a")
-                #get_chessarbiter_subpage(link["href"])
-                # print(link)
-                name, city = table_data[1].text.split("\n")
-                country, chess_type =  table_data[2].text.split(",")
-                tournament_list.append({
-                    "link" : link["href"],
-                    "date" : re.findall( "[0-9\-]+" ,table_data[0].text )[0],
-                    "name" : re.sub("\xa0", "", name),
-                    "city" : city.split(" ")[0],
-                    "country" : country,
-                    "type_and_players" : chess_type 
-                })
+            for i in range(1, len(table_rows)): # we iterate from one to ignore edge case when our first row is a table header
+                table_data = table_rows[i].find_all(name="td")    
+                try: # neuragical part of code 
+                    link =  table_data[1].find("a")
+                    name, city = table_data[1].text.split("\n")
+                    third_column =  table_data[2].text.split(",")
+                    country = third_column[0] 
+                    if len(third_column) == 3:
+                        chess_type = third_column[2]
+                    else:
+                        chess_type = third_column[1]
+                    tournament_list.append({
+                        "link" : link["href"],
+                        "date" : re.findall( "[0-9\-]+" ,table_data[0].text )[0],
+                        "name" : re.sub("\xa0", "", name),
+                        "city" : city.split(" ")[0],
+                        "country" : country,
+                        "type_and_players" : chess_type 
+                    })
+                except:
+                    print("Something propably has gone wrong with aquiring columns")
         return tournament_list
-    @staticmethod
-    def get_chessarbiter_subpage(url : str)->list:
-        raise NotImplementedError("Function not implemented yet")
-    #     # TODO: find info how to load after js scripts load site contents
-    #  find a way 
-    #     url = url.replace("&amp;n=", "/") 
-    #     url = re.sub("[a-z]\w+.\w+\?[a-z]\w+\=", "", url)
-    #     element = "td"
-    #     #print(url)
-    #     page = requests.get(url)
-    #     soup = BeautifulSoup(page.content, 'html.parser')
-    #     print(soup.prettify())
-    #     # sensitive_data_list = []
-    #     # print(page.content)
-    #     b_elem = soup.find_all(name="td", attrs={"class": "panel-body"})
-    #     print(b_elem)
+    
