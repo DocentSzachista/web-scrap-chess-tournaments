@@ -2,12 +2,20 @@ import requests
 import re
 from bs4 import BeautifulSoup
 class TournamentsScrapper:
-
+    """
+        utility class to retrieve data about chess tournaments from chess_arbiter and chess_manager websites 
+    """
     @staticmethod
-    def get_tournaments_chessmanager(url)->list:
+    def get_tournaments_chessmanager(url : str, name : str | None = "")->list:
         """
             Retrieve chess tournaments basic info from website with links leading to them
+            
+            params:
+            -------
+            - url (str) : link to the page with all options set
+            - name (str) : 
         """
+        #TODO: Add support for multipages 
         element = "div"
         page = requests.get(url)
         soup = BeautifulSoup(page.content, 'html.parser')
@@ -21,7 +29,8 @@ class TournamentsScrapper:
             formatted_text = re.sub( "\s\s\s+", "   ",text.replace('\n', '').strip())
             data = formatted_text.split("   ")
             city, country = data[4].split(", ")
-
+            if name.lower() not in data[2].lower() and name != "":
+                continue 
             # Add tournament info to list 
             tournament_list.append({
             "link" : f" https://www.chessmanager.com{anchor['href']}",
@@ -36,14 +45,12 @@ class TournamentsScrapper:
 
     @staticmethod
     def get_tournaments_chessarbiter(url)->list:
-        print(url)
         """
             Retrieve data from chessarbiter website 
         """
         element  = "table"
         page = requests.get(url)
         page = page.content
-        print(page)
         soup = BeautifulSoup(page.decode("utf-8", "ignore"), 'html.parser')
         tournament_list = []
 

@@ -47,7 +47,6 @@ class URLConfigure :
     def retrieve_chess_arbiter_link(self,
                     tournament_name = "",
                     tournament_city = "", 
-                    tournament_speed = "", 
                     tournament_status = "ALL", 
                     country_state = "", 
                     tempo_option = ""   
@@ -77,23 +76,23 @@ class URLConfigure :
         return     urllib.parse.unquote(link)
 
     def retrieve_chess_manager_link(self, 
-                    tournament_name = "",
                     tournament_city = "", 
-                    tournament_speed = "", 
                     tournament_status = "ALL", 
                     country_state = "", 
                     tempo_option = ""  
         ) -> str:
         """
-        Parameters
-        ==========
-            tournament_name (str) :, 
-            tournament_city (str):,
-            tournament_speed (str) : - option not implemented yet
-            tournament_status (str) : one of option written as string (ALL, FINISHED, ONGOING, PLANNED),
-            country_State (str) : polish shortcut of country state ex DS for "Lower Silesian State",
-            
+        ----------
+        Params:
+           - tournament_city (str):
+           - tempo_option (str) : - option to choose between classic, blitz and rapid tournaments
+           - tournament_status (str) : one of option written as string (ALL, FINISHED, ONGOING, PLANNED),
+           - country_State (str) : polish shortcut of country state ex DS for "Lower Silesian State",
+        ---------
+        Returns:
+           - url to the chess manager website 
         """
+        
         chess_manager_params = {
             "country" : "POL",
             "country_state":  self.COUNTRY_STATES[country_state][1] if country_state != "" else "all",

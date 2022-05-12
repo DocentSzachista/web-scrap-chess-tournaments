@@ -1,2 +1,6 @@
+urlib 
 beatifulsoup
 requests
+fastapi
+prettytable
+"uvicorn[standard]"
