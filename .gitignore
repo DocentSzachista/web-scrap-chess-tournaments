@@ -1,2 +1,3 @@
 venv/
-Data.json
+*.json
+__pycache__/

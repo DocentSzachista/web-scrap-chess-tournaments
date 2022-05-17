@@ -3,4 +3,7 @@ beatifulsoup
 requests
 fastapi
 prettytable
+mongoengine
+pymongo
+apscheduler
 "uvicorn[standard]"
