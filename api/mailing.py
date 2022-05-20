@@ -97,7 +97,3 @@ def send_email(receiver_email : list, data : list, table_fields: list | None = [
     with smtplib.SMTP_SSL(sender_data["smtp_server"], sender_data["port"], context=context) as server:
         server.login(sender_data["sender_email"], sender_data["password"])
         server.sendmail(sender_data["sender_email"], receiver_email, email_string)
-
-if __name__ == "__main__":
-    data = get_server_config_data("Data.json")["tournaments"]
-    send_email(["idontknow5325@gmail.com"], data=data )

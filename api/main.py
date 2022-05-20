@@ -1,11 +1,13 @@
 import json
 from mailing import send_email
 from webscrapping import URLConfigure, TournamentsScrapper
-from fastapi import FastAPI, status, HTTPException
+
 from db_mongo import db, Data
 from typing import List
+from fastapi import FastAPI, status, HTTPException
 from fastapi.responses import JSONResponse
 from fastapi.encoders import jsonable_encoder
+from fastapi.middleware.cors import CORSMiddleware
 import uvicorn 
 from apscheduler.schedulers.background import BackgroundScheduler
 
@@ -53,10 +55,18 @@ def  send_mails():
             country_state=user["country_state"],
             tournament_name=user["tournament_name"]
             )
-        send_email(user["email"], data["chess_manager"]+data["chess_arbiter"] )
+        send_email(user["email"], data )
 
 
 app = FastAPI()
+origins = ["http://localhost:3000"]
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 url_config = URLConfigure()
 
 @app.on_event("startup")
@@ -87,10 +97,7 @@ def data_retrieval_wrapper(
         )
     chess_arbiter =  TournamentsScrapper.get_tournaments_chessarbiter(chess_arbiter_link)
     chess_manager = TournamentsScrapper.get_tournaments_chessmanager(chess_manager_link, name=tournament_name)
-    return {
-        "chess_manager": chess_manager, 
-        "chess_arbiter": chess_arbiter,
-    }
+    return  chess_manager +  chess_arbiter
 
 @app.get(
     "/", 
@@ -113,7 +120,7 @@ def filter_tournaments(
     tempo_option : str | None = "", 
     tournament_name : str | None =""
     ):
-    
+    print("Dupa \n ", tournament_city, country_state, tournament_status, tempo_option, tournament_name , "Koniec")
     return data_retrieval_wrapper( tournament_city=tournament_city, 
         country_state=country_state, 
         tournament_status=tournament_status,

@@ -37,9 +37,10 @@ class TournamentsScrapper:
             "date" : data[0].replace("\xa0" , ""),
             # "rounds" : data[1].replace("0/" , ""), 
             "name": data[2],
-            "type_and_players": data[3].split(":")[0],
             "city": city,
-            "country": country  })
+            "country": country,
+            "type_and_players": data[3].split(":")[0],  
+            })
 
         return tournament_list
 
