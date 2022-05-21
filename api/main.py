@@ -104,7 +104,7 @@ def data_retrieval_wrapper(
     response_description=" Retrieve tournaments without any desired options ",
     
 )
-def retrieve_tournaments():
+async def retrieve_tournaments():
     chess_base = data_retrieval_wrapper() 
     dump_score_to_file(chess_base)
     return chess_base
@@ -113,14 +113,13 @@ def retrieve_tournaments():
     "/retrieve/filter/", 
     response_description="Filter tournaments from given sites with desired options",
 )
-def filter_tournaments(
+async def filter_tournaments(
     tournament_city : str | None = "", 
     country_state : str | None = "", 
     tournament_status : str | None = "PLANNED",
     tempo_option : str | None = "", 
     tournament_name : str | None =""
     ):
-    print("Dupa \n ", tournament_city, country_state, tournament_status, tempo_option, tournament_name , "Koniec")
     return data_retrieval_wrapper( tournament_city=tournament_city, 
         country_state=country_state, 
         tournament_status=tournament_status,
@@ -136,7 +135,7 @@ CRUD SECTION :
     response_description = "Add user to a newsletter",
     response_model = Data
 )
-def add_user_to_mailing_list(subscription : Data):
+async def add_user_to_mailing_list(subscription : Data):
     subscription = jsonable_encoder(subscription)
     do_exists = db["mailings"].find_one({"email": subscription["email"]})
     if not do_exists :
@@ -151,7 +150,7 @@ def add_user_to_mailing_list(subscription : Data):
     response_description = "Get all newsletters",
     response_model = List[Data]
 )
-def get_mailing_list():
+async def get_mailing_list():
     mailings =  list(db["mailings"].find({}))
     return mailings
 
@@ -159,7 +158,7 @@ def get_mailing_list():
     "/{id}",
     response_description = "Delete from mailing list"
 )
-def delete_from_mailing_list(id: str):
+async def delete_from_mailing_list(id: str):
     delete_result = db["mailings"].delete_one({"_id": id})
 
     if delete_result.deleted_count == 1:

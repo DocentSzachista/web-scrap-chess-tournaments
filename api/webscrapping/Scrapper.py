@@ -1,6 +1,7 @@
 import requests
 import re
 from bs4 import BeautifulSoup
+
 class TournamentsScrapper:
     """
         utility class to retrieve data about chess tournaments from chess_arbiter and chess_manager websites 
@@ -12,17 +13,43 @@ class TournamentsScrapper:
             
             params:
             -------
-            - url (str) : link to the page with all options set
-            - name (str) : 
-        """
-        #TODO: Add support for multipages 
+            - url (str) :  link to the page with all options set
+            - name (str) : phrase that is checked if its contained in tournament's name category 
+        """        
+        # lets define some lambdas 
+        retrieve_website_body = lambda url : BeautifulSoup(
+            requests.get(url).content, 
+            'html.parser'
+        )
+        get_subpage = lambda page, element :  page.find(
+                        name=element, 
+                        attrs = {"class": "ui bottom attached fluid vertical menu"} 
+                        ).find_all(
+                            name="a", 
+                            attrs = {"class": "tournament item"}
+                        )
         element = "div"
-        page = requests.get(url)
-        soup = BeautifulSoup(page.content, 'html.parser')
+        soup = retrieve_website_body(url)
         tournament_list = []
-        div = soup.find(name=element, attrs = {"class": "ui bottom attached fluid vertical menu"} )
-        anchors = div.find_all(name="a", attrs = {"class": "tournament item"})
+        # try to find if we have multiple subpages for our given URL
+        # if yes we retrieve tournaments info from each  subpage 
+        offsets = soup.find(name = element, attrs = {"class" : "ui pagination menu"})
+        if offsets != None:
+            for link in offsets.descendants: # for safety measures 
+                if link.name == "a": 
+                    page = retrieve_website_body("https://www.chessmanager.com"+link["href"])
+                    anchors = get_subpage(page, element)                  
+                    tournament_list = tournament_list + TournamentsScrapper.webscrapp_subpage(anchors, name=name)
+        #otherwise we retrieve info from our main subpage
+        else:
+            anchors = get_subpage(soup, element=element )
+            tournament_list = TournamentsScrapper.webscrapp_subpage(anchors , name=name)
 
+        return tournament_list
+
+    @staticmethod
+    def webscrapp_subpage(anchors : BeautifulSoup, name : str | None = "")->list:
+        tournament_list = []
         for anchor in anchors :
             # Retrieve text and clean it from white signs and reformat so its easy to split up meaningfull data
             text = anchor.text    
@@ -41,11 +68,11 @@ class TournamentsScrapper:
             "country": country,
             "type_and_players": data[3].split(":")[0],  
             })
-
         return tournament_list
 
     @staticmethod
     def get_tournaments_chessarbiter(url)->list:
+        
         """
             Retrieve data from chessarbiter website 
         """
