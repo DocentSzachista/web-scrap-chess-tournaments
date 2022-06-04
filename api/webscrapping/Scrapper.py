@@ -11,10 +11,21 @@ class TournamentsScrapper:
         """
             Retrieve chess tournaments basic info from website with links leading to them
             
-            params:
             -------
+            params:
             - url (str) :  link to the page with all options set
             - name (str) : phrase that is checked if its contained in tournament's name category 
+        
+            -------
+            Returns
+            list of dictionaries having given fields:
+            - link (str) : link to the tournament subpage
+            - date (str) : date when tournament begins
+            - name (str) : name of the tournament
+            - city (str) : city of tournament where it takes place
+            - country (str) : country in which tournament takes place 
+            - type_and_players (str) : info about tournament tempo TODO: need to change that field for a more meaningfull one
+        
         """        
         # lets define some lambdas 
         retrieve_website_body = lambda url : BeautifulSoup(
@@ -49,6 +60,25 @@ class TournamentsScrapper:
 
     @staticmethod
     def webscrapp_subpage(anchors : BeautifulSoup, name : str | None = "")->list:
+        """
+            Retrieve tournament data from chessmanager subpage
+
+            ------
+            Params:
+            - anchors (BeatifulSoup) : anchor to another subpage
+            - name (str) default "" : name of tournament which we want to retrieve, 
+              if no name is given, then it retrieves all 
+
+            ------
+            Returns 
+            list of dictionaries from subpage having given fields:
+            - link (str) : link to the tournament subpage
+            - date (str) : date when tournament begins
+            - name (str) : name of the tournament
+            - city (str) : city of tournament where it takes place
+            - country (str) : country in which tournament takes place 
+            - type_and_players (str) : info about tournament tempo TODO: need to change that field for a more meaningfull one
+        """
         tournament_list = []
         for anchor in anchors :
             # Retrieve text and clean it from white signs and reformat so its easy to split up meaningfull data
@@ -74,7 +104,20 @@ class TournamentsScrapper:
     def get_tournaments_chessarbiter(url)->list:
         
         """
-            Retrieve data from chessarbiter website 
+            Retrieve chess tournaments basic info from website with links leading to them
+            
+            -------
+            Params:
+            - url (str) :  link to the page with all options set
+            
+            -------
+            Returns list of dictionaries having given fields:
+            - link (str) : link to the tournament subpage
+            - date (str) : date when tournament begins
+            - name (str) : name of the tournament
+            - city (str) : city of tournament where it takes place
+            - country (str) : country in which tournament takes place 
+            - type_and_players (str) : info about tournament tempo TODO: need to change that field for a more meaningfull one
         """
         element  = "table"
         page = requests.get(url)
@@ -84,7 +127,6 @@ class TournamentsScrapper:
 
         # retrieve all the tables with tournaments 
         tables = soup.find_all(name=element, attrs = {"style" : "tbl", "width" : "100%"})
-        #print(tables[0].prettify())
         # lets locate all the table rows containing data 
         for table in tables : 
             # aquiring columns 

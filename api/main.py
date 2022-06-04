@@ -1,14 +1,13 @@
-import json
 from mailing import send_email
 from webscrapping import URLConfigure, TournamentsScrapper
-
 from db_mongo import db, Data
 from typing import List
+import uvicorn
+import json
 from fastapi import FastAPI, status, HTTPException
 from fastapi.responses import JSONResponse
 from fastapi.encoders import jsonable_encoder
 from fastapi.middleware.cors import CORSMiddleware
-import uvicorn 
 from apscheduler.schedulers.background import BackgroundScheduler
 
 def dump_score_to_file(json_data, append = False)->None:
@@ -71,6 +70,9 @@ url_config = URLConfigure()
 
 @app.on_event("startup")
 def schedule_mail_sender():
+    """
+        Background scheduler that launches each 7 days function to send mails
+    """
     scheduler = BackgroundScheduler()
     scheduler.add_job( send_mails , "interval", days=7) 
     scheduler.start()
@@ -82,6 +84,9 @@ def data_retrieval_wrapper(
     tempo_option : str | None = "", 
     tournament_name : str | None =""
 )-> list:
+    """
+        function wrapper for filter and get requests
+    """
     chess_manager_link = url_config.retrieve_chess_manager_link(
         tournament_city=tournament_city, 
         country_state=country_state, 

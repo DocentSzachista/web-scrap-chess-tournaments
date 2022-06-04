@@ -52,14 +52,18 @@ class URLConfigure :
                     tempo_option = ""   
         ) -> str:
         """
-        Parameters
-        ==========
-            tournament_name (str) :, 
-            tournament_city (str):,
-            tournament_speed (str) : - option not implemented yet
-            tournament_status (str) : one of option written as string (ALL, FINISHED, ONGOING, PLANNED),
-            country_State (str) : polish shortcut of country state ex DS for "Lower Silesian State",
-            
+        
+        ----------
+        Params:
+           - tournament_name (str): name of tournament that we want to search for 
+           - tournament_city (str): city in order we want to filter
+           - tempo_option (str) :  option to choose between classic, blitz and rapid tournaments
+           - tournament_status (str) : one of option written as string (ALL, FINISHED, ONGOING, PLANNED),
+           - country_State (str) : polish shortcut of country state ex DS for "Lower Silesian State",
+        
+        ---------
+        Returns:
+           - url to the chess arbiter website 
         """
         chess_arbiter_params = {
             "nazwa": tournament_name,
@@ -73,7 +77,7 @@ class URLConfigure :
         chess_arbiter_data = urllib.parse.urlencode(chess_arbiter_params, safe=":+")
         link = urllib.parse.urljoin(self.CHESS_ARBITER_LINK, f"index.php?{chess_arbiter_data}")
         # Potrzebne uzycie unquota by zastapic wyrażenia %xx na jego odpowiednik w znaku  
-        return     urllib.parse.unquote(link)
+        return urllib.parse.unquote(link)
 
     def retrieve_chess_manager_link(self, 
                     tournament_city = "", 
@@ -85,7 +89,7 @@ class URLConfigure :
         ----------
         Params:
            - tournament_city (str):
-           - tempo_option (str) : - option to choose between classic, blitz and rapid tournaments
+           - tempo_option (str) :  option to choose between classic, blitz and rapid tournaments
            - tournament_status (str) : one of option written as string (ALL, FINISHED, ONGOING, PLANNED),
            - country_State (str) : polish shortcut of country state ex DS for "Lower Silesian State",
         ---------

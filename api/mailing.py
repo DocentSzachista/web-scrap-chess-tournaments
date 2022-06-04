@@ -8,19 +8,31 @@ import json
 def generate_table(data : list, fields : list)->PrettyTable: 
     """
         Create HTML table basing on given data 
+
+        -------
+        Params:
+        - data ( list(str) ): rows of data that we want to parse to table
+        - fields ( list ): column names
+
+        --------
+        Returns: PrettyTable object 
+
     """
     table  = PrettyTable(field_names=fields)
     for row in data :
         table.add_row(list(row.values()))
     return table
 
-def get_server_config_data(filename : str):
+def get_server_config_data(filename : str) ->dict:
     """
         Retrieve config data for smtp server (email, pwd, port)
-
         -------
         Parameters
-        - filename (str) : link to json file 
+        - filename (str): link to json file 
+        
+        -------
+        Returns
+        dict with smtp server configuration.
     """
     with open(filename, "r", encoding="utf-8") as file:
         return json.load(file)
@@ -65,6 +77,17 @@ def generate_header()->str:
     """
 
 def generate_html_body(table: str) ->str: 
+    """
+        Generate email's html body
+
+        ------
+        Params:
+        table (str): html table with data
+
+        ------
+        Returns:
+        - str : fully structurized HTML table
+    """
     return """
     <html>
          %s
@@ -81,6 +104,17 @@ def send_email(receiver_email : list, data : list, table_fields: list | None = [
 
     """
         Send email with tournaments info 
+
+        -------
+        Params:
+        - receiver_email (list):  list of emails that are to receive an email
+        - data (list): List of data to display in a table
+        - table_fields (list) :  coresponding columns labels for data, if none provided using default
+        - config_file (str) : path to smtp server config file, it must be in JSON format.
+
+        ------
+        Returns:
+          Nothing 
     """
 
     sender_data = get_server_config_data(config_file)
