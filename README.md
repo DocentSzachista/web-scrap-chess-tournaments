@@ -64,10 +64,41 @@ As intention of this script was just to automate my search for tournaments in my
 - What is tempo of that tournament?
 - Link to be able for signup
 
+# How to install it? 
 
-# Required packages
+1. Have installed at least python 3.10
+2. Create new virtual environment and install packages:
+  - **Windows** 
+```
+  python -m venv your_env_name
+``` 
+```
+  ./your_env_name/Scripts/activate
+```
+```
+  pip install -r /path/to/requirements.txt
+```
+  - **Linux**   
+```
+  python3 -m venv your_env_name
+``` 
+```
+  source ./your_env_name/bin/activate
+```
+```
+  pip3 install -r /path/to/requirements.txt
+```
+  3. Add ``smtpServer.json`` with configurations for smpt server to project directory. Example file contents:
+  ```
+{
+    "sender_email" : "example@gmail.com",
+    "password": "example",
+    "smtp_server": "smtp.gmail.com",
+    "port" : 123
+}
+  ```
 
-### Python 3.10 and libraries below:
+## requirements.txt content
 ```
 urlib 
 beatifulsoup
