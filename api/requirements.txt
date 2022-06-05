@@ -1,9 +1,10 @@
-urlib 
-beatifulsoup
+beautifulsoup4 
+APScheduler
+uvicorn
 requests
+urllib3
 fastapi
 prettytable
-mongoengine
 pymongo
-apscheduler
-"uvicorn[standard]"
+mongoengine
+email-validator
