@@ -89,6 +89,7 @@ As intention of this script was just to automate my search for tournaments in my
   pip3 install -r /path/to/requirements.txt
 ```
   3. Add ``smtpServer.json`` with configurations for smpt server to project directory. Example file contents:
+
   ```
 {
     "sender_email" : "example@gmail.com",
@@ -110,3 +111,5 @@ pymongo
 apscheduler
 "uvicorn[standard]"
 ```
+## Additional informations
+You need to use another provider than google, because they have turned off their support for using gmail as SMTP service (but changing to other mail domain will work as well) at 30.05.2022 year
