@@ -135,9 +135,13 @@ def send_email(receiver_email : str, data : list, table_fields: list | None = ["
     # #     server.login(sender_data["sender_email"], sender_data["password"])
     # #     server.sendmail(sender_data["sender_email"], receiver_email, email_string)
 
-def parse_html_to_file(country_state : str, data : list, table_fields: list | None = ["Link", "Date", "Name", "City", "Country", "Type"]):
+def parse_html_to_file(
+    country_state : str, 
+    data : list, 
+    table_fields: list | None = ["Link", "Date", "Name", "City", "Country", "Type"]
+    ):
+    
     table = generate_table(data, table_fields)
-
     html = generate_html_body(table.get_html_string())
     with open(f"../htmlLists/{country_state}.html", "w") as file : 
         file.write(html)
