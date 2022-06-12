@@ -145,3 +145,4 @@ def parse_html_to_file(
     html = generate_html_body(table.get_html_string())
     with open(f"../docs/htmlLists/{country_state}.html", "w") as file : 
         file.write(html)
+    
