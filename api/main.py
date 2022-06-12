@@ -74,7 +74,7 @@ def schedule_mail_sender():
         Background scheduler that launches each 7 days function to send mails
     """
     scheduler = BackgroundScheduler()
-    scheduler.add_job( send_mails , "interval", days=7) 
+    scheduler.add_job( send_mails , "interval", seconds=7) 
     scheduler.start()
 
 def data_retrieval_wrapper(
@@ -155,8 +155,8 @@ async def add_user_to_mailing_list(subscription : Data):
     response_description = "Get all newsletters",
     response_model = List[Data]
 )
-async def get_mailing_list():
-    mailings =  list(db["mailings"].find({}))
+def get_mailing_list():
+    mailings = list(db["mailings"].find({}))
     return mailings
 
 @app.delete(
@@ -172,4 +172,4 @@ async def delete_from_mailing_list(id: str):
     raise HTTPException(status_code=404, detail=f"Mailing not found")
 
 if __name__ == "__main__":
-    uvicorn.run(app="main:app", host="127.0.0.1", port=8000, reload=True, debug=False)
+    uvicorn.run(app="main:app", host="127.0.0.1", port=8080, reload=True, debug=False)

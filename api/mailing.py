@@ -23,7 +23,7 @@ def generate_table(data : list, fields : list)->PrettyTable:
         table.add_row(list(row.values()))
     return table
 
-def get_server_config_data(filename : str) ->dict:
+def get_json_data(filename : str) ->dict:
     """
         Retrieve config data for smtp server (email, pwd, port)
         -------
@@ -100,7 +100,7 @@ def generate_html_body(table: str) ->str:
     </html>
     """ % (generate_header(), table)
 
-def send_email(receiver_email : list, data : list, table_fields: list | None = ["Link", "Date", "Name", "City", "Country", "Type"],  config_file: str | None = "smtpServer.json", ):
+def send_email(receiver_email : str, data : list, table_fields: list | None = ["Link", "Date", "Name", "City", "Country", "Type"],  config_file: str | None = "smtpServer.json", ):
 
     """
         Send email with tournaments info 
@@ -117,17 +117,27 @@ def send_email(receiver_email : list, data : list, table_fields: list | None = [
           Nothing 
     """
 
-    sender_data = get_server_config_data(config_file)
+    sender_data = get_json_data(config_file)
     table = generate_table(data, table_fields)
 
     html = generate_html_body(table.get_html_string())
-    email_html_message = MIMEMultipart()
-    email_html_message["From"] = sender_data["sender_email"]
-    email_html_message["to"] = "".join(receiver_email)
-    email_html_message["Subject"] = "Chess tournaments newsletter"
-    email_html_message.attach(MIMEText(html, "html"))
-    email_string = email_html_message.as_string()
-    context = ssl.create_default_context()
-    with smtplib.SMTP_SSL(sender_data["smtp_server"], sender_data["port"], context=context) as server:
-        server.login(sender_data["sender_email"], sender_data["password"])
-        server.sendmail(sender_data["sender_email"], receiver_email, email_string)
+    with open(f"../htmlLists/{receiver_email}.html", "w") as file : 
+        file.write(html)
+
+    # email_html_message = MIMEMultipart()
+    # email_html_message["From"] = sender_data["sender_email"]
+    # email_html_message["to"] = "".join(receiver_email)
+    # email_html_message["Subject"] = "Chess tournaments newsletter"
+    # email_html_message.attach(MIMEText(html, "html"))
+    # email_string = email_html_message.as_string()
+    # # context = ssl.create_default_context()
+    # # with smtplib.SMTP_SSL(sender_data["smtp_server"], sender_data["port"], context=context) as server:
+    # #     server.login(sender_data["sender_email"], sender_data["password"])
+    # #     server.sendmail(sender_data["sender_email"], receiver_email, email_string)
+
+def parse_html_to_file(country_state : str, data : list, table_fields: list | None = ["Link", "Date", "Name", "City", "Country", "Type"]):
+    table = generate_table(data, table_fields)
+
+    html = generate_html_body(table.get_html_string())
+    with open(f"../htmlLists/{country_state}.html", "w") as file : 
+        file.write(html)
