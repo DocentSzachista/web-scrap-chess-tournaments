@@ -1,8 +1,10 @@
 from mailing import parse_html_to_file , get_json_data
 from webscrapping import URLConfigure, TournamentsScrapper
 from main import data_retrieval_wrapper
+import datetime
 import subprocess
-if __name__ == "__main__":
+
+def update_repository():
     config = get_json_data("userPreferences.json")
     
     for parameter in config:
@@ -15,4 +17,9 @@ if __name__ == "__main__":
             tournament_name = parameter["tournament_name"]
         )
         parse_html_to_file(parameter["country_state"], retrieved_data)
-    subprocess.run(["git", "add", "."])
+    subprocess.run(["git", "add", "../docs"])
+    subprocess.run(["git", "commit", "-m" f'"Tournaments update {datetime.today()}"'])
+    subprocess.run(["git", "push"])
+
+if __name__ == "__main__":
+    update_repository()
