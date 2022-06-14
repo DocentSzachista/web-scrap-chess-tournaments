@@ -143,6 +143,6 @@ def parse_html_to_file(
     
     table = generate_table(data, table_fields)
     html = generate_html_body(table.get_html_string())
-    with open(f"../docs/htmlLists/{country_state}.html", "w") as file : 
+    with open(f"../docs/htmlLists/{country_state}.html", "w", encoding="UTF-8") as file : 
         file.write(html)
     
