@@ -1,10 +1,11 @@
 from mailing import parse_html_to_file , get_json_data
 from webscrapping import URLConfigure, TournamentsScrapper
 from main import data_retrieval_wrapper
-import datetime
+from datetime import date, datetime
 import subprocess
 
 def update_repository():
+
     config = get_json_data("userPreferences.json")
     
     for parameter in config:
@@ -23,3 +24,4 @@ def update_repository():
 
 if __name__ == "__main__":
     update_repository()
+
