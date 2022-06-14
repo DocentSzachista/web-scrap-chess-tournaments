@@ -1,209 +1,244 @@
 
-    <html>
-         
+        <html>
+            
         <head>
-            <style>
-            table {
-                border-collapse: collapse;
-                margin: 25px 0;
-                font-size: 0.9em;
-                font-family: sans-serif;
-                min-width: 400px;
-                box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
-            }
-            table thead tr {
-                background-color: #009879;
-                color: #ffffff;
-                text-align: left;
-            }
-            table th,
-            table td {
-                padding: 12px 15px;
-            }
-            table tbody tr {
-                border-bottom: 1px solid #dddddd;
-            }
-
-            table tbody tr:nth-of-type(even) {
-                background-color: #f3f3f3;
-            }
-
-            table tbody tr:last-of-type {
-                border-bottom: 2px solid #009879;
-            }
-        </style>
-    </head>
+            <link rel="stylesheet" href="../docs/table_styles.css">
+        </head>
     
-        <body> 
-            <div>
-                <h3>Here is your data about tournaments</h3> 
-                <table>
-    <thead>
-        <tr>
-            <th>Link</th>
-            <th>Date</th>
-            <th>Name</th>
-            <th>City</th>
-            <th>Country</th>
-            <th>Type</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td> https://www.chessmanager.com/pl/tournaments/6245523481690112</td>
-            <td>15.06.2022</td>
-            <td>Mistrzostwa Szkoly Podstawowej Towarzystwa Salezjanskiego w Koninie</td>
-            <td>Konin</td>
-            <td>Polska</td>
-            <td>Szybkie</td>
-        </tr>
-        <tr>
-            <td> https://www.chessmanager.com/pl/tournaments/4803235723345920</td>
-            <td>15.06.2022</td>
-            <td>Pomysł GrandPrix #8.4</td>
-            <td>Poznan</td>
-            <td>Polska</td>
-            <td>Błyskawiczne</td>
-        </tr>
-        <tr>
-            <td> https://www.chessmanager.com/pl/tournaments/6522281149857792</td>
-            <td>15.06.2022</td>
-            <td>Turniej Szachowy Klas Drugich 2022</td>
-            <td>Poznań</td>
-            <td>Polska</td>
-            <td>Błyskawiczne</td>
-        </tr>
-        <tr>
-            <td> https://www.chessmanager.com/pl/tournaments/6646398993825792</td>
-            <td>21.06.2022</td>
-            <td>ZŁOTOWSKA LIGA SZACHOWA - runda 14</td>
-            <td>Złotów</td>
-            <td>Polska</td>
-            <td>Szybkie</td>
-        </tr>
-        <tr>
-            <td> https://www.chessmanager.com/pl/tournaments/6540860574400512</td>
-            <td>25.06.2022</td>
-            <td>Gorzycki Festiwal Szachowy&#x27;2022 -  konkurs rozw.zadań szachowych</td>
-            <td>Gorzyce Wielkie</td>
-            <td>Polska</td>
-            <td>Szybkie</td>
-        </tr>
-        <tr>
-            <td> https://www.chessmanager.com/pl/tournaments/5634187634671616</td>
-            <td>25.06.2022</td>
-            <td>Gorzycki Festiwal Szachowy&#x27;2022 - Młode Talenty gr. A (2006-2008)</td>
-            <td>Gorzyce Wielkie</td>
-            <td>Polska</td>
-            <td>Szybkie</td>
-        </tr>
-        <tr>
-            <td> https://www.chessmanager.com/pl/tournaments/5958431065243648</td>
-            <td>25.06.2022</td>
-            <td>Gorzycki Festiwal Szachowy&#x27;2022 - Młode Talenty gr. B (2009-2011)</td>
-            <td>Gorzyce Wielkie</td>
-            <td>Polska</td>
-            <td>Szybkie</td>
-        </tr>
-        <tr>
-            <td> https://www.chessmanager.com/pl/tournaments/5777102000357376</td>
-            <td>25.06.2022</td>
-            <td>Gorzycki Festiwal Szachowy&#x27;2022 - Młode Talenty gr. C (2012-2014)</td>
-            <td>Gorzyce Wielkie</td>
-            <td>Polska</td>
-            <td>Szybkie</td>
-        </tr>
-        <tr>
-            <td> https://www.chessmanager.com/pl/tournaments/6390427088322560</td>
-            <td>25.06.2022</td>
-            <td>Gorzycki Festiwal Szachowy&#x27;2022 - Młode Talenty gr. Przedszkolaków (ur. 2015 i później)</td>
-            <td>Gorzyce Wielkie</td>
-            <td>Polska</td>
-            <td>Szybkie</td>
-        </tr>
-        <tr>
-            <td> https://www.chessmanager.com/pl/tournaments/5657170273107968</td>
-            <td>25.06.2022</td>
-            <td>Gorzycki Festiwal Szachowy&#x27;2022 - konkurs wiedzy o szachach</td>
-            <td>Gorzyce Wielkie</td>
-            <td>Polska</td>
-            <td>Szybkie</td>
-        </tr>
-        <tr>
-            <td> https://www.chessmanager.com/pl/tournaments/6092648415756288</td>
-            <td>25.06.2022</td>
-            <td>Gorzycki Festiwal Szachowy&#x27;2022 - turniej błyskawiczny</td>
-            <td>Gorzyce Wielkie</td>
-            <td>Polska</td>
-            <td>Błyskawiczne</td>
-        </tr>
-        <tr>
-            <td> https://www.chessmanager.com/pl/tournaments/5483553442758656</td>
-            <td>26.06.2022</td>
-            <td>Gorzycki Festiwal Szachowy&#x27;2022 - turniej główny - III turniej z cyklu GP Wielkopolski w szachach szybkich</td>
-            <td>Gorzyce Wielkie</td>
-            <td>Polska</td>
-            <td>Szybkie</td>
-        </tr>
-        <tr>
-            <td> https://www.chessmanager.com/pl/tournaments/5736564865892352</td>
-            <td>17.09.2022</td>
-            <td>Lwiątka na Szachownicy grupa A - edycja 2</td>
-            <td>Tarnowo Podgórne</td>
-            <td>Polska</td>
-            <td>Szybkie</td>
-        </tr>
-        <tr>
-            <td> https://www.chessmanager.com/pl/tournaments/5116492484968448</td>
-            <td>17.09.2022</td>
-            <td>Lwiątka na Szachownicy grupa B - edycja 2</td>
-            <td>Tarnowo Podgórne</td>
-            <td>Polska</td>
-            <td>Szybkie</td>
-        </tr>
-        <tr>
-            <td> https://www.chessmanager.com/pl/tournaments/6267424367181824</td>
-            <td>03.05.2023</td>
-            <td>XXV PITS-Wapno-2023 A</td>
-            <td>Wapno</td>
-            <td>Polska</td>
-            <td>Szybkie</td>
-        </tr>
-        <tr>
-            <td> https://www.chessmanager.com/pl/tournaments/5917756886089728</td>
-            <td>03.05.2023</td>
-            <td>XXV PITS-Wapno-2023 B [niezgłoszony do FIDE]</td>
-            <td>Wapno</td>
-            <td>Polska</td>
-            <td>Szybkie</td>
-        </tr>
-        <tr>
-            <td>http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3041&amp;n=</td>
-            <td>03-07</td>
-            <td>Ślesiński Festiwal Szachowy - Turniej Indywidualny *** Pula nagród 7000zł ***</td>
-            <td>Ślesin</td>
-            <td>Poland</td>
-            <td>WP szybkie</td>
-        </tr>
-        <tr>
-            <td>http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3456&amp;n=</td>
-            <td>08-07</td>
-            <td>Festiwal Szachwy z okazji 100-lecia Klubu Sportowego Lech Poznań</td>
-            <td>Poznań</td>
-            <td>Poland</td>
-            <td>WP klasyczne</td>
-        </tr>
-        <tr>
-            <td>http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3381&amp;n=</td>
-            <td>10-07</td>
-            <td>XXIV Turniej o puchar Prezesa SM Tęcza w Turku</td>
-            <td>Turek</td>
-            <td>Poland</td>
-            <td>WP szybkie</td>
-        </tr>
-    </tbody>
-</table>
-            </div>
-        </body>
-    </html>
+            
+    <body>
+        <table> 
+            <thead> 
+                <tr> 
+					<th>Link</th>
+					<th>Date</th>
+					<th>Name</th>
+					<th>City</th>
+					<th>Country</th>
+					<th>Type</th> 
+ 				</tr>
+            </thead>
+            <tbody>
+                
+            <tr>
+              <td><a href=" https://www.chessmanager.com/pl/tournaments/6245523481690112" > Link </a></td>
+              <td>15.06.2022</td>
+              <td>Mistrzostwa Szkoly Podstawowej Towarzystwa Salezjanskiego w Koninie</td>
+              <td>Konin</td>
+              <td>Polska</td>
+              <td>Szybkie</td>
+            </tr>
+            
+            <tr>
+              <td><a href=" https://www.chessmanager.com/pl/tournaments/4803235723345920" > Link </a></td>
+              <td>15.06.2022</td>
+              <td>Pomysł GrandPrix #8.4</td>
+              <td>Poznan</td>
+              <td>Polska</td>
+              <td>Błyskawiczne</td>
+            </tr>
+            
+            <tr>
+              <td><a href=" https://www.chessmanager.com/pl/tournaments/6522281149857792" > Link </a></td>
+              <td>15.06.2022</td>
+              <td>Turniej Szachowy Klas Drugich 2022</td>
+              <td>Poznań</td>
+              <td>Polska</td>
+              <td>Błyskawiczne</td>
+            </tr>
+            
+            <tr>
+              <td><a href=" https://www.chessmanager.com/pl/tournaments/6646398993825792" > Link </a></td>
+              <td>21.06.2022</td>
+              <td>ZŁOTOWSKA LIGA SZACHOWA - runda 14</td>
+              <td>Złotów</td>
+              <td>Polska</td>
+              <td>Szybkie</td>
+            </tr>
+            
+            <tr>
+              <td><a href=" https://www.chessmanager.com/pl/tournaments/6540860574400512" > Link </a></td>
+              <td>25.06.2022</td>
+              <td>Gorzycki Festiwal Szachowy'2022 -  konkurs rozw.zadań szachowych</td>
+              <td>Gorzyce Wielkie</td>
+              <td>Polska</td>
+              <td>Szybkie</td>
+            </tr>
+            
+            <tr>
+              <td><a href=" https://www.chessmanager.com/pl/tournaments/5634187634671616" > Link </a></td>
+              <td>25.06.2022</td>
+              <td>Gorzycki Festiwal Szachowy'2022 - Młode Talenty gr. A (2006-2008)</td>
+              <td>Gorzyce Wielkie</td>
+              <td>Polska</td>
+              <td>Szybkie</td>
+            </tr>
+            
+            <tr>
+              <td><a href=" https://www.chessmanager.com/pl/tournaments/5958431065243648" > Link </a></td>
+              <td>25.06.2022</td>
+              <td>Gorzycki Festiwal Szachowy'2022 - Młode Talenty gr. B (2009-2011)</td>
+              <td>Gorzyce Wielkie</td>
+              <td>Polska</td>
+              <td>Szybkie</td>
+            </tr>
+            
+            <tr>
+              <td><a href=" https://www.chessmanager.com/pl/tournaments/5777102000357376" > Link </a></td>
+              <td>25.06.2022</td>
+              <td>Gorzycki Festiwal Szachowy'2022 - Młode Talenty gr. C (2012-2014)</td>
+              <td>Gorzyce Wielkie</td>
+              <td>Polska</td>
+              <td>Szybkie</td>
+            </tr>
+            
+            <tr>
+              <td><a href=" https://www.chessmanager.com/pl/tournaments/6390427088322560" > Link </a></td>
+              <td>25.06.2022</td>
+              <td>Gorzycki Festiwal Szachowy'2022 - Młode Talenty gr. Przedszkolaków (ur. 2015 i później)</td>
+              <td>Gorzyce Wielkie</td>
+              <td>Polska</td>
+              <td>Szybkie</td>
+            </tr>
+            
+            <tr>
+              <td><a href=" https://www.chessmanager.com/pl/tournaments/5657170273107968" > Link </a></td>
+              <td>25.06.2022</td>
+              <td>Gorzycki Festiwal Szachowy'2022 - konkurs wiedzy o szachach</td>
+              <td>Gorzyce Wielkie</td>
+              <td>Polska</td>
+              <td>Szybkie</td>
+            </tr>
+            
+            <tr>
+              <td><a href=" https://www.chessmanager.com/pl/tournaments/6092648415756288" > Link </a></td>
+              <td>25.06.2022</td>
+              <td>Gorzycki Festiwal Szachowy'2022 - turniej błyskawiczny</td>
+              <td>Gorzyce Wielkie</td>
+              <td>Polska</td>
+              <td>Błyskawiczne</td>
+            </tr>
+            
+            <tr>
+              <td><a href=" https://www.chessmanager.com/pl/tournaments/5483553442758656" > Link </a></td>
+              <td>26.06.2022</td>
+              <td>Gorzycki Festiwal Szachowy'2022 - turniej główny - III turniej z cyklu GP Wielkopolski w szachach szybkich</td>
+              <td>Gorzyce Wielkie</td>
+              <td>Polska</td>
+              <td>Szybkie</td>
+            </tr>
+            
+            <tr>
+              <td><a href=" https://www.chessmanager.com/pl/tournaments/5736564865892352" > Link </a></td>
+              <td>17.09.2022</td>
+              <td>Lwiątka na Szachownicy grupa A - edycja 2</td>
+              <td>Tarnowo Podgórne</td>
+              <td>Polska</td>
+              <td>Szybkie</td>
+            </tr>
+            
+            <tr>
+              <td><a href=" https://www.chessmanager.com/pl/tournaments/5116492484968448" > Link </a></td>
+              <td>17.09.2022</td>
+              <td>Lwiątka na Szachownicy grupa B - edycja 2</td>
+              <td>Tarnowo Podgórne</td>
+              <td>Polska</td>
+              <td>Szybkie</td>
+            </tr>
+            
+            <tr>
+              <td><a href=" https://www.chessmanager.com/pl/tournaments/6267424367181824" > Link </a></td>
+              <td>03.05.2023</td>
+              <td>XXV PITS-Wapno-2023 A</td>
+              <td>Wapno</td>
+              <td>Polska</td>
+              <td>Szybkie</td>
+            </tr>
+            
+            <tr>
+              <td><a href=" https://www.chessmanager.com/pl/tournaments/5917756886089728" > Link </a></td>
+              <td>03.05.2023</td>
+              <td>XXV PITS-Wapno-2023 B [niezgłoszony do FIDE]</td>
+              <td>Wapno</td>
+              <td>Polska</td>
+              <td>Szybkie</td>
+            </tr>
+            
+            <tr>
+              <td><a href="http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3382&n=" > Link </a></td>
+              <td>23-06</td>
+              <td>Turniej ODK Wiktoria</td>
+              <td>Poznań</td>
+              <td>Poland</td>
+              <td>WP blitz</td>
+            </tr>
+            
+            <tr>
+              <td><a href="http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3121&n=" > Link </a></td>
+              <td>25-06</td>
+              <td>Turniej szachowy o Puchar FAMOT Pleszew</td>
+              <td>Pleszew</td>
+              <td>Poland</td>
+              <td>WP szybkie</td>
+            </tr>
+            
+            <tr>
+              <td><a href="http://www.chessarbiter.com/turnieje/open.php?turn=2022/tdr_3040&n=" > Link </a></td>
+              <td>03-07</td>
+              <td>Ślesiński Festiwal Szachowy - Turniej Drużynowy *** Pula nagród 7000zł ***</td>
+              <td>Ślesin</td>
+              <td>Poland</td>
+              <td> szybkie</td>
+            </tr>
+            
+            <tr>
+              <td><a href="http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3456&n=" > Link </a></td>
+              <td>08-07</td>
+              <td>Festiwal Szachwy z okazji 100-lecia Klubu Sportowego Lech Poznań</td>
+              <td>Poznań</td>
+              <td>Poland</td>
+              <td>WP klasyczne</td>
+            </tr>
+            
+            <tr>
+              <td><a href="http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_198&n=" > Link </a></td>
+              <td>18-06</td>
+              <td>10. turniej GP LECH-WSUS </td>
+              <td>Poznań</td>
+              <td>Poland</td>
+              <td>WP blitz</td>
+            </tr>
+            
+            <tr>
+              <td><a href="http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2804&n=" > Link </a></td>
+              <td>25-06</td>
+              <td>DO WIDZENIA SZKOŁO - WITAJ LATO</td>
+              <td>Luboń</td>
+              <td>Poland</td>
+              <td>WP szybkie</td>
+            </tr>
+            
+            <tr>
+              <td><a href="http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3041&n=" > Link </a></td>
+              <td>03-07</td>
+              <td>Ślesiński Festiwal Szachowy - Turniej Indywidualny *** Pula nagród 7000zł ***</td>
+              <td>Ślesin</td>
+              <td>Poland</td>
+              <td>WP szybkie</td>
+            </tr>
+            
+            <tr>
+              <td><a href="http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3381&n=" > Link </a></td>
+              <td>10-07</td>
+              <td>XXIV Turniej o puchar Prezesa SM Tęcza w Turku</td>
+              <td>Turek</td>
+              <td>Poland</td>
+              <td>WP szybkie</td>
+            </tr>
+            
+            </tbody>
+        </table>
+    </body>
+     
+        </html>
     
