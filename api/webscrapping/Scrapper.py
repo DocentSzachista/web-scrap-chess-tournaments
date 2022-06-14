@@ -119,38 +119,40 @@ class TournamentsScrapper:
             - country (str) : country in which tournament takes place 
             - type_and_players (str) : info about tournament tempo TODO: need to change that field for a more meaningfull one
         """
-        element  = "table"
+        def retrieve_rows(table_rows):
+            tournament_list = []
+            for i in range(0, len(table_rows)): # we iterate from one to ignore edge case when our first row is a table header
+                    table_data = table_rows[i].find_all(name="td")    
+                    try: # neuragical part of code 
+                        link =  table_data[1].find("a")
+                        name, city = table_data[1].text.split("\n")
+                        third_column =  table_data[2].text.split(",")
+                        country = third_column[0] 
+                        if len(third_column) == 3:
+                            chess_type = third_column[2]
+                        else:
+                            chess_type = third_column[1]
+                        tournament_list.append({
+                            "link" : link["href"],
+                            "date" : re.findall( "[0-9\-]+" ,table_data[0].text )[0],
+                            "name" : re.sub("\xa0", "", name),
+                            "city" : city.split(" ")[0],
+                            "country" : country,
+                            "type_and_players" : chess_type 
+                        })
+                    except:
+                        print("Something propably has gone wrong with aquiring columns")
+            return tournament_list
+        element  = "tr"
         page = requests.get(url)
         page = page.content
         soup = BeautifulSoup(page.decode("utf-8", "ignore"), 'html.parser')
-        tournament_list = []
-
+        
+        
         # retrieve all the tables with tournaments 
-        tables = soup.find_all(name=element, attrs = {"style" : "tbl", "width" : "100%"})
-        # lets locate all the table rows containing data 
-        for table in tables : 
-            # aquiring columns 
-            table_rows = table.find_all(name="tr")
-            for i in range(1, len(table_rows)): # we iterate from one to ignore edge case when our first row is a table header
-                table_data = table_rows[i].find_all(name="td")    
-                try: # neuragical part of code 
-                    link =  table_data[1].find("a")
-                    name, city = table_data[1].text.split("\n")
-                    third_column =  table_data[2].text.split(",")
-                    country = third_column[0] 
-                    if len(third_column) == 3:
-                        chess_type = third_column[2]
-                    else:
-                        chess_type = third_column[1]
-                    tournament_list.append({
-                        "link" : link["href"],
-                        "date" : re.findall( "[0-9\-]+" ,table_data[0].text )[0],
-                        "name" : re.sub("\xa0", "", name),
-                        "city" : city.split(" ")[0],
-                        "country" : country,
-                        "type_and_players" : chess_type 
-                    })
-                except:
-                    print("Something propably has gone wrong with aquiring columns")
-        return tournament_list
+        table_rows_1 = soup.find_all(name=element, attrs = {"class" : "tbl1"})
+        table_rows_2 = soup.find_all(name=element, attrs = {"class" : "tbl2"})
+
+        return retrieve_rows(table_rows_1) + retrieve_rows(table_rows_2)
+        
     
