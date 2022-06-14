@@ -1,10 +1,11 @@
 table {
     border-collapse: collapse;
-    margin: 25px 0;
     font-size: 0.9em;
     font-family: sans-serif;
     min-width: 400px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    margin: 0 auto;
+    margin-top: 1rem;
 }
 table thead tr {
     background-color: #009879;
@@ -13,16 +14,22 @@ table thead tr {
 }
 table th,
 table td {
-    padding: 12px 15px;
+    padding: 0.7rem 1rem;
 }
 table tbody tr {
     border-bottom: 1px solid #dddddd;
+    background-color: hsl(0, 0%, 85%);
 }
 
 table tbody tr:nth-of-type(even) {
-    background-color: #f3f3f3;
+    filter: brightness(110%)
 }
 
 table tbody tr:last-of-type {
     border-bottom: 2px solid #009879;
 }
+
+table tbody tr:hover {
+    filter: brightness(80%)
+}
+
