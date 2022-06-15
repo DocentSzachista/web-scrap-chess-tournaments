@@ -141,7 +141,10 @@ class TournamentsScrapper:
                             "type_and_players" : chess_type 
                         })
                     except:
+                        # print(table_data)
                         print("Something propably has gone wrong with aquiring columns")
+                        
+            print(f" chessarbiter {len(tournament_list)}")
             return tournament_list
         element  = "tr"
         page = requests.get(url)

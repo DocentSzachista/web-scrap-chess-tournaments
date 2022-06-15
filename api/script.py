@@ -1,4 +1,6 @@
-from mailing import parse_html_to_file , get_json_data
+
+from mailing import get_json_data
+from html_creation.html_page_creator import parse_html_to_file
 from webscrapping import URLConfigure, TournamentsScrapper
 from main import data_retrieval_wrapper
 from datetime import date, datetime
@@ -17,7 +19,7 @@ def update_repository():
             tempo_option = parameter["tournament_tempo"],
             tournament_name = parameter["tournament_name"]
         )
-        parse_html_to_file(parameter["country_state"], retrieved_data)
+        parse_html_to_file(parameter["country_state"], retrieved_data, style_link='<link rel="stylesheet" href="../table_styles.css">')
     subprocess.run(["git", "add", "../docs"])
     subprocess.run(["git", "commit", "-m" f'"Tournaments update {datetime.today()}"'])
     subprocess.run(["git", "push"])
