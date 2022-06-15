@@ -2,7 +2,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/DocentSzachista/web-scrap-chess-tournaments)](https://github.com/DocentSzachista/web-scrap-chess-tournaments/network)
 [![GitHub stars](https://img.shields.io/github/stars/DocentSzachista/web-scrap-chess-tournaments)](https://github.com/DocentSzachista/web-scrap-chess-tournaments/stargazers)
 [![GitHub license](https://img.shields.io/github/license/DocentSzachista/web-scrap-chess-tournaments)](https://github.com/DocentSzachista/web-scrap-chess-tournaments/blob/master/LICENSE)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/fastapi)
+![PyPI - Python Version](https://img.shields.io/badge/python-3.10-blue)
 
 # Chess tournaments webscrapper
 
