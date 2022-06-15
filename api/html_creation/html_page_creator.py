@@ -49,7 +49,7 @@ def parse_html_to_file(
     country_state : str, 
     data : list, 
     style_link : str | None = None, 
-    table_fields: list | None = ["Link", "Date", "Name", "City", "Country", "Type"]
+    table_fields: list | None = ["Date", "Name", "City", "Country", "Type"]
     ):
     
     header = generate_html_header(style_link) 
