@@ -18,23 +18,6 @@ def dump_score_to_file(json_data, append = False)->None:
         ----------
         chess_base (dict) : tournament base to be saved 
     """
-    def check_if_exists(database, value):
-        for elem in database:
-            if value in elem.values():
-                return True
-        return False
-
-    # with open("data.json", "r", encoding="utf-8") as file:
-    #     try: 
-    #         old_content = json.load(file)
-    #         file.close()
-    #         for chess_element in chess_base["tournaments"]: 
-    #             if not check_if_exists(old_content["tournaments"], chess_element["name"]):
-    #                 new_content["tournaments"].append(chess_element)
-    #         dupa_zmienna["tournaments"] =dupa_zmienna["tournaments"] + new_content
-    #     except:
-    #         print("No content")
-    #     finally:    
     with open("Data.json".format(1), "w", encoding="utf-8") as file: 
         json.dump(json_data, file, ensure_ascii=False, indent=3)
         file.close()
@@ -82,7 +65,8 @@ def data_retrieval_wrapper(
     country_state : str | None = "", 
     tournament_status : str | None = "PLANNED",
     tempo_option : str | None = "", 
-    tournament_name : str | None =""
+    tournament_name : str | None ="",
+    divided = False
 )-> list:
     """
         function wrapper for filter and get requests
@@ -102,7 +86,7 @@ def data_retrieval_wrapper(
         )
     chess_arbiter =  TournamentsScrapper.get_tournaments_chessarbiter(chess_arbiter_link)
     chess_manager = TournamentsScrapper.get_tournaments_chessmanager(chess_manager_link, name=tournament_name)
-    return  chess_manager +  chess_arbiter
+    return  chess_manager +  chess_arbiter if not divided else {"chessarbiter" : chess_arbiter, "chessManager": chess_manager}
 
 @app.get(
     "/", 

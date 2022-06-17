@@ -1,7 +1,7 @@
 import requests
 import re
 from bs4 import BeautifulSoup
-
+from datetime import datetime
 class TournamentsScrapper:
     """
         utility class to retrieve data about chess tournaments from chess_arbiter and chess_manager websites 
@@ -119,6 +119,10 @@ class TournamentsScrapper:
             - country (str) : country in which tournament takes place 
             - type_and_players (str) : info about tournament tempo TODO: need to change that field for a more meaningfull one
         """
+        def format_date(date: str )->str:
+            curDT = datetime.now()
+            new = curDT.strptime(date, "%d-%m")
+            return f"{new.day:02d}.{new.month:02d}.{curDT.year}"
         def retrieve_rows(table_rows):
             tournament_list = []
             for i in range(0, len(table_rows)): # we iterate from one to ignore edge case when our first row is a table header
@@ -134,7 +138,7 @@ class TournamentsScrapper:
                             chess_type = third_column[1]
                         tournament_list.append({
                             "link" : link["href"],
-                            "date" : re.findall( "[0-9\-]+" ,table_data[0].text )[0],
+                            "date" : format_date(re.findall( "[0-9\-]+" ,table_data[0].text )[0]),
                             "name" : re.sub("\xa0", "", name),
                             "city" : city.split(" ")[0],
                             "country" : country,
@@ -143,6 +147,7 @@ class TournamentsScrapper:
                     except:
                         print("Something propably has gone wrong with aquiring columns")
             return tournament_list
+       
         element  = "tr"
         page = requests.get(url)
         page = page.content
