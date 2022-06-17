@@ -6,6 +6,9 @@ body{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    
 }
+.custom-list-element{
+    cursor: pointer ;
+}
 .mainContent{
     margin: auto;
     width: 59vw;
@@ -34,3 +37,4 @@ body{
         font-size: 2vw;
     }
 }
+
