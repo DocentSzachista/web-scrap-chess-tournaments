@@ -1,19 +1,48 @@
 a {
     font-weight: bold;
 }
+
 body{
     background-color: grey;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-   
 }
+
 .custom-list-element{
     cursor: pointer ;
 }
+
 .mainContent{
     margin: auto;
     width: 59vw;
     height: 100%;
 }
+#checkboxes{
+    display: inline-block;
+    font-size: 1em;
+}
+.website-checkbox{
+    visibility:hidden;
+}
+.my-btn-border{
+    text-align: center;
+    display: block;
+    padding: 0.2em 0.3em ;
+    border: 2px solid white ;
+    border-radius: 10px;
+}
+
+.my-btn {
+    background-color: white;
+}
+span {
+    padding-right: 10px;
+}
+.my-btn-checked, .my-btn:hover {
+    background-color: rgb(146, 167, 167);
+    cursor: pointer;
+}
+
+
 @media (max-width: 960px) {
     h1 {
         font-size: 3vh;

@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="./style.css"/>
     <meta charset="UTF-8">
   </head>
-  <body>
+  <body onload="addListeners()">
     <main>
       <div class="d-flex flex-column justify-content-center align-items-center mainContent">
         <div class="text-center">
@@ -15,11 +15,20 @@
           <p>
             Zaznacz z których stron chcesz zobaczyć dane  
           </p>
-          <input type="checkbox" name="tournamentWebsite" value="chessarbiter" id="chessarbiter" />
-          <label for="chessarbiter"> ChessArbiter </label>
-          
-          <input type="checkbox" name="tournamentWebsite" value="chessManager" id="chessManager" />
-          <label for="chessManager"> ChessManager </label>
+          <div id="checkboxes">
+            <div>
+              <label class="my-btn my-btn-border">
+              <input class="website-checkbox" type="checkbox" name="tournamentWebsite" value="chessarbiter" id="chessarbiter"/>
+              <span>ChessArbiter</span> 
+              </label>
+            </div>
+            <div>
+              <label class="my-btn my-btn-border">
+              <input class="website-checkbox" type="checkbox" name="tournamentWebsite" value="chessManager" id="chessManager" />
+              <span>ChessManager</span> 
+              </label>
+            </div>
+          </div>
           <div class="list-group">          
                 <div class="list-group-item list-group-item-action custom-list-element" onclick="goToTable('DS')"> Dolnyśląsk</div> 
                 <div class="list-group-item list-group-item-action custom-list-element" onclick="goToTable('LB')"> Lubuskie</div>  

@@ -4,6 +4,16 @@ const linkOnClick = ( link ) =>{
     location.href = link;
 };
 
+const addListeners = ()=>{
+    const checkboxes = document.querySelectorAll(".website-checkbox");
+    console.log(checkboxes);
+    checkboxes.forEach(element =>{
+        element.addEventListener("change", () => {
+             element.parentElement.className =  element.checked ? "my-btn-checked my-btn-border" : "my-btn my-btn-border"
+        });
+    });
+};
+
 const goToTable = (key) =>{
     localStorage.setItem("key", key);
     checkCheckboxes();
