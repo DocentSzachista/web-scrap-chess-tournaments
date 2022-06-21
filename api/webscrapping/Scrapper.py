@@ -2,6 +2,8 @@ import requests
 import re
 from bs4 import BeautifulSoup
 from datetime import datetime
+
+
 class TournamentsScrapper:
     """
         utility class to retrieve data about chess tournaments from chess_arbiter and chess_manager websites 
@@ -80,6 +82,11 @@ class TournamentsScrapper:
             - type_and_players (str) : info about tournament tempo TODO: need to change that field for a more meaningfull one
         """
         tournament_list = []
+        def format_date(date: str)->str:  
+            date_divided = re.findall(pattern="\d+\.\d+|\d+", string=date)            
+            if len(date_divided) == 3:
+                return f"{date_divided[0]}.{date_divided[2]}" 
+            return date
         for anchor in anchors :
             # Retrieve text and clean it from white signs and reformat so its easy to split up meaningfull data
             text = anchor.text    
@@ -91,7 +98,7 @@ class TournamentsScrapper:
             # Add tournament info to list 
             tournament_list.append({
             "link" : f" https://www.chessmanager.com{anchor['href']}",
-            "date" : data[0].replace("\xa0" , ""),
+            "date" : format_date(data[0].replace("\xa0" , "")),
             # "rounds" : data[1].replace("0/" , ""), 
             "name": data[2],
             "city": city,
