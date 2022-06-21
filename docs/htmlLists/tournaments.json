@@ -1,0 +1,983 @@
+{
+   "DS": {
+      "chessarbiter": [
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3588&n=",
+            "date": "25.06.2022",
+            "name": "30. Otwarte Mistrzostwa Wrocławia w Szachach Klasycznych - 3. Turniej",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3670&n=",
+            "date": "25.06.2022",
+            "name": "Turniej Przedwakacyjny- U13",
+            "city": "Jelenia",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3589&n=",
+            "date": "27.06.2022",
+            "name": "30. Otwarte Mistrzostwa Wrocławia w Szachach Szybkich - 6. Turniej",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3591&n=",
+            "date": "02.07.2022",
+            "name": "30. Otwarte Mistrzostwa Wrocławia w Szachach Klasycznych - 4. Turniej",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3590&n=",
+            "date": "04.07.2022",
+            "name": "30. Otwarte Mistrzostwa Wrocławia w Szachach Szybkich - 7. Turniej",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3634&n=",
+            "date": "06.07.2022",
+            "name": "Winterpol Blitz 2022- lipiec (zgłoszony do FIDE)",
+            "city": "Jelenia",
+            "country": "Poland",
+            "type_and_players": "DS blitz"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_1375&n=",
+            "date": "11.07.2022",
+            "name": "PÓŁKOLONIE Z AKADEMIĄ MŁODEGO SZACHISTY - III TURNUS",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2966&n=",
+            "date": "16.07.2022",
+            "name": "I Świdnicki Festiwal Szachowy Grupa B (na II kat.)",
+            "city": "Burkatów",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2968&n=",
+            "date": "16.07.2022",
+            "name": "I Świdnicki Festiwal Szachowy Grupa D (na III kat.)",
+            "city": "Burkatów",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_622&n=",
+            "date": "30.07.2022",
+            "name": "Memoriał Adolfa Anderssena - Festiwal Szachowy Adolfa Anderssena 2022",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_624&n=",
+            "date": "31.07.2022",
+            "name": "Wrocław OPEN B - Festiwal Szachowy Adolfa Anderssena 2022",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_625&n=",
+            "date": "01.08.2022",
+            "name": "Wrocław OPEN C - Festiwal Szachowy Adolfa Anderssena 2022",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_628&n=",
+            "date": "04.08.2022",
+            "name": "Blitz Anderssena & Party na Przystani - Festiwal Adolfa Anderssena 2022",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS blitz"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_627&n=",
+            "date": "06.08.2022",
+            "name": "Festiwal Szachowy Adolfa Anderssena 2022 - GRUPA E - \"Pierwszy Krok\"",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3085&n=",
+            "date": "13.08.2022",
+            "name": "58. Festiwal Szachowy im. Akiby Rubinsteina - OPEN A",
+            "city": "Polanica-Zdrój",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3088&n=",
+            "date": "13.08.2022",
+            "name": "58. Festiwal Szachowy im. Akiby Rubinsteina - OPEN C (SENIORZY)",
+            "city": "Polanica-Zdrój",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3089&n=",
+            "date": "13.08.2022",
+            "name": "58. Festiwal Szachowy im. Akiby Rubinsteina - OPEN E",
+            "city": "Polanica-Zdrój",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3091&n=",
+            "date": "13.08.2022",
+            "name": "58. Festiwal Szachowy im. Akiby Rubinsteina - OPEN G",
+            "city": "Polanica-Zdrój",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3409&n=",
+            "date": "26.11.2022",
+            "name": "26_11_2022_Mistrzostwa Oddziału Klubu HDK Legion i KSzach64 Świętoszów i Krwiodawców",
+            "city": "Świętoszów",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2021/ti_5093&n=",
+            "date": "24.06.2022",
+            "name": "GRAND PRIX POLONII WROCŁAW",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3377&n=",
+            "date": "25.06.2022",
+            "name": "Turniej Przedwakacyjny- OPEN",
+            "city": "Jelenia",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3691&n=",
+            "date": "25.06.2022",
+            "name": "XI Memoriał Szachowy Michała Sośnickiego",
+            "city": "Świdnica",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_1373&n=",
+            "date": "27.06.2022",
+            "name": "PÓŁKOLONIE Z AKADEMIĄ MŁODEGO SZACHISTY - I TURNUS",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2467&n=",
+            "date": "02.07.2022",
+            "name": "Letni obóz szachowy MUKS MDK Śródmieście Wrocław",
+            "city": "Sokołowsko",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_1374&n=",
+            "date": "04.07.2022",
+            "name": "PÓŁKOLONIE Z AKADEMIĄ MŁODEGO SZACHISTY - II TURNUS",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3002&n=",
+            "date": "07.07.2022",
+            "name": "PUCHAR POLONII WROCŁAW (do 2399 ELO) - PULA NAGRÓD 1800 ZŁ",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2965&n=",
+            "date": "16.07.2022",
+            "name": "I Świdnicki Festiwal Szachowy Grupa A (na I i k kat.)",
+            "city": "Burkatów",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2967&n=",
+            "date": "16.07.2022",
+            "name": "I Świdnicki Festiwal Szachowy Grupa C (tylko dla kobiet/juniorek)",
+            "city": "Burkatów",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2969&n=",
+            "date": "16.07.2022",
+            "name": "I Świdnicki Festiwal Szachowy Grupa E (na V i IV kat.)",
+            "city": "Burkatów",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3394&n=",
+            "date": "17.07.2022",
+            "name": "Turniej OPEN przy II Lidze Juniorów",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_623&n=",
+            "date": "31.07.2022",
+            "name": "Wrocław OPEN A - Festiwal Szachowy Adolfa Anderssena 2022",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3391&n=",
+            "date": "03.08.2022",
+            "name": "03_08_2022_Mistrzostwa 10 BKPanc w szachach szybkich(indywidualne) - 2022 r. ",
+            "city": "Świętoszów",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_626&n=",
+            "date": "06.08.2022",
+            "name": "Festiwal Szachowy Adolfa Anderssena 2022 - GRUPA D \"Drugi Krok\"",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2264&n=",
+            "date": "12.08.2022",
+            "name": "Obóz szkoleniowy Akademia Młodego Szachisty",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3086&n=",
+            "date": "13.08.2022",
+            "name": "58. Festiwal Szachowy im. Akiby Rubinsteina - OPEN B",
+            "city": "Polanica-Zdrój",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3087&n=",
+            "date": "13.08.2022",
+            "name": "58. Festiwal Szachowy im. Akiby Rubinsteina - OPEN D",
+            "city": "Polanica-Zdrój",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3090&n=",
+            "date": "13.08.2022",
+            "name": "58. Festiwal Szachowy im. Akiby Rubinsteina - OPEN F",
+            "city": "Polanica-Zdrój",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2955&n=",
+            "date": "22.08.2022",
+            "name": "PÓŁKOLONIE Z AKADEMIĄ MŁODEGO SZACHISTY - IV TURNUS",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3410&n=",
+            "date": "30.11.2022",
+            "name": "30.11-02.12.2022_Mistrzostwa 10 BKPanc w szachach klasycznych - 2022",
+            "city": "Świętoszów",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         }
+      ],
+      "chessManager": [
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5951039451693056",
+            "date": "25.06.2022",
+            "name": "XI Memoriał Szachowy Michała Sośnickiego, Gr. A",
+            "city": "Świdnica",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5348305795022848",
+            "date": "25.06.2022",
+            "name": "XI Memoriał Szachowy Michała Sośnickiego, Gr. B",
+            "city": "Świdnica",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/4751440456187904",
+            "date": "25.06.2022",
+            "name": "XI Memoriał Szachowy Michała Sośnickiego, Gr. C",
+            "city": "Świdnica",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5676113704517632",
+            "date": "25.06.2022",
+            "name": "Turniej Przedwakacyjny - U13",
+            "city": "Jelenia Góra",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5749934360887296",
+            "date": "25.06.2022",
+            "name": "Turniej Przedwakacyjny- OPEN",
+            "city": "Jelenia Góra",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/4880016920805376",
+            "date": "26.06.2022",
+            "name": "XI Memoriał Szachowy Michała Sośnickiego, Gr. D",
+            "city": "Świdnica",
+            "country": "Polska",
+            "type_and_players": "Błyskawiczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5749091171565568",
+            "date": "06.07.2022",
+            "name": "Winterpol Blitz 2022- lipiec",
+            "city": "Jelenia Góra",
+            "country": "Polska",
+            "type_and_players": "Błyskawiczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/4788636374532096",
+            "date": "30.07.2022",
+            "name": "Memoriał Adolfa Anderssena - Festiwal Anderssena 2022",
+            "city": "Wrocław",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5679916092751872",
+            "date": "31.07.2022",
+            "name": "Wrocław OPEN A - Festiwal Szachowy Adolfa Anderssena 2022",
+            "city": "Wrocław",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5754028941115392",
+            "date": "31.07.2022",
+            "name": "Wrocław OPEN B - Festiwal Szachowy Adolfa Anderssena 2022",
+            "city": "Wrocław",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5702198617964544",
+            "date": "01.08.2022",
+            "name": "Wrocław OPEN C - Festiwal Szachowy Adolfa Anderssena 2022",
+            "city": "Wrocław",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5098771047251968",
+            "date": "04.08.2022",
+            "name": "BLITZ ANDERSSENA - Festiwal Szachowy Adolfa Anderssena 2022",
+            "city": "Wrocław",
+            "country": "Polska",
+            "type_and_players": "Błyskawiczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5682935958077440",
+            "date": "06.08.2022",
+            "name": "Festiwal Szachowy Adolfa Anderssena 2022 GRUPA E - \"Pierwszy Krok\"",
+            "city": "Wrocław",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5709308265234432",
+            "date": "06.08.2022",
+            "name": "Festiwal Szachowy Adolfa Anderssena 2022 GRUPA D - \"Drugi Krok\"",
+            "city": "Wrocław",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5750219808440320",
+            "date": "12.08.2022",
+            "name": "58. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - TURNIEJ ARCYMISTRZOWSKI",
+            "city": "Polanica-Zdrój",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6302112452444160",
+            "date": "13.08.2022",
+            "name": "58. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN A",
+            "city": "Polanica-Zdrój",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6227564218548224",
+            "date": "13.08.2022",
+            "name": "58. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN B",
+            "city": "Polanica-Zdrój",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6241342473633792",
+            "date": "13.08.2022",
+            "name": "58. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN C (SENIORZY)",
+            "city": "Polanica-Zdrój",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5194234815578112",
+            "date": "13.08.2022",
+            "name": "58. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN D",
+            "city": "Polanica-Zdrój",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5657104917463040",
+            "date": "13.08.2022",
+            "name": "58. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN E",
+            "city": "Polanica-Zdrój",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/4833967590080512",
+            "date": "13.08.2022",
+            "name": "58. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN F",
+            "city": "Polanica-Zdrój",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5733658414546944",
+            "date": "13.08.2022",
+            "name": "58. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN G",
+            "city": "Polanica-Zdrój",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/4892086114451456",
+            "date": "20.08.2022",
+            "name": "58. Festiwal Szachowy im. Akiby Rubinsteina - symultana z Arcymistrzem Zbigniewem Paklezą",
+            "city": "Polanica-Zdrój ",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         }
+      ]
+   },
+   "LB": {
+      "chessarbiter": [
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3673&n=",
+            "date": "03.07.2022",
+            "name": "Mistrzostwa Gminy Drezdenko dla dzieci ze szkół podstawowych",
+            "city": "Trzebicz",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2787&n=",
+            "date": "10.07.2022",
+            "name": "Turniej Szachowy w Szachach Blyskawicznych w Skwierzynie 10.07.2022r.",
+            "city": "Skwierzyna",
+            "country": "Poland",
+            "type_and_players": "LB blitz"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3267&n=",
+            "date": "23.07.2022",
+            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - A1 TURNIEJ KLASYFIKACYJNY OD 1800 WZWYŻ",
+            "city": "ZIELONA",
+            "country": "Poland",
+            "type_and_players": "LB klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3269&n=",
+            "date": "23.07.2022",
+            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - C1 TURNIEJ KLASYFIKACYJNY DLA RANKINGU 1250-1400",
+            "city": "ZIELONA",
+            "country": "Poland",
+            "type_and_players": "LB klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3271&n=",
+            "date": "30.07.2022",
+            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - D2 TURNIEJ KLASYFIKACYJNY DLA RANKINGU DO 1200",
+            "city": "ZIELONA",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3097&n=",
+            "date": "07.08.2022",
+            "name": "Turniej Szachowy w Szachach Szybkich w Skwierzynie 07.08.2022r.",
+            "city": "Skwierzyna",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3276&n=",
+            "date": "19.08.2022",
+            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - A2 TURNIEJ KLASYFIKACYJNY OD 1800 WZWYŻ",
+            "city": "ZIELONA",
+            "country": "Poland",
+            "type_and_players": "LB klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3278&n=",
+            "date": "19.08.2022",
+            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - C2 TURNIEJ KLASYFIKACYJNY DLA RANKINGU 1250-1400",
+            "city": "ZIELONA",
+            "country": "Poland",
+            "type_and_players": "LB klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3279&n=",
+            "date": "20.08.2022",
+            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - D4 TURNIEJ KLASYFIKACYJNY DLA RANKINGU DO 1200",
+            "city": "ZIELONA",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_242&n=",
+            "date": "29.08.2022",
+            "name": "Szachy klasyczne z GKSz'em",
+            "city": "Gubin",
+            "country": "Poland",
+            "type_and_players": "LB klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_243&n=",
+            "date": "10.09.2022",
+            "name": "Szachy szybkie z GKSz'em",
+            "city": "Gubin",
+            "country": "Poland",
+            "type_and_players": "LB blitz"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2283&n=",
+            "date": "11.09.2022",
+            "name": "XI TURNIEJ SZACHOWY O PUCHAR BACHUSA - GRUPA B",
+            "city": "ZIELONA",
+            "country": "Poland",
+            "type_and_players": "LB blitz"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2287&n=",
+            "date": "25.09.2022",
+            "name": "OTWARTE MISTRZOSTWA ZIELONEJ GÓRY - GRUPA A (do FIDE)",
+            "city": "ZIELONA",
+            "country": "Poland",
+            "type_and_players": "LB blitz"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2284&n=",
+            "date": "06.11.2022",
+            "name": "XI TURNIEJ SZACHOWY Z OKAZJI ŚWIĘTA NIEPODLEGŁOŚCI - GRUPA A (do FIDE)",
+            "city": "ZIELONA",
+            "country": "Poland",
+            "type_and_players": "LB blitz"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2645&n=",
+            "date": "19.11.2022",
+            "name": "Mistrzostwa Sulechowa w szachach szybkich w ramach GP ZIEMI LUBUSKIEJ - Grupa A",
+            "city": "Sulechów",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_245&n=",
+            "date": "17.12.2022",
+            "name": "Turniej na kategorie z GKSz'em",
+            "city": "Gubin",
+            "country": "Poland",
+            "type_and_players": "LB klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3373&n=",
+            "date": "26.06.2022",
+            "name": "Grand Prix Ziemi Lubuskiej - Turniej \"B\" Lubsko 26.06.2022",
+            "city": "Lubsko",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2786&n=",
+            "date": "09.07.2022",
+            "name": "Turniej Szachowy o Puchar Sołtysa Murzynowa 2022",
+            "city": "Murzynowo",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2788&n=",
+            "date": "17.07.2022",
+            "name": "Turniej Szachowy w Szachach Szybkich w Skwierzynie 17.07.2022r.",
+            "city": "Skwierzyna",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3268&n=",
+            "date": "23.07.2022",
+            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - B1 TURNIEJ KLASYFIKACYJNY DLA RANKINGU 1600 ",
+            "city": "ZIELONA",
+            "country": "Poland",
+            "type_and_players": "LB klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3270&n=",
+            "date": "23.07.2022",
+            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - D1 TURNIEJ KLASYFIKACYJNY DLA RANKINGU DO 1200",
+            "city": "ZIELONA",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3101&n=",
+            "date": "13.08.2022",
+            "name": "Turniej Szachów Standardowych Puchar Lisek.pl 13-15.08.2022",
+            "city": "Skwierzyna",
+            "country": "Poland",
+            "type_and_players": "LB klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3277&n=",
+            "date": "19.08.2022",
+            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - B2 TURNIEJ KLASYFIKACYJNY DLA RANKINGU 1600 ",
+            "city": "ZIELONA",
+            "country": "Poland",
+            "type_and_players": "LB klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3272&n=",
+            "date": "19.08.2022",
+            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - D3 TURNIEJ KLASYFIKACYJNY DLA RANKINGU DO 1200",
+            "city": "ZIELONA",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3098&n=",
+            "date": "28.08.2022",
+            "name": "Turniej Szachowy w Szachach Szybkich w Skwierzynie 28.08.2022r.",
+            "city": "Skwierzyna",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2282&n=",
+            "date": "11.09.2022",
+            "name": "XI TURNIEJ SZACHOWY O PUCHAR BACHUSA - GRUPA A (do FIDE)",
+            "city": "ZIELONA",
+            "country": "Poland",
+            "type_and_players": "LB blitz"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2605&n=",
+            "date": "16.09.2022",
+            "name": "Integracyjny BLITZ dla uczestników Mistrzostw Polski Honorowych Dawców Krwi PCK",
+            "city": "Sława",
+            "country": "Poland",
+            "type_and_players": "LB blitz"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2288&n=",
+            "date": "25.09.2022",
+            "name": "OTWARTE MISTRZOSTWA ZIELONEJ GÓRY - GRUPA B",
+            "city": "ZIELONA",
+            "country": "Poland",
+            "type_and_players": "LB blitz"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2286&n=",
+            "date": "06.11.2022",
+            "name": "XI TURNIEJ SZACHOWY Z OKAZJI ŚWIĘTA NIEPODLEGŁOŚCI - GRUPA B",
+            "city": "ZIELONA",
+            "country": "Poland",
+            "type_and_players": "LB blitz"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2646&n=",
+            "date": "19.11.2022",
+            "name": "Mistrzostwa Sulechowa w szachach szybkich w ramach GP ZIEMI LUBUSKIEJ - Grupa B",
+            "city": "Sulechów",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_244&n=",
+            "date": "27.12.2022",
+            "name": "Szachy klasyczne z GKSz'em",
+            "city": "Gubin",
+            "country": "Poland",
+            "type_and_players": "LB klasyczne"
+         }
+      ],
+      "chessManager": []
+   },
+   "OP": {
+      "chessarbiter": [],
+      "chessManager": []
+   },
+   "WP": {
+      "chessarbiter": [
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3121&n=",
+            "date": "25.06.2022",
+            "name": "Turniej szachowy o Puchar FAMOT Pleszew",
+            "city": "Pleszew",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3689&n=",
+            "date": "25.06.2022",
+            "name": "Witamy Wakacje- turniej klasyfikacyjny ",
+            "city": "Włoszakowice",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/tdr_3040&n=",
+            "date": "03.07.2022",
+            "name": "Ślesiński Festiwal Szachowy - Turniej Drużynowy *** Pula nagród 7000zł ***",
+            "city": "Ślesin",
+            "country": "Poland",
+            "type_and_players": " szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3456&n=",
+            "date": "08.07.2022",
+            "name": "Festiwal Szachwy z okazji 100-lecia Klubu Sportowego Lech Poznań",
+            "city": "Poznań",
+            "country": "Poland",
+            "type_and_players": "WP klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3706&n=",
+            "date": "20.07.2022",
+            "name": "III Klasyfikacyjny Turniej Szachowy o V i IV kategorię",
+            "city": "Luboń",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2804&n=",
+            "date": "25.06.2022",
+            "name": "DO WIDZENIA SZKOŁO - WITAJ LATO",
+            "city": "Luboń",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3690&n=",
+            "date": "25.06.2022",
+            "name": "Witamy wakacje  grupa B",
+            "city": "Włoszakowice",
+            "country": "Poland",
+            "type_and_players": "WP klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3041&n=",
+            "date": "03.07.2022",
+            "name": "Ślesiński Festiwal Szachowy - Turniej Indywidualny *** Pula nagród 7000zł ***",
+            "city": "Ślesin",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3381&n=",
+            "date": "10.07.2022",
+            "name": "XXIV Turniej o puchar Prezesa SM Tęcza w Turku",
+            "city": "Turek",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         }
+      ],
+      "chessManager": [
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5739837454811136",
+            "date": "22.06.2022",
+            "name": "Pomysł GrandPrix #8.5",
+            "city": "Poznan",
+            "country": "Polska",
+            "type_and_players": "Błyskawiczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5429355208507392",
+            "date": "23.06.2022",
+            "name": "Turniej Szachowy  Wakacje Start",
+            "city": "Wrzesnia",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6540860574400512",
+            "date": "25.06.2022",
+            "name": "Gorzycki Festiwal Szachowy'2022 -  konkurs rozw.zadań szachowych",
+            "city": "Gorzyce Wielkie",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5634187634671616",
+            "date": "25.06.2022",
+            "name": "Gorzycki Festiwal Szachowy'2022 - Młode Talenty gr. A (2006-2008)",
+            "city": "Gorzyce Wielkie",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5958431065243648",
+            "date": "25.06.2022",
+            "name": "Gorzycki Festiwal Szachowy'2022 - Młode Talenty gr. B (2009-2011)",
+            "city": "Gorzyce Wielkie",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5777102000357376",
+            "date": "25.06.2022",
+            "name": "Gorzycki Festiwal Szachowy'2022 - Młode Talenty gr. C (2012-2014)",
+            "city": "Gorzyce Wielkie",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6390427088322560",
+            "date": "25.06.2022",
+            "name": "Gorzycki Festiwal Szachowy'2022 - Młode Talenty gr. Przedszkolaków (ur. 2015 i później)",
+            "city": "Gorzyce Wielkie",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5657170273107968",
+            "date": "25.06.2022",
+            "name": "Gorzycki Festiwal Szachowy'2022 - konkurs wiedzy o szachach",
+            "city": "Gorzyce Wielkie",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6092648415756288",
+            "date": "25.06.2022",
+            "name": "Gorzycki Festiwal Szachowy'2022 - turniej błyskawiczny",
+            "city": "Gorzyce Wielkie",
+            "country": "Polska",
+            "type_and_players": "Błyskawiczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5483553442758656",
+            "date": "26.06.2022",
+            "name": "Gorzycki Festiwal Szachowy'2022 - turniej główny - III turniej z cyklu GP Wielkopolski w szachach szybkich",
+            "city": "Gorzyce Wielkie",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/4866405255086080",
+            "date": "28.06.2022",
+            "name": "ZŁOTOWSKA LIGA SZACHOWA - runda 15 - FINAŁ",
+            "city": "Złotów",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5718952169701376",
+            "date": "08.07.2022",
+            "name": "Festiwal Szachowy z okazji 100-lecia Klubu Sportowego Lech Poznań GRUPA A",
+            "city": "Poznan",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5644577361887232",
+            "date": "08.07.2022",
+            "name": "Festiwal Szachowy z okazji 100-lecia Klubu Sportowego Lech Poznań GRUPA B",
+            "city": "Poznan",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5114249228582912",
+            "date": "08.07.2022",
+            "name": "Festiwal Szachowy z okazji 100-lecia Klubu Sportowego Lech Poznań GRUPA C",
+            "city": "Poznan",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5736564865892352",
+            "date": "17.09.2022",
+            "name": "Lwiątka na Szachownicy grupa A - edycja 2",
+            "city": "Tarnowo Podgórne",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5116492484968448",
+            "date": "17.09.2022",
+            "name": "Lwiątka na Szachownicy grupa B - edycja 2",
+            "city": "Tarnowo Podgórne",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6267424367181824",
+            "date": "03.05.2023",
+            "name": "XXV PITS-Wapno-2023 A",
+            "city": "Wapno",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5917756886089728",
+            "date": "03.05.2023",
+            "name": "XXV PITS-Wapno-2023 B [niezgłoszony do FIDE]",
+            "city": "Wapno",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         }
+      ]
+   }
+}
