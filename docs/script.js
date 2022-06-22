@@ -32,6 +32,14 @@ const checkCheckboxes = () =>{
     localStorage.setItem("tournaments", values.length !==0? JSON.stringify(values) : JSON.stringify(["chessarbiter", "chessManager"]));
 };
 
+const sortSubArray = (subArray) =>{
+    return subArray.sort( (a, b) =>{
+        const dateA = new Date(a.date.split(".").reverse().join("-"));
+        const dateB = new Date(b.date.split(".").reverse().join("-"));
+        return dateA - dateB;  
+    } );
+}
+
 const generateTable = (dataToDisplay, displayOptions) =>{
     console.log(displayOptions);
     const tableBody = document.getElementById("table-body");
@@ -39,7 +47,8 @@ const generateTable = (dataToDisplay, displayOptions) =>{
         tableBody.innerHTML = "";
     }
     displayOptions.forEach( website => {
-        dataToDisplay[website].forEach(element => {
+        const sorted =sortSubArray(dataToDisplay[website]); 
+        sorted.forEach(element => {
             const tableRow = document.createElement("tr");
             tableRow.onclick = () => linkOnClick(element.link);
             const rowValues = Object.values(element);
