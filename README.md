@@ -2,7 +2,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/DocentSzachista/web-scrap-chess-tournaments)](https://github.com/DocentSzachista/web-scrap-chess-tournaments/network)
 [![GitHub stars](https://img.shields.io/github/stars/DocentSzachista/web-scrap-chess-tournaments)](https://github.com/DocentSzachista/web-scrap-chess-tournaments/stargazers)
 [![GitHub license](https://img.shields.io/github/license/DocentSzachista/web-scrap-chess-tournaments)](https://github.com/DocentSzachista/web-scrap-chess-tournaments/blob/master/LICENSE)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/fastapi)
+![PyPI - Python Version](https://img.shields.io/badge/python-3.10-blue)
 
 # Chess tournaments webscrapper
 
@@ -11,14 +11,17 @@ This is a repository that contains scripts allowing to webscrap two chess tourna
 - Chess manager : https://www.chessmanager.com/pl/tournaments
 
 # Table of contents 
-- Webscrapping
-   - How is data being scrapped
-   - URL parameters
-   - data retrieved
-- Required packages
-- How to install it 
+- [Webscrapping](#webscrapping)
+   - [URL parameters](#url-parameters)
+   - [Webscrapped data structure](#webscrapped-data-structure)
+- [How to install it](#how-to-install-it)
+- [How to use it](#how-to-use-it)
+  - [FastAPI](#fastapi)
+  - [Automated script](#automated-script)
+- [requirements.txt content](#requirementstxt-content)
+- [Additional notes](#additional-informations)
 
-# Websccrapping
+# Webscrapping
 
 
 ## URL parameters
@@ -67,6 +70,7 @@ As intention of this script was just to automate my search for tournaments in my
 # How to install it? 
 
 1. Have installed at least python 3.10
+2. Have installed mongo.db database
 2. Create new virtual environment and install packages:
   - **Windows** 
 ```
@@ -88,8 +92,10 @@ As intention of this script was just to automate my search for tournaments in my
 ```
   pip3 install -r /path/to/requirements.txt
 ```
-  3. Add ``smtpServer.json`` with configurations for smpt server to project directory. Example file contents:
-
+ 
+# How to use it?
+## FastAPI
+ Add ``smtpServer.json`` with configurations for smpt server to project directory. Example file contents:
   ```
 {
     "sender_email" : "example@gmail.com",
@@ -98,8 +104,59 @@ As intention of this script was just to automate my search for tournaments in my
     "port" : 123
 }
   ```
+If you want to launch fastAPI server you only need to use command in project directory:
+```
+python3 main.py 
+```  
+## Automated script 
+### How it works
+Script webscrapps informations from websites and later saves them into tournaments.json file in `docs/htmlLists` directory. When its done it calls git commands to push changes into repository. Then the github pages are being rebuilt and when the process is done you can simply see data on [github pages](https://docentszachista.github.io/web-scrap-chess-tournaments/).
+If you want to make it actually work I **recommend to fork repository**
+### Required files to add
+In order to make script work as intended, you need to add `userPreferences.json` file to your project directory.
+It should contain following fields:
+  -  `"tournament_name"` - signs which tournament name should contain
+  -  `"tournament_tempo"` - speed in which tournament occurs
+  -  `"tournament_status"` - tournament actual state. It can be: PLANNED, FINISHED, ONGOING, ALL
+  -  `"country_state"` - country state that tournaments interest us
+  -  `"tournament_city"` - city from which we would like to get info about tournaments 
 
-## requirements.txt content
+Example file content: 
+```
+[
+    {
+        "tournament_name":"",
+        "tournament_tempo":"",
+        "tournament_status":"PLANNED",
+        "country_state": "DS",
+        "tournament_city":""
+    },
+    {
+        "tournament_name":"",
+        "tournament_tempo":"",
+        "tournament_status":"PLANNED",
+        "country_state": "LB",
+        "tournament_city":""
+    },
+    {
+        "tournament_name":"",
+        "tournament_tempo":"",
+        "tournament_status":"PLANNED",
+        "country_state": "OP",
+        "tournament_city":""
+    },
+    {
+        "tournament_name":"",
+        "tournament_tempo":"",
+        "tournament_status":"PLANNED",
+        "country_state": "WP",
+        "tournament_city":""
+    }
+]
+```
+
+
+# requirements.txt content
 ```
 urlib 
 beatifulsoup
@@ -113,3 +170,5 @@ apscheduler
 ```
 ## Additional informations
 You need to use another provider than google, because they have turned off their support for using gmail as SMTP service (but changing to other mail domain will work as well) at 30.05.2022 year
+### UPDATE TO NOTE
+Actually you can still use google, only what you need to do is to enable 2-factor authetincation which is described [here](https://stackoverflow.com/questions/72577189/gmail-smtp-server-stopped-working-as-it-no-longer-support-less-secure-apps) 

@@ -1,4 +1,4 @@
 venv/
-*.json
+api/*.json
 __pycache__/
 .bat

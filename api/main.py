@@ -1,47 +1,13 @@
 from mailing import send_email
-from webscrapping import URLConfigure, TournamentsScrapper
+from essentials import data_retrieval_wrapper
 from db_mongo import db, Data
 from typing import List
 import uvicorn
-import json
 from fastapi import FastAPI, status, HTTPException
 from fastapi.responses import JSONResponse
 from fastapi.encoders import jsonable_encoder
 from fastapi.middleware.cors import CORSMiddleware
 from apscheduler.schedulers.background import BackgroundScheduler
-
-def dump_score_to_file(json_data, append = False)->None:
-    """
-        saves formatted data to a json file
-
-        Parameters
-        ----------
-        chess_base (dict) : tournament base to be saved 
-    """
-    def check_if_exists(database, value):
-        for elem in database:
-            if value in elem.values():
-                return True
-        return False
-
-    # with open("data.json", "r", encoding="utf-8") as file:
-    #     try: 
-    #         old_content = json.load(file)
-    #         file.close()
-    #         for chess_element in chess_base["tournaments"]: 
-    #             if not check_if_exists(old_content["tournaments"], chess_element["name"]):
-    #                 new_content["tournaments"].append(chess_element)
-    #         dupa_zmienna["tournaments"] =dupa_zmienna["tournaments"] + new_content
-    #     except:
-    #         print("No content")
-    #     finally:    
-    with open("Data.json".format(1), "w", encoding="utf-8") as file: 
-        json.dump(json_data, file, ensure_ascii=False, indent=3)
-        file.close()
-
-
-
-
 
 def  send_mails():
     users =  get_mailing_list() 
@@ -66,7 +32,7 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-url_config = URLConfigure()
+
 
 @app.on_event("startup")
 def schedule_mail_sender():
@@ -77,32 +43,6 @@ def schedule_mail_sender():
     scheduler.add_job( send_mails , "interval", seconds=7) 
     scheduler.start()
 
-def data_retrieval_wrapper(
-    tournament_city : str | None = "", 
-    country_state : str | None = "", 
-    tournament_status : str | None = "PLANNED",
-    tempo_option : str | None = "", 
-    tournament_name : str | None =""
-)-> list:
-    """
-        function wrapper for filter and get requests
-    """
-    chess_manager_link = url_config.retrieve_chess_manager_link(
-        tournament_city=tournament_city, 
-        country_state=country_state, 
-        tournament_status=tournament_status,
-        tempo_option=tempo_option
-        )
-    chess_arbiter_link = url_config.retrieve_chess_arbiter_link(
-        tournament_name=tournament_name,
-        tournament_city=tournament_city, 
-        country_state=country_state, 
-        tournament_status=tournament_status,
-        tempo_option=tempo_option
-        )
-    chess_arbiter =  TournamentsScrapper.get_tournaments_chessarbiter(chess_arbiter_link)
-    chess_manager = TournamentsScrapper.get_tournaments_chessmanager(chess_manager_link, name=tournament_name)
-    return  chess_manager +  chess_arbiter
 
 @app.get(
     "/", 
@@ -111,7 +51,6 @@ def data_retrieval_wrapper(
 )
 async def retrieve_tournaments():
     chess_base = data_retrieval_wrapper() 
-    dump_score_to_file(chess_base)
     return chess_base
 
 @app.get(
