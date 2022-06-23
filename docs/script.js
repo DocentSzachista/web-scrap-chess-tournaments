@@ -39,27 +39,33 @@ const sortSubArray = (subArray) =>{
         return dateA - dateB;  
     } );
 }
+const generateTableRow =(element) =>{
+    const tableRow = document.createElement("tr");
+    tableRow.onclick = () => linkOnClick(element.link);
+    const rowValues = Object.values(element);
+    rowValues.slice(1).forEach(property =>{
+        const data = document.createElement("td");
+        data.textContent = property;
+        tableRow.appendChild(data);
+    } );
+    return tableRow
+};
 
 const generateTable = (dataToDisplay, displayOptions) =>{
-    console.log(displayOptions);
     const tableBody = document.getElementById("table-body");
     if(tableBody.childNodes.length !==0){
         tableBody.innerHTML = "";
     }
+    let tournaments = [];
     displayOptions.forEach( website => {
-        const sorted =sortSubArray(dataToDisplay[website]); 
-        sorted.forEach(element => {
-            const tableRow = document.createElement("tr");
-            tableRow.onclick = () => linkOnClick(element.link);
-            const rowValues = Object.values(element);
-            rowValues.slice(1).forEach(property =>{
-                const data = document.createElement("td");
-                data.textContent = property;
-                tableRow.appendChild(data);
-            } );
-            tableBody.appendChild(tableRow);
-        });    
+        tournaments = tournaments.concat(dataToDisplay[website]);    
     });
+    const sorted =sortSubArray(tournaments); 
+    sorted.forEach(element => {
+            tableBody.appendChild(
+                generateTableRow(element)
+            );
+        });
 };
 
 const  retrieveFile = async (country_state) =>{
