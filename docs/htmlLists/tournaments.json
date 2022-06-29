@@ -2,41 +2,41 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3591&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2467&n=",
             "date": "02.07.2022",
-            "name": "30. Otwarte Mistrzostwa Wrocławia w Szachach Klasycznych - 4. Turniej",
+            "name": "Letni obóz szachowy MUKS MDK Śródmieście Wrocław",
+            "city": "Sokołowsko",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_1374&n=",
+            "date": "04.07.2022",
+            "name": "PÓŁKOLONIE Z AKADEMIĄ MŁODEGO SZACHISTY - II TURNUS",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3590&n=",
-            "date": "04.07.2022",
-            "name": "30. Otwarte Mistrzostwa Wrocławia w Szachach Szybkich - 7. Turniej",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3002&n=",
+            "date": "07.07.2022",
+            "name": "PUCHAR POLONII WROCŁAW (do 2399 ELO) - PULA NAGRÓD 1800 ZŁ",
             "city": "Wrocław",
             "country": "Poland",
-            "type_and_players": "DS szybkie"
+            "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3634&n=",
-            "date": "06.07.2022",
-            "name": "Winterpol Blitz 2022- lipiec (zgłoszony do FIDE)",
-            "city": "Jelenia",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3783&n=",
+            "date": "10.07.2022",
+            "name": "Błyskawiczne  Otwarcie Wakacji! - turniej szachów błyskawicznych",
+            "city": "Wałbrzych",
             "country": "Poland",
             "type_and_players": "DS blitz"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3781&n=",
-            "date": "09.07.2022",
-            "name": "Szybkie Otwarcie Wakacji! - turniej szachów szybkich ",
-            "city": "Wałbrzych",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_1375&n=",
-            "date": "11.07.2022",
-            "name": "PÓŁKOLONIE Z AKADEMIĄ MŁODEGO SZACHISTY - III TURNUS",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3896&n=",
+            "date": "15.07.2022",
+            "name": "GRAND PRIX POLONII WROCŁAW",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
@@ -154,6 +154,22 @@
             "type_and_players": "DS klasyczne"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3866&n=",
+            "date": "15.10.2022",
+            "name": "XIII  MEMORIAŁ STANISŁAWA SOBOLEWSKIEGO - GRUPA A - OPEN",
+            "city": "Strzelin",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3868&n=",
+            "date": "15.10.2022",
+            "name": "XIII  MEMORIAŁ STANISŁAWA SOBOLEWSKIEGO - GRUPA C - do lat 10",
+            "city": "Strzelin",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3409&n=",
             "date": "26.11.2022",
             "name": "26_11_2022_Mistrzostwa Oddziału Klubu HDK Legion i KSzach64 Świętoszów i Krwiodawców",
@@ -162,44 +178,44 @@
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_1373&n=",
-            "date": "27.06.2022",
-            "name": "PÓŁKOLONIE Z AKADEMIĄ MŁODEGO SZACHISTY - I TURNUS",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2467&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3591&n=",
             "date": "02.07.2022",
-            "name": "Letni obóz szachowy MUKS MDK Śródmieście Wrocław",
-            "city": "Sokołowsko",
+            "name": "30. Otwarte Mistrzostwa Wrocławia w Szachach Klasycznych - 4. Turniej",
+            "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_1374&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3590&n=",
             "date": "04.07.2022",
-            "name": "PÓŁKOLONIE Z AKADEMIĄ MŁODEGO SZACHISTY - II TURNUS",
+            "name": "30. Otwarte Mistrzostwa Wrocławia w Szachach Szybkich - 7. Turniej",
             "city": "Wrocław",
             "country": "Poland",
-            "type_and_players": "DS klasyczne"
+            "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3002&n=",
-            "date": "07.07.2022",
-            "name": "PUCHAR POLONII WROCŁAW (do 2399 ELO) - PULA NAGRÓD 1800 ZŁ",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3783&n=",
-            "date": "10.07.2022",
-            "name": "Błyskawiczne  Otwarcie Wakacji! - turniej szachów błyskawicznych",
-            "city": "Wałbrzych",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3634&n=",
+            "date": "06.07.2022",
+            "name": "Winterpol Blitz 2022- lipiec (zgłoszony do FIDE)",
+            "city": "Jelenia",
             "country": "Poland",
             "type_and_players": "DS blitz"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3781&n=",
+            "date": "09.07.2022",
+            "name": "Szybkie Otwarcie Wakacji! - turniej szachów szybkich ",
+            "city": "Wałbrzych",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_1375&n=",
+            "date": "11.07.2022",
+            "name": "PÓŁKOLONIE Z AKADEMIĄ MŁODEGO SZACHISTY - III TURNUS",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2965&n=",
@@ -298,6 +314,14 @@
             "type_and_players": "DS szybkie"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3867&n=",
+            "date": "15.10.2022",
+            "name": "XIII  MEMORIAŁ STANISŁAWA SOBOLEWSKIEGO - GRUPA B - do lat 14",
+            "city": "Strzelin",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3410&n=",
             "date": "30.11.2022",
             "name": "30.11-02.12.2022_Mistrzostwa 10 BKPanc w szachach klasycznych - 2022",
@@ -307,14 +331,6 @@
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/4880016920805376",
-            "date": "26.06.2022",
-            "name": "XI Memoriał Szachowy Michała Sośnickiego, Gr. D",
-            "city": "Świdnica",
-            "country": "Polska",
-            "type_and_players": "Błyskawiczne"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/5749091171565568",
             "date": "06.07.2022",
@@ -450,19 +466,19 @@
             "city": "Polanica-Zdrój ",
             "country": "Polska",
             "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5676113704517632",
+            "date": "07.12.2022",
+            "name": "Winterpol Blitz 2022- grudzień",
+            "city": "Jelenia Góra",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
          }
       ]
    },
    "LB": {
       "chessarbiter": [
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3673&n=",
-            "date": "03.07.2022",
-            "name": "Mistrzostwa Gminy Drezdenko dla dzieci ze szkół podstawowych",
-            "city": "Trzebicz",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
-         },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2787&n=",
             "date": "10.07.2022",
@@ -582,14 +598,6 @@
             "city": "Gubin",
             "country": "Poland",
             "type_and_players": "LB klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3373&n=",
-            "date": "26.06.2022",
-            "name": "Grand Prix Ziemi Lubuskiej - Turniej \"B\" Lubsko 26.06.2022",
-            "city": "Lubsko",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2786&n=",
@@ -755,20 +763,20 @@
       ],
       "chessManager": [
          {
-            "link": " https://www.chessmanager.com/pl/tournaments/5483553442758656",
-            "date": "26.06.2022",
-            "name": "Gorzycki Festiwal Szachowy'2022 - turniej główny - III turniej z cyklu GP Wielkopolski w szachach szybkich",
-            "city": "Gorzyce Wielkie",
+            "link": " https://www.chessmanager.com/pl/tournaments/4878830830354432",
+            "date": "30.06.2022",
+            "name": "4 Liga Kisielicka - T4",
+            "city": "Poznań",
             "country": "Polska",
             "type_and_players": "Szybkie"
          },
          {
-            "link": " https://www.chessmanager.com/pl/tournaments/4866405255086080",
-            "date": "28.06.2022",
-            "name": "ZŁOTOWSKA LIGA SZACHOWA - runda 15 - FINAŁ",
+            "link": " https://www.chessmanager.com/pl/tournaments/5164495279226880",
+            "date": "05.07.2022",
+            "name": "Złotowski Wakacyjny Blitz",
             "city": "Złotów",
             "country": "Polska",
-            "type_and_players": "Szybkie"
+            "type_and_players": "Błyskawiczne"
          },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/5718952169701376",
@@ -793,6 +801,30 @@
             "city": "Poznan",
             "country": "Polska",
             "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6555109589778432",
+            "date": "09.07.2022",
+            "name": "Turniej Szachów Szybkich przy Festiwalu Szachowy",
+            "city": "Poznań",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6734929602805760",
+            "date": "16.07.2022",
+            "name": "Turniej Szachów Błyskawicznych przy Festiwalu Szachowym",
+            "city": "Poznań",
+            "country": "Polska",
+            "type_and_players": "Błyskawiczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6297116793110528",
+            "date": "30.07.2022",
+            "name": "Turniej z Okazji XXVIII dni Odolanowa -30 lipca",
+            "city": "Odolanów",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
          },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/5736564865892352",
