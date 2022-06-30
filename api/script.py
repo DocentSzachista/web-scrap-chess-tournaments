@@ -2,11 +2,13 @@ from mailing import parse_html_to_file
 from webscrapping import URLConfigure, TournamentsScrapper
 from essentials import data_retrieval_wrapper, dump_score_to_file, get_json_data
 from datetime import date, datetime
+import os
 import subprocess
 import json
 
 def update_repository():
 
+    print(os.getcwd())
     config = get_json_data("userPreferences.json")
     
     tournaments = dict()
