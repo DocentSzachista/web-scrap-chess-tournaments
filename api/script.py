@@ -8,7 +8,7 @@ import json
 
 def update_repository():
 
-    print(os.getcwd())
+  
     config = get_json_data("userPreferences.json")
     
     tournaments = dict()
@@ -31,5 +31,6 @@ def update_repository():
 
     
 if __name__ == "__main__":
-    update_repository()
+    print(os.getcwd())
+#     update_repository()
 
