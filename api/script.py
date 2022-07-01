@@ -22,11 +22,11 @@ def update_repository():
             divided= True
         )
         tournaments[parameter["country_state"]] = retrieved_data
-    dump_score_to_file(tournaments, "../docs/htmlLists/tournaments.json")
-    parse_html_to_file(parameter["country_state"], retrieved_data, style_link='<link rel="stylesheet" href="../table_styles.css">')
-    subprocess.run(["git", "add", "../docs"])
-    subprocess.run(["git", "commit", "-m" f'"Tournaments update: {datetime.today()}"'])
-    subprocess.run(["git", "push"])
+    dump_score_to_file(tournaments, "./docs/htmlLists/tournaments.json")
+#     parse_html_to_file(parameter["country_state"], retrieved_data, style_link='<link rel="stylesheet" href="../table_styles.css">')
+#     subprocess.run(["git", "add", "../docs"])
+#     subprocess.run(["git", "commit", "-m" f'"Tournaments update: {datetime.today()}"'])
+#     subprocess.run(["git", "push"])
 
     
 if __name__ == "__main__":
