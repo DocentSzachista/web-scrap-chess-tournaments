@@ -31,4 +31,12 @@ jobs:
        with:
          github_token: ${{ secrets.GITHUB_TOKEN }}
          branch: master
-         
+     - name: Trigger GitHub pages rebuild
+       run: |
+          curl --fail --request POST \
+            --url https://api.github.com/repos/${{ github.repository }}/pages/builds \
+            --header "Authorization: Bearer $USER_TOKEN"
+       env:
+          # You must create a personal token with repo access as GitHub does
+          # not yet support server-to-server page builds.
+          USER_TOKEN: ${{ secrets.USER_TOKEN }}
