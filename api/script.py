@@ -6,7 +6,7 @@ import os
 import subprocess
 import json
 
-def update_repository():
+#def update_repository():
 
   
 #     config = get_json_data("userPreferences.json")
