@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/DocentSzachista/web-scrap-chess-tournaments)](https://github.com/DocentSzachista/web-scrap-chess-tournaments/stargazers)
 [![GitHub license](https://img.shields.io/github/license/DocentSzachista/web-scrap-chess-tournaments)](https://github.com/DocentSzachista/web-scrap-chess-tournaments/blob/master/LICENSE)
 ![PyPI - Python Version](https://img.shields.io/badge/python-3.10-blue)
-
+[![Update tournaments](https://github.com/DocentSzachista/web-scrap-chess-tournaments/actions/workflows/schedule.yml/badge.svg?branch=master)](https://github.com/DocentSzachista/web-scrap-chess-tournaments/actions/workflows/schedule.yml)
 # Chess tournaments webscrapper
 
 This is a repository that contains scripts allowing to webscrap two chess tournaments webpages: 
