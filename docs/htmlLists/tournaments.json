@@ -2,14 +2,6 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3590&n=",
-            "date": "04.07.2022",
-            "name": "30. Otwarte Mistrzostwa Wrocławia w Szachach Szybkich - 7. Turniej",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3634&n=",
             "date": "06.07.2022",
             "name": "Winterpol Blitz 2022- lipiec (zgłoszony do FIDE)",
@@ -184,14 +176,6 @@
             "city": "Świętoszów",
             "country": "Poland",
             "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2467&n=",
-            "date": "02.07.2022",
-            "name": "Letni obóz szachowy MUKS MDK Śródmieście Wrocław",
-            "city": "Sokołowsko",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_1374&n=",
@@ -761,30 +745,6 @@
    "WP": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3041&n=",
-            "date": "03.07.2022",
-            "name": "Ślesiński Festiwal Szachowy - Turniej Indywidualny *** Pula nagród 7000zł ***",
-            "city": "Ślesin",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3381&n=",
-            "date": "10.07.2022",
-            "name": "XXIV Turniej o puchar Prezesa SM Tęcza w Turku",
-            "city": "Turek",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/tdr_3040&n=",
-            "date": "03.07.2022",
-            "name": "Ślesiński Festiwal Szachowy - Turniej Drużynowy *** Pula nagród 7000zł ***",
-            "city": "Ślesin",
-            "country": "Poland",
-            "type_and_players": " szybkie"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3456&n=",
             "date": "08.07.2022",
             "name": "Festiwal Szachwy z okazji 100-lecia Klubu Sportowego Lech Poznań",
@@ -797,6 +757,22 @@
             "date": "20.07.2022",
             "name": "III Klasyfikacyjny Turniej Szachowy o V i IV kategorię",
             "city": "Luboń",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3041&n=",
+            "date": "03.07.2022",
+            "name": "Ślesiński Festiwal Szachowy - Turniej Indywidualny *** Pula nagród 7000zł ***",
+            "city": "Ślesin",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3381&n=",
+            "date": "10.07.2022",
+            "name": "XXIV Turniej o puchar Prezesa SM Tęcza w Turku",
+            "city": "Turek",
             "country": "Poland",
             "type_and_players": "WP szybkie"
          }
