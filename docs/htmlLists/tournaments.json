@@ -146,14 +146,6 @@
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3925&n=",
-            "date": "26.08.2022",
-            "name": "GRAND PRIX POLONII WROCŁAW",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3866&n=",
             "date": "15.10.2022",
             "name": "XIII  MEMORIAŁ STANISŁAWA SOBOLEWSKIEGO - GRUPA A - OPEN",
@@ -330,12 +322,12 @@
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2955&n=",
-            "date": "22.08.2022",
-            "name": "PÓŁKOLONIE Z AKADEMIĄ MŁODEGO SZACHISTY - IV TURNUS",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3925&n=",
+            "date": "26.08.2022",
+            "name": "GRAND PRIX POLONII WROCŁAW",
             "city": "Wrocław",
             "country": "Poland",
-            "type_and_players": "DS klasyczne"
+            "type_and_players": "DS szybkie"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3867&n=",
@@ -504,33 +496,25 @@
    "LB": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2787&n=",
-            "date": "10.07.2022",
-            "name": "Turniej Szachowy w Szachach Blyskawicznych w Skwierzynie 10.07.2022r.",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2788&n=",
+            "date": "17.07.2022",
+            "name": "Turniej Szachowy w Szachach Szybkich w Skwierzynie 17.07.2022r.",
             "city": "Skwierzyna",
             "country": "Poland",
-            "type_and_players": "LB blitz"
+            "type_and_players": "LB szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3267&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3268&n=",
             "date": "23.07.2022",
-            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - A1 TURNIEJ KLASYFIKACYJNY OD 1800 WZWYŻ",
-            "city": "ZIELONA",
-            "country": "Poland",
-            "type_and_players": "LB klasyczneFIDE"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3269&n=",
-            "date": "23.07.2022",
-            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - C1 TURNIEJ KLASYFIKACYJNY DLA RANKINGU 1250-1400",
+            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - B1 TURNIEJ KLASYFIKACYJNY DLA RANKINGU 1600 ",
             "city": "ZIELONA",
             "country": "Poland",
             "type_and_players": "LB klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3271&n=",
-            "date": "30.07.2022",
-            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - D2 TURNIEJ KLASYFIKACYJNY DLA RANKINGU DO 1200",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3270&n=",
+            "date": "23.07.2022",
+            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - D1 TURNIEJ KLASYFIKACYJNY DLA RANKINGU DO 1200",
             "city": "ZIELONA",
             "country": "Poland",
             "type_and_players": "LB szybkie"
@@ -624,33 +608,33 @@
             "type_and_players": "LB klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2786&n=",
-            "date": "09.07.2022",
-            "name": "Turniej Szachowy o Puchar Sołtysa Murzynowa 2022",
-            "city": "Murzynowo",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2788&n=",
-            "date": "17.07.2022",
-            "name": "Turniej Szachowy w Szachach Szybkich w Skwierzynie 17.07.2022r.",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2787&n=",
+            "date": "10.07.2022",
+            "name": "Turniej Szachowy w Szachach Blyskawicznych w Skwierzynie 10.07.2022r.",
             "city": "Skwierzyna",
             "country": "Poland",
-            "type_and_players": "LB szybkie"
+            "type_and_players": "LB blitz"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3268&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3267&n=",
             "date": "23.07.2022",
-            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - B1 TURNIEJ KLASYFIKACYJNY DLA RANKINGU 1600 ",
+            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - A1 TURNIEJ KLASYFIKACYJNY OD 1800 WZWYŻ",
+            "city": "ZIELONA",
+            "country": "Poland",
+            "type_and_players": "LB klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3269&n=",
+            "date": "23.07.2022",
+            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - C1 TURNIEJ KLASYFIKACYJNY DLA RANKINGU 1250-1400",
             "city": "ZIELONA",
             "country": "Poland",
             "type_and_players": "LB klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3270&n=",
-            "date": "23.07.2022",
-            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - D1 TURNIEJ KLASYFIKACYJNY DLA RANKINGU DO 1200",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3271&n=",
+            "date": "30.07.2022",
+            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - D2 TURNIEJ KLASYFIKACYJNY DLA RANKINGU DO 1200",
             "city": "ZIELONA",
             "country": "Poland",
             "type_and_players": "LB szybkie"
@@ -745,26 +729,10 @@
    "WP": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3456&n=",
-            "date": "08.07.2022",
-            "name": "Festiwal Szachwy z okazji 100-lecia Klubu Sportowego Lech Poznań",
-            "city": "Poznań",
-            "country": "Poland",
-            "type_and_players": "WP klasyczne"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3706&n=",
             "date": "20.07.2022",
             "name": "III Klasyfikacyjny Turniej Szachowy o V i IV kategorię",
             "city": "Luboń",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3041&n=",
-            "date": "03.07.2022",
-            "name": "Ślesiński Festiwal Szachowy - Turniej Indywidualny *** Pula nagród 7000zł ***",
-            "city": "Ślesin",
             "country": "Poland",
             "type_and_players": "WP szybkie"
          },
