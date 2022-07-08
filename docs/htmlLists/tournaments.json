@@ -2,6 +2,14 @@
    "DS": {
       "chessarbiter": [
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3781&n=",
+            "date": "09.07.2022",
+            "name": "Szybkie Otwarcie Wakacji! - turniej szachów szybkich ",
+            "city": "Wałbrzych",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_1375&n=",
             "date": "11.07.2022",
             "name": "PÓŁKOLONIE Z AKADEMIĄ MŁODEGO SZACHISTY - III TURNUS",
@@ -576,6 +584,14 @@
    "LB": {
       "chessarbiter": [
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2786&n=",
+            "date": "09.07.2022",
+            "name": "Turniej Szachowy o Puchar Sołtysa Murzynowa 2022",
+            "city": "Murzynowo",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2788&n=",
             "date": "17.07.2022",
             "name": "Turniej Szachowy w Szachach Szybkich w Skwierzynie 17.07.2022r.",
@@ -825,47 +841,23 @@
    "WP": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3706&n=",
-            "date": "20.07.2022",
-            "name": "III Klasyfikacyjny Turniej Szachowy o V i IV kategorię",
-            "city": "Luboń",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3381&n=",
             "date": "10.07.2022",
             "name": "XXIV Turniej o puchar Prezesa SM Tęcza w Turku",
             "city": "Turek",
             "country": "Poland",
             "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3706&n=",
+            "date": "20.07.2022",
+            "name": "III Klasyfikacyjny Turniej Szachowy o V i IV kategorię",
+            "city": "Luboń",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/5718952169701376",
-            "date": "08.07.2022",
-            "name": "Festiwal Szachowy z okazji 100-lecia Klubu Sportowego Lech Poznań GRUPA A",
-            "city": "Poznan",
-            "country": "Polska",
-            "type_and_players": "Klasyczne"
-         },
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/5644577361887232",
-            "date": "08.07.2022",
-            "name": "Festiwal Szachowy z okazji 100-lecia Klubu Sportowego Lech Poznań GRUPA B",
-            "city": "Poznan",
-            "country": "Polska",
-            "type_and_players": "Klasyczne"
-         },
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/5114249228582912",
-            "date": "08.07.2022",
-            "name": "Festiwal Szachowy z okazji 100-lecia Klubu Sportowego Lech Poznań GRUPA C",
-            "city": "Poznan",
-            "country": "Polska",
-            "type_and_players": "Klasyczne"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6555109589778432",
             "date": "09.07.2022",
@@ -921,6 +913,14 @@
             "city": "Tarnowo Podgórne",
             "country": "Polska",
             "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5097218307522560",
+            "date": "08.10.2022",
+            "name": "Jubileuszowy  Turniej Błyskawiczny z okazji XXX-lecia Sekcji Szachowej",
+            "city": "Stęszew",
+            "country": "Polska",
+            "type_and_players": "Błyskawiczne"
          },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6267424367181824",
