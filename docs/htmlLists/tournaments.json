@@ -2,105 +2,121 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3781&n=",
-            "date": "09.07.2022",
-            "name": "Szybkie Otwarcie Wakacji! - turniej szachów szybkich ",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3783&n=",
+            "date": "10.07.2022",
+            "name": "Błyskawiczne  Otwarcie Wakacji! - turniej szachów błyskawicznych",
             "city": "Wałbrzych",
             "country": "Poland",
-            "type_and_players": "DS szybkie"
+            "type_and_players": "DS blitz"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_1375&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4047&n=",
             "date": "11.07.2022",
-            "name": "PÓŁKOLONIE Z AKADEMIĄ MŁODEGO SZACHISTY - III TURNUS",
+            "name": "PÓŁKOLONIE Z AKADEMIĄ MŁODEGO SZACHISTY - III TURNUS - GRUPA B",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2965&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3896&n=",
+            "date": "15.07.2022",
+            "name": "GRAND PRIX POLONII WROCŁAW",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2966&n=",
             "date": "16.07.2022",
-            "name": "I Świdnicki Festiwal Szachowy Grupa A (na I i k kat.)",
+            "name": "I Świdnicki Festiwal Szachowy Grupa B (na II kat.)",
             "city": "Burkatów",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2967&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2968&n=",
             "date": "16.07.2022",
-            "name": "I Świdnicki Festiwal Szachowy Grupa C (tylko dla kobiet/juniorek)",
+            "name": "I Świdnicki Festiwal Szachowy Grupa D (na III kat.)",
             "city": "Burkatów",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2969&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3797&n=",
             "date": "16.07.2022",
-            "name": "I Świdnicki Festiwal Szachowy Grupa E (na V i IV kat.)",
-            "city": "Burkatów",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3959&n=",
-            "date": "18.07.2022",
-            "name": "Aktywnie w Krainie Szachów Turniej Szachów Szybkich I Tydzień - Udział bezpłatny",
+            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LIPIEC",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3971&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3394&n=",
+            "date": "17.07.2022",
+            "name": "Turniej OPEN przy II Lidze Juniorów",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3962&n=",
+            "date": "19.07.2022",
+            "name": "Aktywnie w Krainie Szachów Turniej Szachów Blyskawicznych I Tydzień",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3970&n=",
             "date": "20.07.2022",
-            "name": "Aktywnie w Krainie Szachów Turniej Szachów Klasycznych I Tydzień do 1200",
+            "name": "Aktywnie w Krainie Szachów Turniej Szachów Klasycznych I Tydzień do 1400",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3969&n=",
-            "date": "20.07.2022",
-            "name": "Aktywnie w Krainie Szachów Turniej Szachów Klasycznych I Tydzień powyżej 1600",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3798&n=",
-            "date": "23.07.2022",
-            "name": "Turniej DRUGI KROK (1250-1600 PZSzach) - LIPIEC",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3961&n=",
-            "date": "26.07.2022",
-            "name": "Aktywnie w Krainie Szachów Turniej Szachów Blyskawicznych II Tydzień",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3966&n=",
-            "date": "27.07.2022",
-            "name": "Aktywnie w Krainie Szachów Turniej Szachów Klasycznych II Tydzień do 1400",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3921&n=",
-            "date": "29.07.2022",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3920&n=",
+            "date": "22.07.2022",
             "name": "GRAND PRIX POLONII WROCŁAW",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_623&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3958&n=",
+            "date": "25.07.2022",
+            "name": "Aktywnie w Krainie Szachów Turniej Szachów Szybkich II Tydzień- Udział bezpłatny",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3964&n=",
+            "date": "27.07.2022",
+            "name": "Aktywnie w Krainie Szachów Turniej Szachów Klasycznych II Tydzień do 1200",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3968&n=",
+            "date": "27.07.2022",
+            "name": "Aktywnie w Krainie Szachów Turniej Szachów Klasycznych II Tydzień powyżej 1600",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_622&n=",
+            "date": "30.07.2022",
+            "name": "Memoriał Adolfa Anderssena - Festiwal Szachowy Adolfa Anderssena 2022",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_624&n=",
             "date": "31.07.2022",
-            "name": "Wrocław OPEN A - Festiwal Szachowy Adolfa Anderssena 2022",
+            "name": "Wrocław OPEN B - Festiwal Szachowy Adolfa Anderssena 2022",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS klasyczneFIDE"
@@ -226,113 +242,105 @@
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3783&n=",
-            "date": "10.07.2022",
-            "name": "Błyskawiczne  Otwarcie Wakacji! - turniej szachów błyskawicznych",
-            "city": "Wałbrzych",
-            "country": "Poland",
-            "type_and_players": "DS blitz"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3896&n=",
-            "date": "15.07.2022",
-            "name": "GRAND PRIX POLONII WROCŁAW",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_1375&n=",
+            "date": "11.07.2022",
+            "name": "PÓŁKOLONIE Z AKADEMIĄ MŁODEGO SZACHISTY - III TURNUS",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2966&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4046&n=",
+            "date": "11.07.2022",
+            "name": "PÓŁKOLONIE Z AKADEMIĄ MŁODEGO SZACHISTY - III TURNUS - KOŁÓWKA",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2965&n=",
             "date": "16.07.2022",
-            "name": "I Świdnicki Festiwal Szachowy Grupa B (na II kat.)",
+            "name": "I Świdnicki Festiwal Szachowy Grupa A (na I i k kat.)",
             "city": "Burkatów",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2968&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2967&n=",
             "date": "16.07.2022",
-            "name": "I Świdnicki Festiwal Szachowy Grupa D (na III kat.)",
+            "name": "I Świdnicki Festiwal Szachowy Grupa C (tylko dla kobiet/juniorek)",
             "city": "Burkatów",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3797&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2969&n=",
             "date": "16.07.2022",
-            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LIPIEC",
+            "name": "I Świdnicki Festiwal Szachowy Grupa E (na V i IV kat.)",
+            "city": "Burkatów",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3959&n=",
+            "date": "18.07.2022",
+            "name": "Aktywnie w Krainie Szachów Turniej Szachów Szybkich I Tydzień - Udział bezpłatny",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3394&n=",
-            "date": "17.07.2022",
-            "name": "Turniej OPEN przy II Lidze Juniorów",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS klasyczneFIDE"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3962&n=",
-            "date": "19.07.2022",
-            "name": "Aktywnie w Krainie Szachów Turniej Szachów Blyskawicznych I Tydzień",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3970&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3971&n=",
             "date": "20.07.2022",
-            "name": "Aktywnie w Krainie Szachów Turniej Szachów Klasycznych I Tydzień do 1400",
+            "name": "Aktywnie w Krainie Szachów Turniej Szachów Klasycznych I Tydzień do 1200",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3920&n=",
-            "date": "22.07.2022",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3969&n=",
+            "date": "20.07.2022",
+            "name": "Aktywnie w Krainie Szachów Turniej Szachów Klasycznych I Tydzień powyżej 1600",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3798&n=",
+            "date": "23.07.2022",
+            "name": "Turniej DRUGI KROK (1250-1600 PZSzach) - LIPIEC",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3961&n=",
+            "date": "26.07.2022",
+            "name": "Aktywnie w Krainie Szachów Turniej Szachów Blyskawicznych II Tydzień",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3966&n=",
+            "date": "27.07.2022",
+            "name": "Aktywnie w Krainie Szachów Turniej Szachów Klasycznych II Tydzień do 1400",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3921&n=",
+            "date": "29.07.2022",
             "name": "GRAND PRIX POLONII WROCŁAW",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3958&n=",
-            "date": "25.07.2022",
-            "name": "Aktywnie w Krainie Szachów Turniej Szachów Szybkich II Tydzień- Udział bezpłatny",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3964&n=",
-            "date": "27.07.2022",
-            "name": "Aktywnie w Krainie Szachów Turniej Szachów Klasycznych II Tydzień do 1200",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3968&n=",
-            "date": "27.07.2022",
-            "name": "Aktywnie w Krainie Szachów Turniej Szachów Klasycznych II Tydzień powyżej 1600",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_622&n=",
-            "date": "30.07.2022",
-            "name": "Memoriał Adolfa Anderssena - Festiwal Szachowy Adolfa Anderssena 2022",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_624&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_623&n=",
             "date": "31.07.2022",
-            "name": "Wrocław OPEN B - Festiwal Szachowy Adolfa Anderssena 2022",
+            "name": "Wrocław OPEN A - Festiwal Szachowy Adolfa Anderssena 2022",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS klasyczneFIDE"
@@ -584,42 +592,42 @@
    "LB": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2786&n=",
-            "date": "09.07.2022",
-            "name": "Turniej Szachowy o Puchar Sołtysa Murzynowa 2022",
-            "city": "Murzynowo",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2788&n=",
-            "date": "17.07.2022",
-            "name": "Turniej Szachowy w Szachach Szybkich w Skwierzynie 17.07.2022r.",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2787&n=",
+            "date": "10.07.2022",
+            "name": "Turniej Szachowy w Szachach Blyskawicznych w Skwierzynie 10.07.2022r.",
             "city": "Skwierzyna",
             "country": "Poland",
-            "type_and_players": "LB szybkie"
+            "type_and_players": "LB blitz"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3267&n=",
-            "date": "23.07.2022",
-            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - A1 TURNIEJ KLASYFIKACYJNY OD 1800 WZWYŻ",
-            "city": "ZIELONA",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3991&n=",
+            "date": "19.07.2022",
+            "name": "Klasyfikacyjny Turniej Szachowy O Puchar Lata 22",
+            "city": "Lubsko",
             "country": "Poland",
-            "type_and_players": "LB klasyczneFIDE"
+            "type_and_players": "LB klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3269&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3268&n=",
             "date": "23.07.2022",
-            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - C1 TURNIEJ KLASYFIKACYJNY DLA RANKINGU 1250-1400",
+            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - B1 TURNIEJ KLASYFIKACYJNY DLA RANKINGU 1600 ",
             "city": "ZIELONA",
             "country": "Poland",
             "type_and_players": "LB klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4027&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3270&n=",
             "date": "23.07.2022",
-            "name": "Mistrzostwa Powiatu Strzelecko- Drezdeneckiego dla dzieci ze szkół podstawowych",
-            "city": "Trzebicz",
+            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - D1 TURNIEJ KLASYFIKACYJNY DLA RANKINGU DO 1200",
+            "city": "ZIELONA",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3271&n=",
+            "date": "30.07.2022",
+            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - D2 TURNIEJ KLASYFIKACYJNY DLA RANKINGU DO 1200",
+            "city": "ZIELONA",
             "country": "Poland",
             "type_and_players": "LB szybkie"
          },
@@ -712,42 +720,34 @@
             "type_and_players": "LB klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2787&n=",
-            "date": "10.07.2022",
-            "name": "Turniej Szachowy w Szachach Blyskawicznych w Skwierzynie 10.07.2022r.",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2788&n=",
+            "date": "17.07.2022",
+            "name": "Turniej Szachowy w Szachach Szybkich w Skwierzynie 17.07.2022r.",
             "city": "Skwierzyna",
-            "country": "Poland",
-            "type_and_players": "LB blitz"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3991&n=",
-            "date": "19.07.2022",
-            "name": "Klasyfikacyjny Turniej Szachowy O Puchar Lata 22",
-            "city": "Lubsko",
-            "country": "Poland",
-            "type_and_players": "LB klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3268&n=",
-            "date": "23.07.2022",
-            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - B1 TURNIEJ KLASYFIKACYJNY DLA RANKINGU 1600 ",
-            "city": "ZIELONA",
-            "country": "Poland",
-            "type_and_players": "LB klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3270&n=",
-            "date": "23.07.2022",
-            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - D1 TURNIEJ KLASYFIKACYJNY DLA RANKINGU DO 1200",
-            "city": "ZIELONA",
             "country": "Poland",
             "type_and_players": "LB szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3271&n=",
-            "date": "30.07.2022",
-            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - D2 TURNIEJ KLASYFIKACYJNY DLA RANKINGU DO 1200",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3267&n=",
+            "date": "23.07.2022",
+            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - A1 TURNIEJ KLASYFIKACYJNY OD 1800 WZWYŻ",
             "city": "ZIELONA",
+            "country": "Poland",
+            "type_and_players": "LB klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3269&n=",
+            "date": "23.07.2022",
+            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - C1 TURNIEJ KLASYFIKACYJNY DLA RANKINGU 1250-1400",
+            "city": "ZIELONA",
+            "country": "Poland",
+            "type_and_players": "LB klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4027&n=",
+            "date": "23.07.2022",
+            "name": "Mistrzostwa Powiatu Strzelecko- Drezdeneckiego dla dzieci ze szkół podstawowych",
+            "city": "Trzebicz",
             "country": "Poland",
             "type_and_players": "LB szybkie"
          },
@@ -849,6 +849,14 @@
             "type_and_players": "WP szybkie"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4052&n=",
+            "date": "08.10.2022",
+            "name": "Jubileuszowy Turniej Błyskawiczny z okazji XXX -lecia ASSz Lipno Stęszew ",
+            "city": "Stęszew",
+            "country": "Poland",
+            "type_and_players": "WP blitz"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3706&n=",
             "date": "20.07.2022",
             "name": "III Klasyfikacyjny Turniej Szachowy o V i IV kategorię",
@@ -858,14 +866,6 @@
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/6555109589778432",
-            "date": "09.07.2022",
-            "name": "Turniej Szachów Szybkich przy Festiwalu Szachowy",
-            "city": "Poznań",
-            "country": "Polska",
-            "type_and_players": "Szybkie"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/5140208044474368",
             "date": "12.07.2022",
@@ -889,6 +889,22 @@
             "city": "Poznań",
             "country": "Polska",
             "type_and_players": "Błyskawiczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/4574981926158336",
+            "date": "23.07.2022",
+            "name": "Otwarty turniej szachów błyskawicznych",
+            "city": "Środa Wielkopolska",
+            "country": "Polska",
+            "type_and_players": "Błyskawiczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5524107723538432",
+            "date": "24.07.2022",
+            "name": "Otwarty turniej szachów szybkich",
+            "city": "Środa Wielkopolska",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
          },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6297116793110528",
