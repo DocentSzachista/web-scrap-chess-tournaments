@@ -1,7 +1,7 @@
 "use-strict"
 
 const linkOnClick = ( link ) =>{
-    location.href = link;
+    window.open(link, '_blank', 'noopener,noreferrer').focus();
 };
 
 const addListeners = ()=>{
