@@ -476,6 +476,14 @@
             "type_and_players": "Klasyczne"
          },
          {
+            "link": " https://www.chessmanager.com/pl/tournaments/5675123982991360",
+            "date": "10.08.2022",
+            "name": "Winterpol Blitz 2022- sierpień",
+            "city": "Jelenia Góra",
+            "country": "Polska",
+            "type_and_players": "Błyskawiczne"
+         },
+         {
             "link": " https://www.chessmanager.com/pl/tournaments/5750219808440320",
             "date": "12.08.2022",
             "name": "58. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - TURNIEJ ARCYMISTRZOWSKI",
@@ -818,14 +826,6 @@
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/5140208044474368",
-            "date": "12.07.2022",
-            "name": "Złotowski Wakacyjny Rapid",
-            "city": "Złotów",
-            "country": "Polska",
-            "type_and_players": "Szybkie"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6277673627156480",
             "date": "13.07.2022",
