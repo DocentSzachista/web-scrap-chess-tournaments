@@ -803,7 +803,32 @@
       "chessManager": []
    },
    "OP": {
-      "chessarbiter": [],
+      "chessarbiter": [
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4097&n=",
+            "date": "06.08.2022",
+            "name": "I Puchar Ziemi Strzeleckiej w Szachach - Open A (FIDE) ",
+            "city": "Strzelce",
+            "country": "Poland",
+            "type_and_players": "OP klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4098&n=",
+            "date": "06.08.2022",
+            "name": "I Puchar Ziemi Strzeleckiej w Szachach - Open C (PZSzach 1000-1200)",
+            "city": "Strzelce",
+            "country": "Poland",
+            "type_and_players": "OP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4099&n=",
+            "date": "06.08.2022",
+            "name": "I Puchar Ziemi Strzeleckiej w Szachach - Open B (PZSzach 1400-1600)",
+            "city": "Strzelce",
+            "country": "Poland",
+            "type_and_players": "OP klasyczne"
+         }
+      ],
       "chessManager": []
    },
    "WP": {
@@ -813,6 +838,14 @@
             "date": "20.07.2022",
             "name": "III Klasyfikacyjny Turniej Szachowy o V i IV kategorię",
             "city": "Luboń",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4101&n=",
+            "date": "07.08.2022",
+            "name": "XXXV INDYWIDUALNE MISTRZOSTWA WOLSZTYNA W SZACHACH ",
+            "city": "Karpicko",
             "country": "Poland",
             "type_and_players": "WP szybkie"
          },
@@ -843,9 +876,17 @@
             "type_and_players": "Błyskawiczne"
          },
          {
+            "link": " https://www.chessmanager.com/pl/tournaments/6608857867485184",
+            "date": "19.07.2022",
+            "name": "Złotowski Wakacyjny Rapid - 19.07.2022",
+            "city": "Złotów",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
             "link": " https://www.chessmanager.com/pl/tournaments/4574981926158336",
             "date": "23.07.2022",
-            "name": "Otwarty turniej szachów błyskawicznych",
+            "name": "Otwarty Turniej Szachów Błyskawicznych",
             "city": "Środa Wielkopolska",
             "country": "Polska",
             "type_and_players": "Błyskawiczne"
@@ -853,7 +894,7 @@
          {
             "link": " https://www.chessmanager.com/pl/tournaments/5524107723538432",
             "date": "24.07.2022",
-            "name": "Otwarty turniej szachów szybkich",
+            "name": "Otwarty Turniej Szachów Szybkich",
             "city": "Środa Wielkopolska",
             "country": "Polska",
             "type_and_players": "Szybkie"
@@ -863,6 +904,30 @@
             "date": "30.07.2022",
             "name": "Turniej z Okazji XXVIII dni Odolanowa -30 lipca",
             "city": "Odolanów",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5147093279703040",
+            "date": "13.08.2022",
+            "name": "X Jubileuszowy  Turniej Szachowy „Skoczki” OPEN",
+            "city": "Gaj Mały",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6184897300398080",
+            "date": "13.08.2022",
+            "name": "X Jubileuszowy  Turniej Szachowy „Skoczki” do rankingu PZSzach 1250",
+            "city": "Gaj  Mały",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5182569105588224",
+            "date": "17.09.2022",
+            "name": "Lwiątka na Szachownicy OPEN",
+            "city": "Tarnowo Podgórne",
             "country": "Polska",
             "type_and_players": "Szybkie"
          },
