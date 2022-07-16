@@ -2,30 +2,6 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2965&n=",
-            "date": "16.07.2022",
-            "name": "I Świdnicki Festiwal Szachowy Grupa A (na I i k kat.)",
-            "city": "Burkatów",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2967&n=",
-            "date": "16.07.2022",
-            "name": "I Świdnicki Festiwal Szachowy Grupa C (tylko dla kobiet/juniorek)",
-            "city": "Burkatów",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2969&n=",
-            "date": "16.07.2022",
-            "name": "I Świdnicki Festiwal Szachowy Grupa E (na V i IV kat.)",
-            "city": "Burkatów",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3959&n=",
             "date": "18.07.2022",
             "name": "Aktywnie w Krainie Szachów Turniej Szachów Szybkich I Tydzień - Udział bezpłatny",
@@ -122,7 +98,7 @@
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3922&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4133&n=",
             "date": "05.08.2022",
             "name": "GRAND PRIX POLONII WROCŁAW",
             "city": "Wrocław",
@@ -186,6 +162,30 @@
             "type_and_players": "DS szybkie"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4141&n=",
+            "date": "03.09.2022",
+            "name": "II Świdnicki Festiwal Szachowy Open A (na I i k kat.)",
+            "city": "Świdnica/Burkatów",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4143&n=",
+            "date": "03.09.2022",
+            "name": "II Świdnicki Festiwal Szachowy Open C (tylko dla kobiet/juniorek)",
+            "city": "Świdnica/Burkatów",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4145&n=",
+            "date": "03.09.2022",
+            "name": "II Świdnicki Festiwal Szachowy Open E (na V i IV kat.)",
+            "city": "Świdnica/Burkatów",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3866&n=",
             "date": "15.10.2022",
             "name": "XIII  MEMORIAŁ STANISŁAWA SOBOLEWSKIEGO - GRUPA A - OPEN",
@@ -206,30 +206,6 @@
             "date": "26.11.2022",
             "name": "26_11_2022_Mistrzostwa Oddziału Klubu HDK Legion i KSzach64 Świętoszów i Krwiodawców",
             "city": "Świętoszów",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2966&n=",
-            "date": "16.07.2022",
-            "name": "I Świdnicki Festiwal Szachowy Grupa B (na II kat.)",
-            "city": "Burkatów",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2968&n=",
-            "date": "16.07.2022",
-            "name": "I Świdnicki Festiwal Szachowy Grupa D (na III kat.)",
-            "city": "Burkatów",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3797&n=",
-            "date": "16.07.2022",
-            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LIPIEC",
-            "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
@@ -392,6 +368,22 @@
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4142&n=",
+            "date": "03.09.2022",
+            "name": "II Świdnicki Festiwal Szachowy Open B (na II kat.)",
+            "city": "Świdnica/Burkatów",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4144&n=",
+            "date": "03.09.2022",
+            "name": "II Świdnicki Festiwal Szachowy Open D (na III kat.)",
+            "city": "Świdnica/Burkatów",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3867&n=",
@@ -834,12 +826,12 @@
    "WP": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4120&n=",
-            "date": "16.07.2022",
-            "name": "IV Wakacyjny Turniej Szachów Błyskawicznych",
-            "city": "Wieleń",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3706&n=",
+            "date": "20.07.2022",
+            "name": "III Klasyfikacyjny Turniej Szachowy o V i IV kategorię",
+            "city": "Luboń",
             "country": "Poland",
-            "type_and_players": "WP blitz"
+            "type_and_players": "WP szybkie"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4101&n=",
@@ -874,14 +866,6 @@
             "type_and_players": "WP blitz"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3706&n=",
-            "date": "20.07.2022",
-            "name": "III Klasyfikacyjny Turniej Szachowy o V i IV kategorię",
-            "city": "Luboń",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4132&n=",
             "date": "17.09.2022",
             "name": " III Turniej BLITZ o Puchar ZBIGNIEWA PAKLEZY",
@@ -891,14 +875,6 @@
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/6734929602805760",
-            "date": "16.07.2022",
-            "name": "Turniej Szachów Błyskawicznych przy Festiwalu Szachowym",
-            "city": "Poznań",
-            "country": "Polska",
-            "type_and_players": "Błyskawiczne"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6608857867485184",
             "date": "19.07.2022",
