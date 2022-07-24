@@ -784,17 +784,17 @@
             "city": "Ślesin",
             "country": "Poland",
             "type_and_players": "WP blitz"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4203&n=",
+            "date": "23.10.2022",
+            "name": "XXIX Festiwal Szachowy w Poznaniu ",
+            "city": "Poznań",
+            "country": "Poland",
+            "type_and_players": "WP klasyczne"
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/5524107723538432",
-            "date": "24.07.2022",
-            "name": "Otwarty Turniej Szachów Szybkich",
-            "city": "Środa Wielkopolska",
-            "country": "Polska",
-            "type_and_players": "Szybkie"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/4806617733267456",
             "date": "26.07.2022",
@@ -858,6 +858,14 @@
             "city": "Stęszew",
             "country": "Polska",
             "type_and_players": "Błyskawiczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6207507350421504",
+            "date": "23.10.2022",
+            "name": "XXIX Festiwal Szachowy w Poznaniu",
+            "city": "Poznań",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
          },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6267424367181824",
