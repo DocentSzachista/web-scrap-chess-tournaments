@@ -82,6 +82,14 @@
             "type_and_players": "DS szybkie"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4260&n=",
+            "date": "12.08.2022",
+            "name": "turniej szachów szybkich Hotel Europa o Puchar oboz-szachowy.pl",
+            "city": "Polanica-Zdrój",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3085&n=",
             "date": "13.08.2022",
             "name": "58. Festiwal Szachowy im. Akiby Rubinsteina - OPEN A",
@@ -114,9 +122,17 @@
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3799&n=",
-            "date": "20.08.2022",
-            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - SIERPIEŃ",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3924&n=",
+            "date": "19.08.2022",
+            "name": "GRAND PRIX POLONII WROCŁAW",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3925&n=",
+            "date": "26.08.2022",
+            "name": "GRAND PRIX POLONII WROCŁAW",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
@@ -250,6 +266,14 @@
             "type_and_players": "DS klasyczne"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4261&n=",
+            "date": "12.08.2022",
+            "name": "turniej szachów szybkich Hotel Sara o Puchar oboz-szachowy.pl",
+            "city": "Polanica-Zdrój",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3086&n=",
             "date": "13.08.2022",
             "name": "58. Festiwal Szachowy im. Akiby Rubinsteina - OPEN B",
@@ -274,17 +298,17 @@
             "type_and_players": "DS klasyczneFIDE"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3924&n=",
-            "date": "19.08.2022",
-            "name": "GRAND PRIX POLONII WROCŁAW",
-            "city": "Wrocław",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4258&n=",
+            "date": "14.08.2022",
+            "name": "Borówkowy OPEN w Wałbrzychu",
+            "city": "Wałbrzych",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3925&n=",
-            "date": "26.08.2022",
-            "name": "GRAND PRIX POLONII WROCŁAW",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3799&n=",
+            "date": "20.08.2022",
+            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - SIERPIEŃ",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
@@ -589,7 +613,7 @@
             "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - A2 TURNIEJ KLASYFIKACYJNY OD 1800 WZWYŻ",
             "city": "ZIELONA",
             "country": "Poland",
-            "type_and_players": "LB klasyczneFIDE"
+            "type_and_players": "LB klasyczne"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3278&n=",
@@ -664,10 +688,35 @@
             "type_and_players": "LB klasyczne"
          }
       ],
-      "chessManager": []
+      "chessManager": [
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6344431453077504",
+            "date": "02.08.2022",
+            "name": "ChessCamp4Kids Dąbie 2022 - Grupa A",
+            "city": "Dąbie",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5206973713743872",
+            "date": "02.08.2022",
+            "name": "ChessCamp4Kids Dąbie 2022 - Grupa B",
+            "city": "Dąbie",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         }
+      ]
    },
    "OP": {
       "chessarbiter": [
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4255&n=",
+            "date": "29.07.2022",
+            "name": "XIV Letnia Akademia Szachowa pamięci Jana Piszczka - turniej piąty",
+            "city": "Brzeg",
+            "country": "Poland",
+            "type_and_players": "OP szybkie"
+         },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4097&n=",
             "date": "06.08.2022",
