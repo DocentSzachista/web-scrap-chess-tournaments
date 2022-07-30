@@ -2,14 +2,6 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_622&n=",
-            "date": "30.07.2022",
-            "name": "Memoriał Adolfa Anderssena - Festiwal Szachowy Adolfa Anderssena 2022",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4178&n=",
             "date": "31.07.2022",
             "name": "Wałbrzyskie Wakacje Szachowe! - turniej szachów błyskawicznych",
@@ -186,14 +178,6 @@
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4177&n=",
-            "date": "30.07.2022",
-            "name": "Wałbrzyskie Wakacje Szachowe! - turniej szachów szybkich",
-            "city": "Wałbrzych",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_623&n=",
             "date": "31.07.2022",
             "name": "Wrocław OPEN A - Festiwal Szachowy Adolfa Anderssena 2022",
@@ -348,14 +332,6 @@
       ],
       "chessManager": [
          {
-            "link": " https://www.chessmanager.com/pl/tournaments/4788636374532096",
-            "date": "30.07.2022",
-            "name": "Memoriał Adolfa Anderssena - Festiwal Anderssena 2022",
-            "city": "Wrocław",
-            "country": "Polska",
-            "type_and_players": "Szybkie"
-         },
-         {
             "link": " https://www.chessmanager.com/pl/tournaments/5679916092751872",
             "date": "31.07.2022",
             "name": "Wrocław OPEN A - Festiwal Szachowy Adolfa Anderssena 2022",
@@ -495,14 +471,6 @@
    },
    "LB": {
       "chessarbiter": [
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3271&n=",
-            "date": "30.07.2022",
-            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - D2 TURNIEJ KLASYFIKACYJNY DLA RANKINGU DO 1200",
-            "city": "ZIELONA",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
-         },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4125&n=",
             "date": "07.08.2022",
@@ -702,6 +670,14 @@
    "OP": {
       "chessarbiter": [
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4290&n=",
+            "date": "01.08.2022",
+            "name": "XIV LAS pamięci Jana Piszczka - turniej  hołd Powstańcom Warszawskim",
+            "city": "Brzeg",
+            "country": "Poland",
+            "type_and_players": "OP szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4097&n=",
             "date": "06.08.2022",
             "name": "I Puchar Ziemi Strzeleckiej w Szachach - Open A (FIDE) ",
@@ -714,6 +690,14 @@
             "date": "06.08.2022",
             "name": "I Puchar Ziemi Strzeleckiej w Szachach - Open C (PZSzach 1000-1200)",
             "city": "Strzelce",
+            "country": "Poland",
+            "type_and_players": "OP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4301&n=",
+            "date": "02.08.2022",
+            "name": "XIV LAS pamięci Jana Piszczka - turniej siódmy  hołd Żołnierzom Niezłomnym",
+            "city": "Brzeg",
             "country": "Poland",
             "type_and_players": "OP szybkie"
          },
@@ -780,14 +764,6 @@
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/6297116793110528",
-            "date": "30.07.2022",
-            "name": "Turniej z Okazji XXVIII dni Odolanowa -30 lipca",
-            "city": "Odolanów",
-            "country": "Polska",
-            "type_and_players": "Szybkie"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/5110519603134464",
             "date": "02.08.2022",
