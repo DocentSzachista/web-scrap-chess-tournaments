@@ -94,6 +94,7 @@ As intention of this script was just to automate my search for tournaments in my
 ```
  
 # How to use it?
+
 ## Mailing
  Add ``smtpServer.json`` with configurations for smpt server to project directory. Example file contents:
   ```
@@ -104,9 +105,25 @@ As intention of this script was just to automate my search for tournaments in my
     "port" : 123
 }
   ```
-If you want to send emails you only need to use command in project directory:
+If you want to send emails you need to first create json file with following structure:  
 ```
-python3 script.py mailing 
+[
+  {
+    "user": "example@example.com",
+    "preferences": {
+      "tournament_name":"",
+      "tempo_option":"",
+      "tournament_status":"PLANNED",
+      "country_state": "DS",
+      "tournament_city":""
+    }
+  }
+]
+```
+
+Next, you only need to call script:
+```
+python3 script.py mailing your-preferences-json-file 
 ```  
 ## Github actions powered script 
 ### How it works
