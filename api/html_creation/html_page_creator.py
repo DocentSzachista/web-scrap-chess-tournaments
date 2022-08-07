@@ -1,7 +1,3 @@
-
-
-
-
 def generate_html_header(head_tags: str | None =""):
     return f"""
         <head>

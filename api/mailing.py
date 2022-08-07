@@ -119,11 +119,16 @@ def send_email(
     email_html_message["Subject"] = "Chess tournaments newsletter"
     email_html_message.attach(MIMEText(html, "html"))
     email_string = email_html_message.as_string()
-    context = ssl.create_default_context()
-    with smtplib.SMTP_SSL(sender_data["smtp_server"], sender_data["port"], context=context) as server:
+    # context = ssl.create_default_context()
+    # with smtplib.SMTP_SSL(sender_data["smtp_server"], sender_data["port"], context=context) as server:
+    try:
+        server = smtplib.SMTP_SSL(sender_data["smtp_server"], sender_data["port"])
+        server.ehlo()
         server.login(sender_data["sender_email"], sender_data["password"])
-        server.sendmail(sender_data["sender_email"], receiver_email, email_string)
-
+        server.sendmail(sender_data["sender_email"], receiver_email, email_string)        
+        server.close()
+    except: 
+        print("Something went wrong ")
 def parse_html_to_file(
     country_state : str, 
     data : list, 

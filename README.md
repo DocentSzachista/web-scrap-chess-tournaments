@@ -16,10 +16,10 @@ This is a repository that contains scripts allowing to webscrap two chess tourna
    - [Webscrapped data structure](#webscrapped-data-structure)
 - [How to install it](#how-to-install-it)
 - [How to use it](#how-to-use-it)
-  - [FastAPI](#fastapi)
+  - [Mailing](#mailing)
   - [Automated script](#automated-script)
 - [requirements.txt content](#requirementstxt-content)
-- [Additional notes](#additional-informations)
+- [Additional informations](#additional-informations)
 
 # Webscrapping
 
@@ -94,7 +94,7 @@ As intention of this script was just to automate my search for tournaments in my
 ```
  
 # How to use it?
-## FastAPI
+## Mailing
  Add ``smtpServer.json`` with configurations for smpt server to project directory. Example file contents:
   ```
 {
@@ -104,14 +104,14 @@ As intention of this script was just to automate my search for tournaments in my
     "port" : 123
 }
   ```
-If you want to launch fastAPI server you only need to use command in project directory:
+If you want to send emails you only need to use command in project directory:
 ```
-python3 main.py 
+python3 script.py mailing 
 ```  
-## Automated script 
+## Github actions powered script 
 ### How it works
 Script webscrapps informations from websites and later saves them into tournaments.json file in `docs/htmlLists` directory. When its done it calls git commands to push changes into repository. Then the github pages are being rebuilt and when the process is done you can simply see data on [github pages](https://docentszachista.github.io/web-scrap-chess-tournaments/).
-If you want to make it actually work I **recommend to fork repository**
+If you want to make it actually work for your preferences I **recommend to fork repository**
 ### Required files to add
 In order to make script work as intended, you need to add `userPreferences.json` file to your project directory.
 It should contain following fields:
@@ -129,7 +129,7 @@ Example file content:
         "tournament_tempo":"",
         "tournament_status":"PLANNED",
         "country_state": "DS",
-        "tournament_city":""
+        "tournament_city":"Wroclaw"
     },
     {
         "tournament_name":"",
@@ -169,6 +169,6 @@ apscheduler
 "uvicorn[standard]"
 ```
 ## Additional informations
-You need to use another provider than google, because they have turned off their support for using gmail as SMTP service (but changing to other mail domain will work as well) at 30.05.2022 year
-### UPDATE TO NOTE
-Actually you can still use google, only what you need to do is to enable 2-factor authetincation which is described [here](https://stackoverflow.com/questions/72577189/gmail-smtp-server-stopped-working-as-it-no-longer-support-less-secure-apps) 
+If you want to use Google Gmail as a SMTP provider, you need to enable 2-factor authetincation  because at 30.05.2022 Google has turned off simpler way to enable for use your own gmail account as SMTP service due to safe risks which that way imposed. If you want to know how to do it, [here](https://stackoverflow.com/questions/72577189/gmail-smtp-server-stopped-working-as-it-no-longer-support-less-secure-apps) is described process the proccess.
+
+

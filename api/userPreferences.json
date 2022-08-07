@@ -1,28 +1,28 @@
 [
     {
         "tournament_name":"",
-        "tournament_tempo":"",
+        "tempo_option":"",
         "tournament_status":"PLANNED",
         "country_state": "DS",
         "tournament_city":""
     },
     {
         "tournament_name":"",
-        "tournament_tempo":"",
+        "tempo_option":"",
         "tournament_status":"PLANNED",
         "country_state": "LB",
         "tournament_city":""
     },
     {
         "tournament_name":"",
-        "tournament_tempo":"",
+        "tempo_option":"",
         "tournament_status":"PLANNED",
         "country_state": "OP",
         "tournament_city":""
     },
     {
         "tournament_name":"",
-        "tournament_tempo":"",
+        "tempo_option":"",
         "tournament_status":"PLANNED",
         "country_state": "WP",
         "tournament_city":""

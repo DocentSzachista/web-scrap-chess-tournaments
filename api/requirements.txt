@@ -3,8 +3,6 @@ APScheduler
 uvicorn
 requests
 urllib3
-fastapi
 prettytable
-pymongo
 mongoengine
 email-validator

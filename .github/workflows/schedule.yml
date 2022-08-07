@@ -19,7 +19,7 @@ jobs:
            python -m pip install --upgrade pip 
            pip install -r ./api/requirements.txt
      - name: execute script webscrapping data
-       run: python ./api/script.py
+       run: python ./api/script.py repository ./api/userPreferences.json
      - name: commit files
        run: |
           git config --local user.email "idontknow5325@gmail.com"

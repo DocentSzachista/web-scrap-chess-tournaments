@@ -155,7 +155,7 @@ class TournamentsScrapper:
                         # print(table_data)
                         print("Something propably has gone wrong with aquiring columns")
                         
-            print(f" chessarbiter {len(tournament_list)}")
+            # print(f" chessarbiter {len(tournament_list)}")
             return tournament_list
        
         element  = "tr"

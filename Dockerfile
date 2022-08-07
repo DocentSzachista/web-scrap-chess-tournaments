@@ -8,4 +8,4 @@ RUN pip install -r ./requirements.txt
 
 COPY ./api /deployment/api
 
-CMD ["python", "./api/main.py"]
+CMD ["python3", "./api/script.py"]
