@@ -94,7 +94,6 @@ As intention of this script was just to automate my search for tournaments in my
 ```
  
 # How to use it?
-
 ## Mailing
  Add ``smtpServer.json`` with configurations for smpt server to project directory. Example file contents:
   ```
@@ -171,7 +170,10 @@ Example file content:
     }
 ]
 ```
-
+How the file is called in github actions:
+```
+  python3 ./api/script.py repository ./api/userPreferences.json
+```
 
 # requirements.txt content
 ```
