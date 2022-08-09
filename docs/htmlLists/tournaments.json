@@ -428,6 +428,14 @@
             "type_and_players": "Klasyczne"
          },
          {
+            "link": " https://www.chessmanager.com/pl/tournaments/5155026872827904",
+            "date": "09.11.2022",
+            "name": "Winterpol Blitz 2022- listopad",
+            "city": "Jelenia Góra",
+            "country": "Polska",
+            "type_and_players": "Błyskawiczne"
+         },
+         {
             "link": " https://www.chessmanager.com/pl/tournaments/5676113704517632",
             "date": "07.12.2022",
             "name": "Winterpol Blitz 2022- grudzień",
@@ -683,12 +691,20 @@
       ],
       "chessManager": [
          {
-            "link": " https://www.chessmanager.com/pl/tournaments/5158789733941248",
-            "date": "09.08.2022",
-            "name": "Złotowski  Wakacyjny Rapid - 09.08.2022",
-            "city": "Złotów",
+            "link": " https://www.chessmanager.com/pl/tournaments/4898931864502272",
+            "date": "10.08.2022",
+            "name": "Pomysł GrandPrix #10.2",
+            "city": "Poznan",
             "country": "Polska",
-            "type_and_players": "Szybkie"
+            "type_and_players": "Błyskawiczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5119844379787264",
+            "date": "12.08.2022",
+            "name": "Sierpniowy Turniej szachowy w Kórniku",
+            "city": "Kórnik",
+            "country": "Polska",
+            "type_and_players": "Błyskawiczne"
          },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/5147093279703040",
