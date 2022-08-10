@@ -2,81 +2,73 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4147&n=",
-            "date": "10.08.2022",
-            "name": "WINTERPOL BLITZ- sierpień 2022 (zgłoszony do FIDE)",
-            "city": "Jelenia",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3923&n=",
+            "date": "12.08.2022",
+            "name": "GRAND PRIX POLONII WROCŁAW",
+            "city": "Wrocław",
             "country": "Poland",
-            "type_and_players": "DS blitz"
+            "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2264&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4260&n=",
             "date": "12.08.2022",
-            "name": "Obóz szkoleniowy Akademia Młodego Szachisty",
-            "city": "Wrocław",
+            "name": "turniej szachów szybkich Hotel Europa o Puchar oboz-szachowy.pl",
+            "city": "Polanica-Zdrój",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3085&n=",
+            "date": "13.08.2022",
+            "name": "58. Festiwal Szachowy im. Akiby Rubinsteina - OPEN A",
+            "city": "Polanica-Zdrój",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3088&n=",
+            "date": "13.08.2022",
+            "name": "58. Festiwal Szachowy im. Akiby Rubinsteina - OPEN C (SENIORZY)",
+            "city": "Polanica-Zdrój",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3089&n=",
+            "date": "13.08.2022",
+            "name": "58. Festiwal Szachowy im. Akiby Rubinsteina - OPEN E",
+            "city": "Polanica-Zdrój",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3091&n=",
+            "date": "13.08.2022",
+            "name": "58. Festiwal Szachowy im. Akiby Rubinsteina - OPEN G",
+            "city": "Polanica-Zdrój",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4261&n=",
-            "date": "12.08.2022",
-            "name": "turniej szachów szybkich Hotel Sara o Puchar oboz-szachowy.pl",
-            "city": "Polanica-Zdrój",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4316&n=",
+            "date": "16.08.2022",
+            "name": "Borowice - turniej klasyfikacyjny",
+            "city": "Borowice",
             "country": "Poland",
-            "type_and_players": "DS szybkie"
+            "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3086&n=",
-            "date": "13.08.2022",
-            "name": "58. Festiwal Szachowy im. Akiby Rubinsteina - OPEN B",
-            "city": "Polanica-Zdrój",
-            "country": "Poland",
-            "type_and_players": "DS klasyczneFIDE"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3087&n=",
-            "date": "13.08.2022",
-            "name": "58. Festiwal Szachowy im. Akiby Rubinsteina - OPEN D",
-            "city": "Polanica-Zdrój",
-            "country": "Poland",
-            "type_and_players": "DS klasyczneFIDE"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3090&n=",
-            "date": "13.08.2022",
-            "name": "58. Festiwal Szachowy im. Akiby Rubinsteina - OPEN F",
-            "city": "Polanica-Zdrój",
-            "country": "Poland",
-            "type_and_players": "DS klasyczneFIDE"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4258&n=",
-            "date": "14.08.2022",
-            "name": "Borówkowy OPEN w Wałbrzychu",
-            "city": "Wałbrzych",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3924&n=",
-            "date": "19.08.2022",
-            "name": "GRAND PRIX POLONII WROCŁAW",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3799&n=",
+            "date": "20.08.2022",
+            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - SIERPIEŃ",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3925&n=",
-            "date": "26.08.2022",
-            "name": "GRAND PRIX POLONII WROCŁAW",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4390&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4389&n=",
             "date": "27.08.2022",
-            "name": "Turniej Powakacyjny- U13",
+            "name": "Turniej powakacyjny- OPEN",
             "city": "Jelenia",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
@@ -170,73 +162,73 @@
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3923&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2264&n=",
             "date": "12.08.2022",
+            "name": "Obóz szkoleniowy Akademia Młodego Szachisty",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4261&n=",
+            "date": "12.08.2022",
+            "name": "turniej szachów szybkich Hotel Sara o Puchar oboz-szachowy.pl",
+            "city": "Polanica-Zdrój",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3086&n=",
+            "date": "13.08.2022",
+            "name": "58. Festiwal Szachowy im. Akiby Rubinsteina - OPEN B",
+            "city": "Polanica-Zdrój",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3087&n=",
+            "date": "13.08.2022",
+            "name": "58. Festiwal Szachowy im. Akiby Rubinsteina - OPEN D",
+            "city": "Polanica-Zdrój",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3090&n=",
+            "date": "13.08.2022",
+            "name": "58. Festiwal Szachowy im. Akiby Rubinsteina - OPEN F",
+            "city": "Polanica-Zdrój",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4258&n=",
+            "date": "14.08.2022",
+            "name": "Borówkowy OPEN w Wałbrzychu",
+            "city": "Wałbrzych",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3924&n=",
+            "date": "19.08.2022",
             "name": "GRAND PRIX POLONII WROCŁAW",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4260&n=",
-            "date": "12.08.2022",
-            "name": "turniej szachów szybkich Hotel Europa o Puchar oboz-szachowy.pl",
-            "city": "Polanica-Zdrój",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3085&n=",
-            "date": "13.08.2022",
-            "name": "58. Festiwal Szachowy im. Akiby Rubinsteina - OPEN A",
-            "city": "Polanica-Zdrój",
-            "country": "Poland",
-            "type_and_players": "DS klasyczneFIDE"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3088&n=",
-            "date": "13.08.2022",
-            "name": "58. Festiwal Szachowy im. Akiby Rubinsteina - OPEN C (SENIORZY)",
-            "city": "Polanica-Zdrój",
-            "country": "Poland",
-            "type_and_players": "DS klasyczneFIDE"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3089&n=",
-            "date": "13.08.2022",
-            "name": "58. Festiwal Szachowy im. Akiby Rubinsteina - OPEN E",
-            "city": "Polanica-Zdrój",
-            "country": "Poland",
-            "type_and_players": "DS klasyczneFIDE"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3091&n=",
-            "date": "13.08.2022",
-            "name": "58. Festiwal Szachowy im. Akiby Rubinsteina - OPEN G",
-            "city": "Polanica-Zdrój",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4316&n=",
-            "date": "16.08.2022",
-            "name": "Borowice - turniej klasyfikacyjny",
-            "city": "Borowice",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3799&n=",
-            "date": "20.08.2022",
-            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - SIERPIEŃ",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3925&n=",
+            "date": "26.08.2022",
+            "name": "GRAND PRIX POLONII WROCŁAW",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4389&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4390&n=",
             "date": "27.08.2022",
-            "name": "Turniej powakacyjny- OPEN",
+            "name": "Turniej Powakacyjny- U13",
             "city": "Jelenia",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
@@ -323,14 +315,6 @@
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/5675123982991360",
-            "date": "10.08.2022",
-            "name": "Winterpol Blitz 2022- sierpień",
-            "city": "Jelenia Góra",
-            "country": "Polska",
-            "type_and_players": "Błyskawiczne"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/5750219808440320",
             "date": "12.08.2022",
@@ -690,14 +674,6 @@
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/4898931864502272",
-            "date": "10.08.2022",
-            "name": "Pomysł GrandPrix #10.2",
-            "city": "Poznan",
-            "country": "Polska",
-            "type_and_players": "Błyskawiczne"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/5119844379787264",
             "date": "12.08.2022",
