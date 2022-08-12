@@ -2,22 +2,6 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3923&n=",
-            "date": "12.08.2022",
-            "name": "GRAND PRIX POLONII WROCŁAW",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4260&n=",
-            "date": "12.08.2022",
-            "name": "turniej szachów szybkich Hotel Europa o Puchar oboz-szachowy.pl",
-            "city": "Polanica-Zdrój",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3085&n=",
             "date": "13.08.2022",
             "name": "58. Festiwal Szachowy im. Akiby Rubinsteina - OPEN A",
@@ -162,22 +146,6 @@
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2264&n=",
-            "date": "12.08.2022",
-            "name": "Obóz szkoleniowy Akademia Młodego Szachisty",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4261&n=",
-            "date": "12.08.2022",
-            "name": "turniej szachów szybkich Hotel Sara o Puchar oboz-szachowy.pl",
-            "city": "Polanica-Zdrój",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3086&n=",
             "date": "13.08.2022",
             "name": "58. Festiwal Szachowy im. Akiby Rubinsteina - OPEN B",
@@ -316,14 +284,6 @@
       ],
       "chessManager": [
          {
-            "link": " https://www.chessmanager.com/pl/tournaments/5750219808440320",
-            "date": "12.08.2022",
-            "name": "58. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - TURNIEJ ARCYMISTRZOWSKI",
-            "city": "Polanica-Zdrój",
-            "country": "Polska",
-            "type_and_players": "Klasyczne"
-         },
-         {
             "link": " https://www.chessmanager.com/pl/tournaments/6302112452444160",
             "date": "13.08.2022",
             "name": "58. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN A",
@@ -335,14 +295,6 @@
             "link": " https://www.chessmanager.com/pl/tournaments/6227564218548224",
             "date": "13.08.2022",
             "name": "58. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN B",
-            "city": "Polanica-Zdrój",
-            "country": "Polska",
-            "type_and_players": "Klasyczne"
-         },
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/6241342473633792",
-            "date": "13.08.2022",
-            "name": "58. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN C (SENIORZY)",
             "city": "Polanica-Zdrój",
             "country": "Polska",
             "type_and_players": "Klasyczne"
@@ -375,6 +327,14 @@
             "link": " https://www.chessmanager.com/pl/tournaments/5733658414546944",
             "date": "13.08.2022",
             "name": "58. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN G",
+            "city": "Polanica-Zdrój",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6241342473633792",
+            "date": "13.08.2022",
+            "name": "58. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - PROBIT OPEN C (SENIORZY)",
             "city": "Polanica-Zdrój",
             "country": "Polska",
             "type_and_players": "Klasyczne"
@@ -674,14 +634,6 @@
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/5119844379787264",
-            "date": "12.08.2022",
-            "name": "Sierpniowy Turniej szachowy w Kórniku",
-            "city": "Kórnik",
-            "country": "Polska",
-            "type_and_players": "Błyskawiczne"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/5147093279703040",
             "date": "13.08.2022",
