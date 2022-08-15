@@ -292,14 +292,6 @@
       ],
       "chessManager": [
          {
-            "link": " https://www.chessmanager.com/pl/tournaments/5180164947312640",
-            "date": "15.08.2022",
-            "name": "58. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - turniej szachów błyskawicznych  15.08.2022",
-            "city": "Polanica-Zdrój",
-            "country": "Polska",
-            "type_and_players": "Błyskawiczne"
-         },
-         {
             "link": " https://www.chessmanager.com/pl/tournaments/5145586199166976",
             "date": "16.08.2022",
             "name": "58. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - turniej szachów szybkich 16.08.2022",
@@ -585,6 +577,14 @@
             "type_and_players": "WP szybkie"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4501&n=",
+            "date": "21.08.2022",
+            "name": "Turniej Szachowy  z okazji 35-lecia Klubu M-GOK Gambit Ślesin",
+            "city": "Ślesin",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4131&n=",
             "date": "13.09.2022",
             "name": "III Turniej o Puchar Zbigniewa Paklezy o II kategorię",
@@ -627,18 +627,18 @@
       ],
       "chessManager": [
          {
-            "link": " https://www.chessmanager.com/pl/tournaments/4918132532576256",
-            "date": "15.08.2022",
-            "name": "XI Ogólnopolski Turniej Szachowy o Puchar Wójta Gminy Ostrów Wielkopolski",
-            "city": "Gorzyce Wielkie",
-            "country": "Polska",
-            "type_and_players": "Szybkie"
-         },
-         {
             "link": " https://www.chessmanager.com/pl/tournaments/4684194505555968",
             "date": "16.08.2022",
             "name": "Złotowski Wakacyjny Rapid - 16.08.2022",
             "city": "Złotów",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/4911943702806528",
+            "date": "20.08.2022",
+            "name": "Szachowe zakończenie lata 2022r",
+            "city": "Ostrow Wielkopolski",
             "country": "Polska",
             "type_and_players": "Szybkie"
          },
