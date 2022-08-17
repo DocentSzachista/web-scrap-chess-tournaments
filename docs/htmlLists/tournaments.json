@@ -284,14 +284,6 @@
       ],
       "chessManager": [
          {
-            "link": " https://www.chessmanager.com/pl/tournaments/5134654970527744",
-            "date": "17.08.2022",
-            "name": "58. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - turniej szachów Fischera 17.08.2022",
-            "city": "Polanica-Zdrój",
-            "country": "Polska",
-            "type_and_players": "Szybkie"
-         },
-         {
             "link": " https://www.chessmanager.com/pl/tournaments/5123678778949632",
             "date": "18.08.2022",
             "name": "58. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - wieczorny blitz 18.08.2022",
@@ -385,11 +377,11 @@
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_242&n=",
-            "date": "29.08.2022",
-            "name": "Szachy klasyczne z GKSz'em",
+            "date": "26.08.2022",
+            "name": "Szachy klasyczne z GKSz'em (FIDE)",
             "city": "Gubin",
             "country": "Poland",
-            "type_and_players": "LB klasyczne"
+            "type_and_players": "LB klasyczneFIDE"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_243&n=",
@@ -464,6 +456,14 @@
             "type_and_players": "LB szybkie"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4533&n=",
+            "date": "22.08.2022",
+            "name": "Letnie zgrupowanie szkoleniowe",
+            "city": "Strzelce",
+            "country": "Poland",
+            "type_and_players": "LB klasyczne"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3098&n=",
             "date": "28.08.2022",
             "name": "Turniej Szachowy w Szachach Szybkich w Skwierzynie 28.08.2022r.",
@@ -529,10 +529,10 @@
    "WP": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4369&n=",
-            "date": "17.08.2022",
-            "name": "Otwarty turniej szachowy na V i IV kategorię szachową",
-            "city": "Środa",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4501&n=",
+            "date": "21.08.2022",
+            "name": "Turniej Szachowy  z okazji 35-lecia Klubu M-GOK Gambit Ślesin",
+            "city": "Ślesin",
             "country": "Poland",
             "type_and_players": "WP szybkie"
          },
@@ -569,10 +569,10 @@
             "type_and_players": "WP szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4501&n=",
-            "date": "21.08.2022",
-            "name": "Turniej Szachowy  z okazji 35-lecia Klubu M-GOK Gambit Ślesin",
-            "city": "Ślesin",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4522&n=",
+            "date": "28.08.2022",
+            "name": "TURNIEJ SZACHOWY - Z MATEM NA TY",
+            "city": "Wolsztyn",
             "country": "Poland",
             "type_and_players": "WP szybkie"
          },
