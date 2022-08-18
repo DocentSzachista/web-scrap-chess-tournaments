@@ -276,21 +276,13 @@
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3410&n=",
             "date": "30.11.2022",
-            "name": "30.11-02.12.2022_Mistrzostwa 10 BKPanc w szachach klasycznych - 2022",
+            "name": "30.11-01.12.2022_Mistrzostwa 10 BKPanc w szachach klasycznych - 2022",
             "city": "Świętoszów",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/5123678778949632",
-            "date": "18.08.2022",
-            "name": "58. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - wieczorny blitz 18.08.2022",
-            "city": "Polanica-Zdrój",
-            "country": "Polska",
-            "type_and_players": "Błyskawiczne"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6260554877370368",
             "date": "19.08.2022",
@@ -384,33 +376,33 @@
             "type_and_players": "LB klasyczneFIDE"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_243&n=",
-            "date": "10.09.2022",
-            "name": "Szachy szybkie z GKSz'em",
-            "city": "Gubin",
-            "country": "Poland",
-            "type_and_players": "LB blitz"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2282&n=",
-            "date": "11.09.2022",
-            "name": "XI TURNIEJ SZACHOWY O PUCHAR BACHUSA - GRUPA A (do FIDE)",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4546&n=",
+            "date": "03.09.2022",
+            "name": "LUBUSKA AKADEMIA SZACHOWA",
             "city": "ZIELONA",
             "country": "Poland",
             "type_and_players": "LB blitz"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2605&n=",
-            "date": "16.09.2022",
-            "name": "Integracyjny BLITZ dla uczestników Mistrzostw Polski Honorowych Dawców Krwi PCK",
-            "city": "Sława",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4428&n=",
+            "date": "11.09.2022",
+            "name": "Turniej Szachowy w Szachach Szybkich w Skwierzynie 11.09.2022r.",
+            "city": "Skwierzyna",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2283&n=",
+            "date": "11.09.2022",
+            "name": "XI TURNIEJ SZACHOWY O PUCHAR BACHUSA - GRUPA B",
+            "city": "ZIELONA",
             "country": "Poland",
             "type_and_players": "LB blitz"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2288&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2287&n=",
             "date": "25.09.2022",
-            "name": "OTWARTE MISTRZOSTWA ZIELONEJ GÓRY - GRUPA B",
+            "name": "OTWARTE MISTRZOSTWA ZIELONEJ GÓRY - GRUPA A (do FIDE)",
             "city": "ZIELONA",
             "country": "Poland",
             "type_and_players": "LB blitz"
@@ -472,25 +464,33 @@
             "type_and_players": "LB szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4428&n=",
-            "date": "11.09.2022",
-            "name": "Turniej Szachowy w Szachach Szybkich w Skwierzynie 11.09.2022r.",
-            "city": "Skwierzyna",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_243&n=",
+            "date": "10.09.2022",
+            "name": "Szachy szybkie z GKSz'em",
+            "city": "Gubin",
             "country": "Poland",
-            "type_and_players": "LB szybkie"
+            "type_and_players": "LB blitz"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2283&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2282&n=",
             "date": "11.09.2022",
-            "name": "XI TURNIEJ SZACHOWY O PUCHAR BACHUSA - GRUPA B",
+            "name": "XI TURNIEJ SZACHOWY O PUCHAR BACHUSA - GRUPA A (do FIDE)",
             "city": "ZIELONA",
             "country": "Poland",
             "type_and_players": "LB blitz"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2287&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2605&n=",
+            "date": "16.09.2022",
+            "name": "Integracyjny BLITZ dla uczestników Mistrzostw Polski Honorowych Dawców Krwi PCK",
+            "city": "Sława",
+            "country": "Poland",
+            "type_and_players": "LB blitz"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2288&n=",
             "date": "25.09.2022",
-            "name": "OTWARTE MISTRZOSTWA ZIELONEJ GÓRY - GRUPA A (do FIDE)",
+            "name": "OTWARTE MISTRZOSTWA ZIELONEJ GÓRY - GRUPA B",
             "city": "ZIELONA",
             "country": "Poland",
             "type_and_players": "LB blitz"
