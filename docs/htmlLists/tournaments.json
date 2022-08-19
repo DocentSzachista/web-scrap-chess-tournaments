@@ -2,33 +2,25 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3924&n=",
-            "date": "19.08.2022",
-            "name": "GRAND PRIX POLONII WROCŁAW",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3799&n=",
+            "date": "20.08.2022",
+            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - SIERPIEŃ",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4481&n=",
-            "date": "23.08.2022",
-            "name": "Borowice - turniej szachów błyskawicznych",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4482&n=",
+            "date": "24.08.2022",
+            "name": "Borowice - turniej szachów szybkich",
             "city": "Borowice",
             "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3925&n=",
-            "date": "26.08.2022",
-            "name": "GRAND PRIX POLONII WROCŁAW",
-            "city": "Wrocław",
-            "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4390&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4389&n=",
             "date": "27.08.2022",
-            "name": "Turniej Powakacyjny- U13",
+            "name": "Turniej powakacyjny- OPEN",
             "city": "Jelenia",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
@@ -138,41 +130,41 @@
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3409&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4380&n=",
             "date": "26.11.2022",
-            "name": "26_11_2022_Mistrzostwa Oddziału Klubu HDK Legion i KSzach64 Świętoszów i Krwiodawców",
+            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LISTOPAD do lat 12",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3410&n=",
+            "date": "01.12.2022",
+            "name": "01-02.12.2022_Mistrzostwa 10 BKPanc w szachach klasycznych - 2022",
             "city": "Świętoszów",
             "country": "Poland",
-            "type_and_players": "DS szybkie"
+            "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4381&n=",
-            "date": "26.11.2022",
-            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LISTOPAD od lat 13",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3799&n=",
-            "date": "20.08.2022",
-            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - SIERPIEŃ",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4482&n=",
-            "date": "24.08.2022",
-            "name": "Borowice - turniej szachów szybkich",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4481&n=",
+            "date": "23.08.2022",
+            "name": "Borowice - turniej szachów błyskawicznych",
             "city": "Borowice",
             "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3925&n=",
+            "date": "26.08.2022",
+            "name": "GRAND PRIX POLONII WROCŁAW",
+            "city": "Wrocław",
+            "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4389&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4390&n=",
             "date": "27.08.2022",
-            "name": "Turniej powakacyjny- OPEN",
+            "name": "Turniej Powakacyjny- U13",
             "city": "Jelenia",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
@@ -266,36 +258,28 @@
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4380&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4381&n=",
             "date": "26.11.2022",
-            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LISTOPAD do lat 12",
+            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LISTOPAD od lat 13",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3410&n=",
-            "date": "30.11.2022",
-            "name": "30.11-01.12.2022_Mistrzostwa 10 BKPanc w szachach klasycznych - 2022",
-            "city": "Świętoszów",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/6260554877370368",
-            "date": "19.08.2022",
-            "name": "58. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - turniej Kloca 19.08.2022",
-            "city": "Polanica-Zdrój",
-            "country": "Polska",
-            "type_and_players": "Błyskawiczne"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/4892086114451456",
             "date": "20.08.2022",
             "name": "58. Festiwal Szachowy im. Akiby Rubinsteina - symultana z Arcymistrzem Zbigniewem Paklezą",
             "city": "Polanica-Zdrój ",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5159114540843008",
+            "date": "27.08.2022",
+            "name": "Drugi Turniej Szachowy Tarnogaj 27.08.2022",
+            "city": "Wroclaw",
             "country": "Polska",
             "type_and_players": "Szybkie"
          },
@@ -324,6 +308,22 @@
             "type_and_players": "Klasyczne"
          },
          {
+            "link": " https://www.chessmanager.com/pl/tournaments/5153988723867648",
+            "date": "07.09.2022",
+            "name": "Winterpol Blitz 2022- wrzesień",
+            "city": "Jelenia Góra",
+            "country": "Polska",
+            "type_and_players": "Błyskawiczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5716938677288960",
+            "date": "05.10.2022",
+            "name": "Winterpol Blitz 2022- październik",
+            "city": "Jelenia Góra",
+            "country": "Polska",
+            "type_and_players": "Błyskawiczne"
+         },
+         {
             "link": " https://www.chessmanager.com/pl/tournaments/5155026872827904",
             "date": "09.11.2022",
             "name": "Winterpol Blitz 2022- listopad",
@@ -343,22 +343,6 @@
    },
    "LB": {
       "chessarbiter": [
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3276&n=",
-            "date": "19.08.2022",
-            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - A2 TURNIEJ KLASYFIKACYJNY OD 1800 WZWYŻ",
-            "city": "ZIELONA",
-            "country": "Poland",
-            "type_and_players": "LB klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3278&n=",
-            "date": "19.08.2022",
-            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - C2 TURNIEJ KLASYFIKACYJNY DLA RANKINGU 1250-1400",
-            "city": "ZIELONA",
-            "country": "Poland",
-            "type_and_players": "LB klasyczne"
-         },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3279&n=",
             "date": "20.08.2022",
@@ -430,22 +414,6 @@
             "city": "Gubin",
             "country": "Poland",
             "type_and_players": "LB klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3277&n=",
-            "date": "19.08.2022",
-            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - B2 TURNIEJ KLASYFIKACYJNY DLA RANKINGU 1600 ",
-            "city": "ZIELONA",
-            "country": "Poland",
-            "type_and_players": "LB klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3272&n=",
-            "date": "19.08.2022",
-            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - D3 TURNIEJ KLASYFIKACYJNY DLA RANKINGU DO 1200",
-            "city": "ZIELONA",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4533&n=",
@@ -643,6 +611,14 @@
             "type_and_players": "Szybkie"
          },
          {
+            "link": " https://www.chessmanager.com/pl/tournaments/4866200187174912",
+            "date": "10.09.2022",
+            "name": "Grand Prix o Puchar Pięterka - turniej wrześniowy",
+            "city": "Poznań",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
             "link": " https://www.chessmanager.com/pl/tournaments/5122933753118720",
             "date": "13.09.2022",
             "name": "III Turniej OPEN o Puchar Zbigniewa Paklezy o II kategorię",
@@ -761,6 +737,14 @@
             "city": "Sypniewo k. Jastrowia",
             "country": "Polska",
             "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5079696837443584",
+            "date": "24.09.2022",
+            "name": "II OTWARTE  MISTRZOSTWA POWIATU GRODZISKIEGO  W SZACHACH SZYBKICH",
+            "city": "Grodzisk Wielkopolski",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
          },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/5097218307522560",
