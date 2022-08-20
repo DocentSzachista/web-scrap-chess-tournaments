@@ -2,25 +2,25 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3799&n=",
-            "date": "20.08.2022",
-            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - SIERPIEŃ",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4481&n=",
+            "date": "23.08.2022",
+            "name": "Borowice - turniej szachów błyskawicznych",
+            "city": "Borowice",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3925&n=",
+            "date": "26.08.2022",
+            "name": "GRAND PRIX POLONII WROCŁAW",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4482&n=",
-            "date": "24.08.2022",
-            "name": "Borowice - turniej szachów szybkich",
-            "city": "Borowice",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4389&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4390&n=",
             "date": "27.08.2022",
-            "name": "Turniej powakacyjny- OPEN",
+            "name": "Turniej Powakacyjny- U13",
             "city": "Jelenia",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
@@ -98,6 +98,54 @@
             "type_and_players": "DS szybkie"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4591&n=",
+            "date": "25.09.2022",
+            "name": "Mistrzostwa Dolnego Śląska Juniorów w Szachach Szybkich - CHŁOPCY do lat 12",
+            "city": "Kłodzko",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4595&n=",
+            "date": "25.09.2022",
+            "name": "Mistrzostwa Dolnego Śląska Juniorów w Szachach Szybkich - CHŁOPCY do lat 16",
+            "city": "Kłodzko",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4587&n=",
+            "date": "25.09.2022",
+            "name": "Mistrzostwa Dolnego Śląska Juniorów w Szachach Szybkich - CHŁOPCY do lat 8",
+            "city": "Kłodzko",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4592&n=",
+            "date": "25.09.2022",
+            "name": "Mistrzostwa Dolnego Śląska Juniorów w Szachach Szybkich - DZIEWCZĘTA do lat 12",
+            "city": "Kłodzko",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4596&n=",
+            "date": "25.09.2022",
+            "name": "Mistrzostwa Dolnego Śląska Juniorów w Szachach Szybkich - DZIEWCZĘTA do lat 16",
+            "city": "Kłodzko",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4588&n=",
+            "date": "25.09.2022",
+            "name": "Mistrzostwa Dolnego Śląska Juniorów w Szachach Szybkich - DZIEWCZĘTA do lat 8",
+            "city": "Kłodzko",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4376&n=",
             "date": "01.10.2022",
             "name": "Turniej DRUGI KROK (1250-1600 PZSzach) - PAŹDZIERNIK",
@@ -146,25 +194,17 @@
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4481&n=",
-            "date": "23.08.2022",
-            "name": "Borowice - turniej szachów błyskawicznych",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4482&n=",
+            "date": "24.08.2022",
+            "name": "Borowice - turniej szachów szybkich",
             "city": "Borowice",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3925&n=",
-            "date": "26.08.2022",
-            "name": "GRAND PRIX POLONII WROCŁAW",
-            "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4390&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4389&n=",
             "date": "27.08.2022",
-            "name": "Turniej Powakacyjny- U13",
+            "name": "Turniej powakacyjny- OPEN",
             "city": "Jelenia",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
@@ -226,6 +266,54 @@
             "type_and_players": "DS szybkie"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4589&n=",
+            "date": "25.09.2022",
+            "name": "Mistrzostwa Dolnego Śląska Juniorów w Szachach Szybkich - CHŁOPCY do lat 10",
+            "city": "Kłodzko",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4593&n=",
+            "date": "25.09.2022",
+            "name": "Mistrzostwa Dolnego Śląska Juniorów w Szachach Szybkich - CHŁOPCY do lat 14",
+            "city": "Kłodzko",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4597&n=",
+            "date": "25.09.2022",
+            "name": "Mistrzostwa Dolnego Śląska Juniorów w Szachach Szybkich - CHŁOPCY do lat 18",
+            "city": "Kłodzko",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4590&n=",
+            "date": "25.09.2022",
+            "name": "Mistrzostwa Dolnego Śląska Juniorów w Szachach Szybkich - DZIEWCZĘTA do lat 10",
+            "city": "Kłodzko",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4594&n=",
+            "date": "25.09.2022",
+            "name": "Mistrzostwa Dolnego Śląska Juniorów w Szachach Szybkich - DZIEWCZĘTA do lat 14",
+            "city": "Kłodzko",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4598&n=",
+            "date": "25.09.2022",
+            "name": "Mistrzostwa Dolnego Śląska Juniorów w Szachach Szybkich - DZIEWCZĘTA do lat 18",
+            "city": "Kłodzko",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4377&n=",
             "date": "15.10.2022",
             "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - PAŹDZIERNIK do lat 12",
@@ -267,14 +355,6 @@
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/4892086114451456",
-            "date": "20.08.2022",
-            "name": "58. Festiwal Szachowy im. Akiby Rubinsteina - symultana z Arcymistrzem Zbigniewem Paklezą",
-            "city": "Polanica-Zdrój ",
-            "country": "Polska",
-            "type_and_players": "Szybkie"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/5159114540843008",
             "date": "27.08.2022",
@@ -344,20 +424,20 @@
    "LB": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3279&n=",
-            "date": "20.08.2022",
-            "name": "LUBUSZANIE ZDOBYWAJĄ KATEGORIE - D4 TURNIEJ KLASYFIKACYJNY DLA RANKINGU DO 1200",
-            "city": "ZIELONA",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4533&n=",
+            "date": "22.08.2022",
+            "name": "Letnie zgrupowanie szkoleniowe",
+            "city": "Strzelce",
             "country": "Poland",
-            "type_and_players": "LB szybkie"
+            "type_and_players": "LB klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_242&n=",
-            "date": "26.08.2022",
-            "name": "Szachy klasyczne z GKSz'em (FIDE)",
-            "city": "Gubin",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3098&n=",
+            "date": "28.08.2022",
+            "name": "Turniej Szachowy w Szachach Szybkich w Skwierzynie 28.08.2022r.",
+            "city": "Skwierzyna",
             "country": "Poland",
-            "type_and_players": "LB klasyczneFIDE"
+            "type_and_players": "LB szybkie"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4546&n=",
@@ -416,20 +496,12 @@
             "type_and_players": "LB klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4533&n=",
-            "date": "22.08.2022",
-            "name": "Letnie zgrupowanie szkoleniowe",
-            "city": "Strzelce",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_242&n=",
+            "date": "26.08.2022",
+            "name": "Szachy klasyczne z GKSz'em (FIDE)",
+            "city": "Gubin",
             "country": "Poland",
-            "type_and_players": "LB klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3098&n=",
-            "date": "28.08.2022",
-            "name": "Turniej Szachowy w Szachach Szybkich w Skwierzynie 28.08.2022r.",
-            "city": "Skwierzyna",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
+            "type_and_players": "LB klasyczneFIDE"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_243&n=",
@@ -587,10 +659,10 @@
       ],
       "chessManager": [
          {
-            "link": " https://www.chessmanager.com/pl/tournaments/4911943702806528",
-            "date": "20.08.2022",
-            "name": "Szachowe zakończenie lata 2022r",
-            "city": "Ostrow Wielkopolski",
+            "link": " https://www.chessmanager.com/pl/tournaments/6271006344740864",
+            "date": "23.08.2022",
+            "name": "Złotowski Wakacyjny Rapid - 23.08.2022",
+            "city": "Złotów",
             "country": "Polska",
             "type_and_players": "Szybkie"
          },
