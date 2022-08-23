@@ -87,24 +87,32 @@ class TournamentsScrapper:
             if len(date_divided) == 3:
                 return f"{date_divided[0]}.{date_divided[2]}" 
             return date
+        
         for anchor in anchors :
             # Retrieve text and clean it from white signs and reformat so its easy to split up meaningfull data
             text = anchor.text    
             formatted_text = re.sub( "\s\s\s+", "   ",text.replace('\n', '').strip())
             data = formatted_text.split("   ")
-            city, country = data[4].split(", ")
-            if name.lower() not in data[2].lower() and name != "":
-                continue 
-            # Add tournament info to list 
-            tournament_list.append({
-            "link" : f" https://www.chessmanager.com{anchor['href']}",
-            "date" : format_date(data[0].replace("\xa0" , "")),
-            # "rounds" : data[1].replace("0/" , ""), 
-            "name": data[2],
-            "city": city,
-            "country": country,
-            "type_and_players": data[3].split(":")[0],  
-            })
+            try:
+                city, country = data[4].split(", ")
+            except ValueError:
+                city = data[4]
+                country = "No data"
+                print("Split there was not enough data to be splitted, one var is being labeled as 'No Data'")
+                
+            finally:
+                if name.lower() not in data[2].lower() and name != "":
+                    continue 
+                # Add tournament info to list 
+                tournament_list.append({
+                "link" : f" https://www.chessmanager.com{anchor['href']}",
+                "date" : format_date(data[0].replace("\xa0" , "")),
+                # "rounds" : data[1].replace("0/" , ""), 
+                "name": data[2],
+                "city": city,
+                "country": country,
+                "type_and_players": data[3].split(":")[0],  
+                })
         return tournament_list
 
     @staticmethod
