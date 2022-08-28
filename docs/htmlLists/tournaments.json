@@ -356,6 +356,38 @@
             "type_and_players": "Błyskawiczne"
          },
          {
+            "link": " https://www.chessmanager.com/pl/tournaments/6233122787033088",
+            "date": "10.09.2022",
+            "name": "II Memoriał Szachowy Mariana Gabrysiaka, Grupa D",
+            "city": "Jaworzyna Śląska",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/4836544914391040",
+            "date": "10.09.2022",
+            "name": "II Memoriał Szachowy Mariana Gabrysiaka, Grupa A",
+            "city": "Jaworzyna Śląska",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5472830058659840",
+            "date": "10.09.2022",
+            "name": "II Memoriał Szachowy Mariana Gabrysiaka, Grupa B",
+            "city": "Jaworzyna Śląska",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5439938662236160",
+            "date": "10.09.2022",
+            "name": "II Memoriał Szachowy Mariana Gabrysiaka, Grupa C",
+            "city": "Jaworzyna Śląska",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
             "link": " https://www.chessmanager.com/pl/tournaments/5716938677288960",
             "date": "05.10.2022",
             "name": "Winterpol Blitz 2022- październik",
@@ -383,14 +415,6 @@
    },
    "LB": {
       "chessarbiter": [
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3098&n=",
-            "date": "28.08.2022",
-            "name": "Turniej Szachowy w Szachach Szybkich w Skwierzynie 28.08.2022r.",
-            "city": "Skwierzyna",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
-         },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4546&n=",
             "date": "03.09.2022",
@@ -537,82 +561,10 @@
    "WP": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4522&n=",
-            "date": "28.08.2022",
-            "name": "TURNIEJ SZACHOWY - Z MATEM NA TY",
-            "city": "Wolsztyn",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4627&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4735&n=",
             "date": "03.09.2022",
-            "name": "Mistrzostwa Miasta i Gminy Nowy Tomyśl w Szachach Szybkich",
-            "city": "Nowy",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4628&n=",
-            "date": "10.09.2022",
-            "name": "Grand Prix o Puchar Pięterka - turniej wrześniowy (zgłoszony do FIDE)",
-            "city": "Poznań",
-            "country": "Poland",
-            "type_and_players": "WP klasyczneFIDE"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4614&n=",
-            "date": "14.09.2022",
-            "name": "SYMULTANA z arcymistrzem Arturem Jakubcem",
-            "city": "Ślesin",
-            "country": "Poland",
-            "type_and_players": "WP inne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4616&n=",
-            "date": "16.09.2022",
-            "name": "SYMULTANA z arcymistrzem Kamilem Mitoniem",
-            "city": "Ślesin",
-            "country": "Poland",
-            "type_and_players": "WP inne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4372&n=",
-            "date": "17.09.2022",
-            "name": "IV Klasyfikacyjny Turniej Szachowy o V i IV kat. (pod hasłem \"Pożegnanie lata)",
-            "city": "Luboń",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4117&n=",
-            "date": "17.09.2022",
-            "name": "TURNIEJ SZACHOWY WITAJ SZKOŁO DLA DZIECI MŁODZIEŻY DOROSŁYCH DK ORLE GNIAZDO",
-            "city": "POZNAŃ",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4052&n=",
-            "date": "08.10.2022",
-            "name": "Jubileuszowy Turniej Błyskawiczny z okazji XXX -lecia ASSz Lipno Stęszew ",
-            "city": "Stęszew",
-            "country": "Poland",
-            "type_and_players": "WP blitz"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4487&n=",
-            "date": "12.10.2022",
-            "name": "PCSzN \"IDEA\" Turniej B",
-            "city": "Karpicko",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4674&n=",
-            "date": "03.09.2022",
-            "name": "II TURNIEJ SZACHOWY DLA DZIECI  MŁODZIEŻY I DOROSŁYCH",
-            "city": "PRZEŹMIEROWO",
+            "name": "IV Turniej szachowy z okazji Święta ulicy Niecałej",
+            "city": "Kalisz",
             "country": "Poland",
             "type_and_players": "WP szybkie"
          },
@@ -663,6 +615,78 @@
             "city": "Luboń",
             "country": "Poland",
             "type_and_players": "WP klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4052&n=",
+            "date": "08.10.2022",
+            "name": "Jubileuszowy Turniej Błyskawiczny z okazji XXX -lecia ASSz Lipno Stęszew ",
+            "city": "Stęszew",
+            "country": "Poland",
+            "type_and_players": "WP blitz"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4487&n=",
+            "date": "12.10.2022",
+            "name": "PCSzN \"IDEA\" Turniej B",
+            "city": "Karpicko",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4674&n=",
+            "date": "03.09.2022",
+            "name": "II TURNIEJ SZACHOWY DLA DZIECI  MŁODZIEŻY I DOROSŁYCH",
+            "city": "PRZEŹMIEROWO",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4627&n=",
+            "date": "03.09.2022",
+            "name": "Mistrzostwa Miasta i Gminy Nowy Tomyśl w Szachach Szybkich",
+            "city": "Nowy",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4628&n=",
+            "date": "10.09.2022",
+            "name": "Grand Prix o Puchar Pięterka - turniej wrześniowy (zgłoszony do FIDE)",
+            "city": "Poznań",
+            "country": "Poland",
+            "type_and_players": "WP klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4614&n=",
+            "date": "14.09.2022",
+            "name": "SYMULTANA z arcymistrzem Arturem Jakubcem",
+            "city": "Ślesin",
+            "country": "Poland",
+            "type_and_players": "WP inne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4616&n=",
+            "date": "16.09.2022",
+            "name": "SYMULTANA z arcymistrzem Kamilem Mitoniem",
+            "city": "Ślesin",
+            "country": "Poland",
+            "type_and_players": "WP inne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4372&n=",
+            "date": "17.09.2022",
+            "name": "IV Klasyfikacyjny Turniej Szachowy o V i IV kat. (pod hasłem \"Pożegnanie lata)",
+            "city": "Luboń",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4117&n=",
+            "date": "17.09.2022",
+            "name": "TURNIEJ SZACHOWY WITAJ SZKOŁO DLA DZIECI MŁODZIEŻY DOROSŁYCH DK ORLE GNIAZDO",
+            "city": "POZNAŃ",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4486&n=",
