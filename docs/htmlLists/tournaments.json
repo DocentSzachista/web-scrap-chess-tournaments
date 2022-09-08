@@ -784,17 +784,17 @@
             "type_and_players": "LB blitz"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4688&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4687&n=",
             "date": "24.09.2022",
-            "name": "VIII Memoriał Mirosława Borkowskiego w ramach Grand Prix Ziemi Lubuskiej - B",
+            "name": "VIII Memoriał Mirosława Borkowskiego w ramach Grand Prix Ziemi Lubuskiej - A",
             "city": "Kożuchów",
             "country": "Poland",
             "type_and_players": "LB szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2288&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2287&n=",
             "date": "25.09.2022",
-            "name": "OTWARTE MISTRZOSTWA ZIELONEJ GÓRY - GRUPA B (juniorzy do 1400)",
+            "name": "OTWARTE MISTRZOSTWA ZIELONEJ GÓRY - GRUPA A (do FIDE)",
             "city": "ZIELONA",
             "country": "Poland",
             "type_and_players": "LB blitz"
@@ -864,17 +864,25 @@
             "type_and_players": "LB blitz"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4687&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2020/ti_3379&n=",
+            "date": "16.09.2022",
+            "name": "XII  Grand Prix SP-1 Zielona Góra. (1)",
+            "city": "Zielona",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4688&n=",
             "date": "24.09.2022",
-            "name": "VIII Memoriał Mirosława Borkowskiego w ramach Grand Prix Ziemi Lubuskiej - A",
+            "name": "VIII Memoriał Mirosława Borkowskiego w ramach Grand Prix Ziemi Lubuskiej - B",
             "city": "Kożuchów",
             "country": "Poland",
             "type_and_players": "LB szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2287&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2288&n=",
             "date": "25.09.2022",
-            "name": "OTWARTE MISTRZOSTWA ZIELONEJ GÓRY - GRUPA A (do FIDE)",
+            "name": "OTWARTE MISTRZOSTWA ZIELONEJ GÓRY - GRUPA B (juniorzy do 1400)",
             "city": "ZIELONA",
             "country": "Poland",
             "type_and_players": "LB blitz"
@@ -994,26 +1002,34 @@
             "type_and_players": "WP klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4901&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4924&n=",
+            "date": "02.10.2022",
+            "name": "GP 2022/23 Klubu Raszyn ",
+            "city": "Poznań",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4906&n=",
             "date": "08.10.2022",
-            "name": "Gr. A - II Dziecięcy Szachowy cykl 8 turniejów GRAND PRIX - turniej pierwszy ",
+            "name": "Gr. B - II Dziecięcy Szachowy cykl 8 turniejów GRAND PRIX - turniej pierwszy ",
             "city": "Swarzędz",
             "country": "Poland",
             "type_and_players": "WP szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4052&n=",
-            "date": "08.10.2022",
-            "name": "Jubileuszowy Turniej Błyskawiczny z okazji XXX -lecia ASSz Lipno Stęszew ",
-            "city": "Stęszew",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4486&n=",
+            "date": "10.10.2022",
+            "name": "PCSzN \"IDEA\" Turniej A ",
+            "city": "Karpicko",
             "country": "Poland",
-            "type_and_players": "WP blitz"
+            "type_and_players": "WP szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4487&n=",
-            "date": "12.10.2022",
-            "name": "PCSzN \"IDEA\" Turniej B",
-            "city": "Karpicko",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4926&n=",
+            "date": "16.10.2022",
+            "name": "GP Klubu Raszyn 2022/23 Turniej nr 2",
+            "city": "Poznań",
             "country": "Poland",
             "type_and_players": "WP szybkie"
          },
@@ -1058,17 +1074,25 @@
             "type_and_players": "WP szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4906&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4901&n=",
             "date": "08.10.2022",
-            "name": "Gr. B - II Dziecięcy Szachowy cykl 8 turniejów GRAND PRIX - turniej pierwszy ",
+            "name": "Gr. A - II Dziecięcy Szachowy cykl 8 turniejów GRAND PRIX - turniej pierwszy ",
             "city": "Swarzędz",
             "country": "Poland",
             "type_and_players": "WP szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4486&n=",
-            "date": "10.10.2022",
-            "name": "PCSzN \"IDEA\" Turniej A ",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4052&n=",
+            "date": "08.10.2022",
+            "name": "Jubileuszowy Turniej Błyskawiczny z okazji XXX -lecia ASSz Lipno Stęszew ",
+            "city": "Stęszew",
+            "country": "Poland",
+            "type_and_players": "WP blitz"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4487&n=",
+            "date": "12.10.2022",
+            "name": "PCSzN \"IDEA\" Turniej B",
             "city": "Karpicko",
             "country": "Poland",
             "type_and_players": "WP szybkie"
