@@ -762,7 +762,7 @@
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2287&n=",
             "date": "25.09.2022",
-            "name": "OTWARTE MISTRZOSTWA ZIELONEJ GÓRY - GRUPA A (do FIDE)",
+            "name": "OTWARTE MISTRZOSTWA ZIELONEJ GÓRY - GRUPA A (do FIDE) - pula nagród rzeczowych ponad 2000 zł - wpisowe 0 zł",
             "city": "ZIELONA",
             "country": "Poland",
             "type_and_players": "LB blitz"
@@ -834,7 +834,7 @@
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2288&n=",
             "date": "25.09.2022",
-            "name": "OTWARTE MISTRZOSTWA ZIELONEJ GÓRY - GRUPA B (juniorzy do 1400)",
+            "name": "OTWARTE MISTRZOSTWA ZIELONEJ GÓRY - GRUPA B (juniorzy do 1400) - wpisowe 0 zł",
             "city": "ZIELONA",
             "country": "Poland",
             "type_and_players": "LB blitz"
@@ -914,86 +914,6 @@
    "WP": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4131&n=",
-            "date": "13.09.2022",
-            "name": "III Turniej o Puchar Zbigniewa Paklezy o II kategorię",
-            "city": "Ślesin",
-            "country": "Poland",
-            "type_and_players": "WP klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4615&n=",
-            "date": "15.09.2022",
-            "name": "SYMULTANA z arcymistrzem Zbigniewem Paklezą",
-            "city": "Ślesin",
-            "country": "Poland",
-            "type_and_players": "WP klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4989&n=",
-            "date": "16.09.2022",
-            "name": "Szachowy Grand Prix o Puchar APATOR POWGAZ -wrzesień",
-            "city": "Kórnik",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4372&n=",
-            "date": "17.09.2022",
-            "name": "IV Klasyfikacyjny Turniej Szachowy o V i IV kat. (pod hasłem \"Pożegnanie lata)",
-            "city": "Luboń",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4117&n=",
-            "date": "17.09.2022",
-            "name": "TURNIEJ SZACHOWY WITAJ SZKOŁO DLA DZIECI MŁODZIEŻY DOROSŁYCH DK ORLE GNIAZDO",
-            "city": "POZNAŃ",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4968&n=",
-            "date": "30.09.2022",
-            "name": "Mistrzostwa KTS Kalisz 1 turniej wrzesień grupa do lat 12 do 1400",
-            "city": "Kalisz",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4924&n=",
-            "date": "02.10.2022",
-            "name": "GP 2022/23 Klubu Raszyn ",
-            "city": "Poznań",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4906&n=",
-            "date": "08.10.2022",
-            "name": "Gr. B - II Dziecięcy Szachowy cykl 8 turniejów GRAND PRIX - turniej pierwszy ",
-            "city": "Swarzędz",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4486&n=",
-            "date": "10.10.2022",
-            "name": "PCSzN \"IDEA\" Turniej A ",
-            "city": "Karpicko",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4926&n=",
-            "date": "16.10.2022",
-            "name": "GP Klubu Raszyn 2022/23 Turniej nr 2",
-            "city": "Poznań",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4614&n=",
             "date": "14.09.2022",
             "name": "SYMULTANA z arcymistrzem Arturem Jakubcem",
@@ -1042,6 +962,78 @@
             "type_and_players": "WP szybkie"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4924&n=",
+            "date": "02.10.2022",
+            "name": "GP 2022/23 Klubu Raszyn ",
+            "city": "Poznań",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4906&n=",
+            "date": "08.10.2022",
+            "name": "Gr. B - II Dziecięcy Szachowy cykl 8 turniejów GRAND PRIX - turniej pierwszy ",
+            "city": "Swarzędz",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4486&n=",
+            "date": "10.10.2022",
+            "name": "PCSzN \"IDEA\" Turniej A ",
+            "city": "Karpicko",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4926&n=",
+            "date": "16.10.2022",
+            "name": "GP Klubu Raszyn 2022/23 Turniej nr 2",
+            "city": "Poznań",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4615&n=",
+            "date": "15.09.2022",
+            "name": "SYMULTANA z arcymistrzem Zbigniewem Paklezą",
+            "city": "Ślesin",
+            "country": "Poland",
+            "type_and_players": "WP klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4989&n=",
+            "date": "16.09.2022",
+            "name": "Szachowy Grand Prix o Puchar APATOR POWGAZ -wrzesień",
+            "city": "Kórnik",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4372&n=",
+            "date": "17.09.2022",
+            "name": "IV Klasyfikacyjny Turniej Szachowy o V i IV kat. (pod hasłem \"Pożegnanie lata)",
+            "city": "Luboń",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4117&n=",
+            "date": "17.09.2022",
+            "name": "TURNIEJ SZACHOWY WITAJ SZKOŁO DLA DZIECI MŁODZIEŻY DOROSŁYCH DK ORLE GNIAZDO",
+            "city": "POZNAŃ",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4968&n=",
+            "date": "30.09.2022",
+            "name": "Mistrzostwa KTS Kalisz 1 turniej wrzesień grupa do lat 12 do 1400",
+            "city": "Kalisz",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4901&n=",
             "date": "08.10.2022",
             "name": "Gr. A - II Dziecięcy Szachowy cykl 8 turniejów GRAND PRIX - turniej pierwszy ",
@@ -1075,14 +1067,6 @@
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/5122933753118720",
-            "date": "13.09.2022",
-            "name": "III Turniej OPEN o Puchar Zbigniewa Paklezy o II kategorię",
-            "city": "Ślesin",
-            "country": "Polska",
-            "type_and_players": "Klasyczne"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/5155943009484800",
             "date": "14.09.2022",
@@ -1240,6 +1224,54 @@
             "date": "09.10.2022",
             "name": "Mistrzostwa Gminy Swarzędz na rok 2022 w Szachach - dorośli",
             "city": "Swarzędz",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6510287730507776",
+            "date": "16.10.2022",
+            "name": "Mistrzostwa Wielkopolski Juniorów i Młodzików w szachach szybkich 2022, gr.  C-10",
+            "city": "Ślesin",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6654370864168960",
+            "date": "16.10.2022",
+            "name": "Mistrzostwa Wielkopolski Juniorów i Młodzików w szachach szybkich 2022, gr.  C-14",
+            "city": "Ślesin",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/4680700381888512",
+            "date": "16.10.2022",
+            "name": "Mistrzostwa Wielkopolski Juniorów i Młodzików w szachach szybkich 2022, gr.  C-18",
+            "city": "Ślesin",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5355561748004864",
+            "date": "16.10.2022",
+            "name": "Mistrzostwa Wielkopolski Juniorów i Młodzików w szachach szybkich 2022, gr.  D-10",
+            "city": "Ślesin",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5127715612000256",
+            "date": "16.10.2022",
+            "name": "Mistrzostwa Wielkopolski Juniorów i Młodzików w szachach szybkich 2022, gr.  D-14",
+            "city": "Ślesin",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5930341786189824",
+            "date": "16.10.2022",
+            "name": "Mistrzostwa Wielkopolski Juniorów i Młodzików w szachach szybkich 2022, gr.  D-18",
+            "city": "Ślesin",
             "country": "Polska",
             "type_and_players": "Szybkie"
          },
