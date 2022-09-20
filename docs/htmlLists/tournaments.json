@@ -540,6 +540,14 @@
       ],
       "chessManager": [
          {
+            "link": " https://www.chessmanager.com/pl/tournaments/5196458576838656",
+            "date": "30.09.2022",
+            "name": "Psie Pole 2022",
+            "city": "Wroclaw",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
             "link": " https://www.chessmanager.com/pl/tournaments/5716938677288960",
             "date": "05.10.2022",
             "name": "Winterpol Blitz 2022- październik",
@@ -744,17 +752,17 @@
             "type_and_players": "LB szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5045&n=",
-            "date": "10.12.2022",
-            "name": "WEEKEND SZACHOWY - Standard",
-            "city": "GORZÓW",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5142&n=",
+            "date": "04.12.2022",
+            "name": "Otwarty Turniej Szachowy o Puchar Wójta Gminy Pszczew",
+            "city": "Pszczew",
             "country": "Poland",
-            "type_and_players": "LB klasyczne"
+            "type_and_players": "LB szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_244&n=",
-            "date": "27.12.2022",
-            "name": "Szachy klasyczne z GKSz'em",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_245&n=",
+            "date": "17.12.2022",
+            "name": "Turniej na kategorie z GKSz'em",
             "city": "Gubin",
             "country": "Poland",
             "type_and_players": "LB klasyczne"
@@ -856,9 +864,17 @@
             "type_and_players": "LB szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_245&n=",
-            "date": "17.12.2022",
-            "name": "Turniej na kategorie z GKSz'em",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5045&n=",
+            "date": "10.12.2022",
+            "name": "WEEKEND SZACHOWY - Standard",
+            "city": "GORZÓW",
+            "country": "Poland",
+            "type_and_players": "LB klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_244&n=",
+            "date": "27.12.2022",
+            "name": "Szachy klasyczne z GKSz'em",
             "city": "Gubin",
             "country": "Poland",
             "type_and_players": "LB klasyczne"
@@ -988,12 +1004,12 @@
       ],
       "chessManager": [
          {
-            "link": " https://www.chessmanager.com/pl/tournaments/5122316032802816",
-            "date": "20.09.2022",
-            "name": "ZŁOTOWSKA LIGA SZACHOWA - 2022/2023 - runda 3",
-            "city": "Złotów",
+            "link": " https://www.chessmanager.com/pl/tournaments/4869037180846080",
+            "date": "21.09.2022",
+            "name": "Pomysł GrandPrix #11.3",
+            "city": "Poznan",
             "country": "Polska",
-            "type_and_players": "Szybkie"
+            "type_and_players": "Błyskawiczne"
          },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/5111425283391488",
