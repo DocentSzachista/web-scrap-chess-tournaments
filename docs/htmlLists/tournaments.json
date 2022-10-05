@@ -2,14 +2,6 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5344&n=",
-            "date": "05.10.2022",
-            "name": "Środy w KS AZS Wratislavia",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4806&n=",
             "date": "07.10.2022",
             "name": "GRAND PRIX POLONII WROCŁAW",
@@ -274,14 +266,6 @@
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4934&n=",
-            "date": "05.10.2022",
-            "name": "Winterpol Blitz 2022- październik",
-            "city": "Jelenia",
-            "country": "Poland",
-            "type_and_players": "DS blitz"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5367&n=",
             "date": "08.10.2022",
             "name": "CYKL 4 PÓR ROKU: LETNIE TURNIEJE SZACHOWE do lat 9 KS AZS Wratislavia",
@@ -531,14 +515,6 @@
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/5716938677288960",
-            "date": "05.10.2022",
-            "name": "Winterpol Blitz 2022- październik",
-            "city": "Jelenia Góra",
-            "country": "Polska",
-            "type_and_players": "Błyskawiczne"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6350964308049920",
             "date": "12.10.2022",
@@ -1019,6 +995,14 @@
          }
       ],
       "chessManager": [
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/4703852818333696",
+            "date": "06.10.2022",
+            "name": "Spotkanie Zbycholudowe w Poznaniu",
+            "city": "Poznan",
+            "country": "Polska",
+            "type_and_players": "Błyskawiczne"
+         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/5097218307522560",
             "date": "08.10.2022",
