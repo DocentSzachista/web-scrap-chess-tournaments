@@ -996,14 +996,6 @@
       ],
       "chessManager": [
          {
-            "link": " https://www.chessmanager.com/pl/tournaments/4703852818333696",
-            "date": "06.10.2022",
-            "name": "Spotkanie Zbycholudowe w Poznaniu",
-            "city": "Poznan",
-            "country": "Polska",
-            "type_and_players": "Błyskawiczne"
-         },
-         {
             "link": " https://www.chessmanager.com/pl/tournaments/5097218307522560",
             "date": "08.10.2022",
             "name": "Jubileuszowy  Turniej Błyskawiczny z okazji XXX-lecia Sekcji Szachowej",
@@ -1024,6 +1016,14 @@
             "date": "09.10.2022",
             "name": "Mistrzostwa Gminy Swarzędz na rok 2022 w Szachach - dorośli",
             "city": "Swarzędz",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6082645466284032",
+            "date": "15.10.2022",
+            "name": "Powiatowy Turniej Szachowy o Puchar Starosty Powiatu Słupeckiego Jacka Bartkowiaka i o Puchar Burmistrza Miasta Słupcy Michała Pyrzyka",
+            "city": "Słupca",
             "country": "Polska",
             "type_and_players": "Szybkie"
          },
@@ -1090,6 +1090,14 @@
             "city": "Poznań",
             "country": "Polska",
             "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5398681151864832",
+            "date": "06.11.2022",
+            "name": "Mistrzostwa Powiatu Średzkiego w Szachach na rok 2022",
+            "city": "Środa Wielkopolska",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
          },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/5338614289399808",
