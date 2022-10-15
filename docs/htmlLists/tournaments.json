@@ -2,54 +2,6 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5547&n=",
-            "date": "15.10.2022",
-            "name": "Piersze Kroki Turniejowe",
-            "city": "Legnica",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5603&n=",
-            "date": "15.10.2022",
-            "name": "Turniej na IV kategorię",
-            "city": "Kłodzko",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4378&n=",
-            "date": "15.10.2022",
-            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - PAŹDZIERNIK od lat 13",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3867&n=",
-            "date": "15.10.2022",
-            "name": "XIII  MEMORIAŁ STANISŁAWA SOBOLEWSKIEGO - GRUPA B - do lat 14",
-            "city": "Strzelin",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5736&n=",
-            "date": "15.10.2022",
-            "name": "XXI Mistrzostwa Bogatyni w cyklu Grand Prix - GRUPA A - 8 turniej",
-            "city": "Bogatynia",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5738&n=",
-            "date": "15.10.2022",
-            "name": "XXI Mistrzostwa Bogatyni w cyklu Grand Prix - GRUPA C - 8 turniej",
-            "city": "Bogatynia",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5352&n=",
             "date": "19.10.2022",
             "name": "Środy w KS AZS Wratislavia",
@@ -262,54 +214,6 @@
             "date": "21.12.2022",
             "name": "Środy w KS AZS Wratislavia",
             "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5604&n=",
-            "date": "15.10.2022",
-            "name": "Turniej na III i II kategorię",
-            "city": "Kłodzko",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4377&n=",
-            "date": "15.10.2022",
-            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - PAŹDZIERNIK do lat 12",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3866&n=",
-            "date": "15.10.2022",
-            "name": "XIII  MEMORIAŁ STANISŁAWA SOBOLEWSKIEGO - GRUPA A - OPEN",
-            "city": "Strzelin",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3868&n=",
-            "date": "15.10.2022",
-            "name": "XIII  MEMORIAŁ STANISŁAWA SOBOLEWSKIEGO - GRUPA C - do lat 10",
-            "city": "Strzelin",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5737&n=",
-            "date": "15.10.2022",
-            "name": "XXI Mistrzostwa Bogatyni w cyklu Grand Prix - GRUPA B - 8  turniej",
-            "city": "Bogatynia",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5739&n=",
-            "date": "15.10.2022",
-            "name": "XXI Mistrzostwa Bogatyni w cyklu Grand Prix - GRUPA D - 8  turniej",
-            "city": "Bogatynia",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
@@ -898,6 +802,38 @@
             "type_and_players": "WP szybkie"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5744&n=",
+            "date": "19.11.2022",
+            "name": "TURNIEJE O PUCHARY GALERII MM DLA DZIECI I DOROSŁYCH 19 LISTOPAD 2022",
+            "city": "POZNAŃ",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5754&n=",
+            "date": "19.11.2022",
+            "name": "VIII Turniej o Puchar Prezydenta Kalisza gr. B (ranking 1600 PZSzach)",
+            "city": "Kalisz",
+            "country": "Poland",
+            "type_and_players": "WP klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5756&n=",
+            "date": "19.11.2022",
+            "name": "VIII Turniej o Puchar Prezydenta Kalisza gr. D (rank 1000-1250 PZSzach)",
+            "city": "Kalisz",
+            "country": "Poland",
+            "type_and_players": "WP klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5747&n=",
+            "date": "04.12.2022",
+            "name": "MIKOŁAJKOWY TURNIEJ SZACHOWY DLA DZIECI I DOROSŁYCH 4 GRUDZIEŃ 2022",
+            "city": "POZNAŃ",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5346&n=",
             "date": "16.10.2022",
             "name": "TURNIEJ SZACHOWO - BOWLINGOWY SZACH-STRIKE-MAT GALERIA MM 16.10.2022.",
@@ -936,17 +872,25 @@
             "city": "Poznań",
             "country": "Poland",
             "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5753&n=",
+            "date": "19.11.2022",
+            "name": "VIII Turniej o Puchar Prezydenta Kalisza gr. A (rank 1800 lub wyższy) do ELO",
+            "city": "Kalisz",
+            "country": "Poland",
+            "type_and_players": "WP klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5755&n=",
+            "date": "19.11.2022",
+            "name": "VIII Turniej o Puchar Prezydenta Kalisza gr. C (ranking 1400 PZSZACH)",
+            "city": "Kalisz",
+            "country": "Poland",
+            "type_and_players": "WP klasyczne"
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/6082645466284032",
-            "date": "15.10.2022",
-            "name": "Powiatowy Turniej Szachowy o Puchar Starosty Powiatu Słupeckiego Jacka Bartkowiaka i o Puchar Burmistrza Miasta Słupcy Michała Pyrzyka",
-            "city": "Słupca",
-            "country": "Polska",
-            "type_and_players": "Szybkie"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6510287730507776",
             "date": "16.10.2022",
