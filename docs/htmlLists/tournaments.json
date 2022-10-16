@@ -42,9 +42,9 @@
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5696&n=",
-            "date": "30.10.2022",
-            "name": "Mistrzostwa Wałbrzycha - OPEN",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5761&n=",
+            "date": "29.10.2022",
+            "name": "Mistrzostwa Wałbrzycha - Juniorów",
             "city": "Wałbrzych",
             "country": "Poland",
             "type_and_players": "DS szybkie"
@@ -120,6 +120,22 @@
             "city": "Jelenia",
             "country": "Poland",
             "type_and_players": "DS blitz"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5780&n=",
+            "date": "11.11.2022",
+            "name": "Turniej Niepodleglosci 2022 - Grupa D",
+            "city": "Wroclaw",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5778&n=",
+            "date": "12.11.2022",
+            "name": "Turniej Niepodległosci 2022 - Grupa B",
+            "city": "Wroclaw",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5408&n=",
@@ -258,6 +274,14 @@
             "type_and_players": "DS szybkie"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5696&n=",
+            "date": "30.10.2022",
+            "name": "Mistrzostwa Wałbrzycha - OPEN",
+            "city": "Wałbrzych",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/tdr_5183&n=",
             "date": "03.11.2022",
             "name": "Memorial of Krystyna Holuj-Radzikowska 2022 - match Poland vs Rest of the World",
@@ -322,12 +346,28 @@
             "type_and_players": "DS szybkie"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5777&n=",
+            "date": "10.11.2022",
+            "name": "Turniej Niepodległości 2022 - Grupa A",
+            "city": "Wroclaw",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4431&n=",
             "date": "11.11.2022",
             "name": "Turniej z okazji Dnia Niepodległości",
             "city": "Polanica-Zdrój",
             "country": "Poland",
             "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5779&n=",
+            "date": "12.11.2022",
+            "name": "Turniej Niepodleglosci 2022 - Grupa C",
+            "city": "Wroclaw",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4811&n=",
@@ -504,30 +544,6 @@
    "LB": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5092&n=",
-            "date": "16.10.2022",
-            "name": "MAKROREGIONALNE MISTRZOSTWA STREFY LUBUSKO-DOLNOŚLĄSKIEJ  DZIEWCZĘTA DO LAT 9 ",
-            "city": "Sulęcin",
-            "country": "Poland",
-            "type_and_players": "LB klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5094&n=",
-            "date": "16.10.2022",
-            "name": "MAKROREGIONALNE MISTRZOSTWA STREFY LUBUSKO-DOLNOŚLĄSKIEJ 2022 CHŁOPCY DO LAT 11",
-            "city": "Sulęcin",
-            "country": "Poland",
-            "type_and_players": "LB klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5095&n=",
-            "date": "16.10.2022",
-            "name": "MAKROREGIONALNE MISTRZOSTWA STREFY LUBUSKO-DOLNOŚLĄSKIEJ 2022 CHŁOPCY DO LAT 9",
-            "city": "Sulęcin",
-            "country": "Poland",
-            "type_and_players": "LB klasyczne"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5680&n=",
             "date": "21.10.2022",
             "name": "XII  Grand Prix SP-1 Zielona Góra.(5)",
@@ -616,30 +632,6 @@
             "type_and_players": "LB klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5090&n=",
-            "date": "16.10.2022",
-            "name": "MAKROREGIONALNE MISTRZOSTWA STREFY LUBUSKO-DOLNOŚLĄSKIEJ -DZIEWCZĘTA DO LAT 13",
-            "city": "Sulęcin",
-            "country": "Poland",
-            "type_and_players": "LB klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5093&n=",
-            "date": "16.10.2022",
-            "name": "MAKROREGIONALNE MISTRZOSTWA STREFY LUBUSKO-DOLNOŚLĄSKIEJ 2022 CHŁOPCY DO LAT 13",
-            "city": "Sulęcin",
-            "country": "Poland",
-            "type_and_players": "LB klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5091&n=",
-            "date": "16.10.2022",
-            "name": "MAKROREGIONALNE MISTRZOSTWA STREFY LUBUSKO-DOLNOŚLĄSKIEJ- DZIEWCZĘTA DO LAT 11",
-            "city": "Sulęcin",
-            "country": "Poland",
-            "type_and_players": "LB klasyczne"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5247&n=",
             "date": "23.10.2022",
             "name": "Mistrzostwa Powiatu Strzelecko - Drezdeneckiego",
@@ -717,25 +709,17 @@
    "OP": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5599&n=",
-            "date": "16.10.2022",
-            "name": "I Turniej \"Karol Wojtyła też grał w szachy\"",
-            "city": "Brzeg",
-            "country": "Poland",
-            "type_and_players": "OP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4913&n=",
-            "date": "05.11.2022",
-            "name": "III Otwarte Mistrzostwa Opolszczyzny w blitzu 2022 o Puchar Prezesa Firmy Turck",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5439&n=",
+            "date": "28.10.2022",
+            "name": "Błyskawiczny Piątek w Strzelcu - Październik 2022",
             "city": "Strzelce",
             "country": "Poland",
             "type_and_players": "OP blitz"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5439&n=",
-            "date": "28.10.2022",
-            "name": "Błyskawiczny Piątek w Strzelcu - Październik 2022",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4913&n=",
+            "date": "05.11.2022",
+            "name": "III Otwarte Mistrzostwa Opolszczyzny w blitzu 2022 o Puchar Prezesa Firmy Turck",
             "city": "Strzelce",
             "country": "Poland",
             "type_and_players": "OP blitz"
@@ -754,41 +738,33 @@
    "WP": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4926&n=",
-            "date": "16.10.2022",
-            "name": "GP Klubu Raszyn 2022/23 Turniej nr 2",
-            "city": "Poznań",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5589&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5588&n=",
             "date": "21.10.2022",
-            "name": "Mistrzostwa KTS Kalisz październik grupa do lat 12 (do rank 1400)",
+            "name": "Mistrzostwa KTS Kalisz październik grupa OPEN ",
             "city": "Kalisz",
             "country": "Poland",
             "type_and_players": "WP blitz"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5082&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5150&n=",
             "date": "22.10.2022",
-            "name": "Gr. A - II Dziecięcy Szachowy cykl 8 turniejów GRAND PRIX - turniej pierwszy ",
+            "name": "GRAND PRIX - gr. A - II Dziecięcy Szachowy cykl - turniej 1",
             "city": "Swarzędz",
             "country": "Poland",
             "type_and_players": "WP szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5151&n=",
-            "date": "22.10.2022",
-            "name": "GRAND PRIX - gr. B - II Dziecięcy Szachowy cykl - turniej 1",
-            "city": "Swarzędz",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4203&n=",
+            "date": "23.10.2022",
+            "name": "XXIX Festiwal Szachowy w Poznaniu   | OPEN A | OPEN B | ",
+            "city": "Poznań",
             "country": "Poland",
-            "type_and_players": "WP szybkie"
+            "type_and_players": "WP klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5659&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5658&n=",
             "date": "29.10.2022",
-            "name": "Pierwszy krok szachowy  rocznik 2010 i młodsi do rankingu 1600",
+            "name": "Pierwszy krok szachowy  rocznik 2012 i młodsi bez kategorii",
             "city": "Poznań",
             "country": "Poland",
             "type_and_players": "WP szybkie"
@@ -834,41 +810,33 @@
             "type_and_players": "WP szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5346&n=",
-            "date": "16.10.2022",
-            "name": "TURNIEJ SZACHOWO - BOWLINGOWY SZACH-STRIKE-MAT GALERIA MM 16.10.2022.",
-            "city": "POZNAŃ",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5588&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5589&n=",
             "date": "21.10.2022",
-            "name": "Mistrzostwa KTS Kalisz październik grupa OPEN ",
+            "name": "Mistrzostwa KTS Kalisz październik grupa do lat 12 (do rank 1400)",
             "city": "Kalisz",
             "country": "Poland",
             "type_and_players": "WP blitz"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5150&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5082&n=",
             "date": "22.10.2022",
-            "name": "GRAND PRIX - gr. A - II Dziecięcy Szachowy cykl - turniej 1",
+            "name": "Gr. A - II Dziecięcy Szachowy cykl 8 turniejów GRAND PRIX - turniej pierwszy ",
             "city": "Swarzędz",
             "country": "Poland",
             "type_and_players": "WP szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4203&n=",
-            "date": "23.10.2022",
-            "name": "XXIX Festiwal Szachowy w Poznaniu   | OPEN A | OPEN B | ",
-            "city": "Poznań",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5151&n=",
+            "date": "22.10.2022",
+            "name": "GRAND PRIX - gr. B - II Dziecięcy Szachowy cykl - turniej 1",
+            "city": "Swarzędz",
             "country": "Poland",
-            "type_and_players": "WP klasyczne"
+            "type_and_players": "WP szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5658&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5659&n=",
             "date": "29.10.2022",
-            "name": "Pierwszy krok szachowy  rocznik 2012 i młodsi bez kategorii",
+            "name": "Pierwszy krok szachowy  rocznik 2010 i młodsi do rankingu 1600",
             "city": "Poznań",
             "country": "Poland",
             "type_and_players": "WP szybkie"
@@ -892,52 +860,20 @@
       ],
       "chessManager": [
          {
-            "link": " https://www.chessmanager.com/pl/tournaments/6510287730507776",
-            "date": "16.10.2022",
-            "name": "Mistrzostwa Wielkopolski Juniorów i Młodzików w szachach szybkich 2022, gr.  C-10",
-            "city": "Ślesin",
+            "link": " https://www.chessmanager.com/pl/tournaments/5126130378997760",
+            "date": "17.10.2022",
+            "name": "Turniej Szachowy Grand Prix #3.2  Rojber Pub",
+            "city": "Poznan",
             "country": "Polska",
             "type_and_players": "Szybkie"
          },
          {
-            "link": " https://www.chessmanager.com/pl/tournaments/6654370864168960",
-            "date": "16.10.2022",
-            "name": "Mistrzostwa Wielkopolski Juniorów i Młodzików w szachach szybkich 2022, gr.  C-14",
-            "city": "Ślesin",
+            "link": " https://www.chessmanager.com/pl/tournaments/6361656608161792",
+            "date": "21.10.2022",
+            "name": "Grand Prix Stulecia Gnieźnieńskiego Klubu Szachistów – 4 turniej",
+            "city": "Gniezno",
             "country": "Polska",
-            "type_and_players": "Szybkie"
-         },
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/4680700381888512",
-            "date": "16.10.2022",
-            "name": "Mistrzostwa Wielkopolski Juniorów i Młodzików w szachach szybkich 2022, gr.  C-18",
-            "city": "Ślesin",
-            "country": "Polska",
-            "type_and_players": "Szybkie"
-         },
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/5355561748004864",
-            "date": "16.10.2022",
-            "name": "Mistrzostwa Wielkopolski Juniorów i Młodzików w szachach szybkich 2022, gr.  D-10",
-            "city": "Ślesin",
-            "country": "Polska",
-            "type_and_players": "Szybkie"
-         },
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/5127715612000256",
-            "date": "16.10.2022",
-            "name": "Mistrzostwa Wielkopolski Juniorów i Młodzików w szachach szybkich 2022, gr.  D-14",
-            "city": "Ślesin",
-            "country": "Polska",
-            "type_and_players": "Szybkie"
-         },
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/5930341786189824",
-            "date": "16.10.2022",
-            "name": "Mistrzostwa Wielkopolski Juniorów i Młodzików w szachach szybkich 2022, gr.  D-18",
-            "city": "Ślesin",
-            "country": "Polska",
-            "type_and_players": "Szybkie"
+            "type_and_players": "Błyskawiczne"
          },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6207507350421504",
