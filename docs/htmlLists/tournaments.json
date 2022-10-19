@@ -2,49 +2,49 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5352&n=",
-            "date": "19.10.2022",
-            "name": "Środy w KS AZS Wratislavia",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4808&n=",
+            "date": "21.10.2022",
+            "name": "GRAND PRIX POLONII WROCŁAW",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5575&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5576&n=",
             "date": "22.10.2022",
-            "name": "III Otwarte Mistrzostwa Gminy Długołęka w Szachach do lat 10",
+            "name": "III Otwarte Mistrzostwa Gminy Długołęka w Szachach do lat 14",
             "city": "Kiełczów",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5577&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5364&n=",
             "date": "22.10.2022",
-            "name": "III Otwarte Mistrzostwa Gminy Długołęka w Szachach OPEN",
-            "city": "Kiełczów",
+            "name": "Turniej z Okazji 10-lecia Klubu Szachowego Wieża Pęgów",
+            "city": "Pęgów",
             "country": "Poland",
-            "type_and_players": "DS klasyczne"
+            "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/tdr_5643&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4936&n=",
             "date": "23.10.2022",
-            "name": "Drużynowe Mistrzostwa Dolnego Śląska - LIGA DOLNOŚLĄSKA",
-            "city": "Dolny",
+            "name": "X Turniej Szachowy FLAMPARK",
+            "city": "Wałbrzych",
             "country": "Poland",
-            "type_and_players": " klasyczneFIDE"
+            "type_and_players": "DS blitz"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5353&n=",
-            "date": "26.10.2022",
-            "name": "Środy w KS AZS Wratislavia",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4809&n=",
+            "date": "28.10.2022",
+            "name": "GRAND PRIX POLONII WROCŁAW",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5761&n=",
-            "date": "29.10.2022",
-            "name": "Mistrzostwa Wałbrzycha - Juniorów",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5696&n=",
+            "date": "30.10.2022",
+            "name": "Mistrzostwa Wałbrzycha - OPEN",
             "city": "Wałbrzych",
             "country": "Poland",
             "type_and_players": "DS szybkie"
@@ -250,49 +250,41 @@
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4808&n=",
-            "date": "21.10.2022",
-            "name": "GRAND PRIX POLONII WROCŁAW",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5576&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5575&n=",
             "date": "22.10.2022",
-            "name": "III Otwarte Mistrzostwa Gminy Długołęka w Szachach do lat 14",
+            "name": "III Otwarte Mistrzostwa Gminy Długołęka w Szachach do lat 10",
             "city": "Kiełczów",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5364&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5577&n=",
             "date": "22.10.2022",
-            "name": "Turniej z Okazji 10-lecia Klubu Szachowego Wieża Pęgów",
-            "city": "Pęgów",
+            "name": "III Otwarte Mistrzostwa Gminy Długołęka w Szachach OPEN",
+            "city": "Kiełczów",
             "country": "Poland",
-            "type_and_players": "DS szybkie"
+            "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4936&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/tdr_5643&n=",
             "date": "23.10.2022",
-            "name": "X Turniej Szachowy FLAMPARK",
-            "city": "Wałbrzych",
+            "name": "Drużynowe Mistrzostwa Dolnego Śląska - LIGA DOLNOŚLĄSKA",
+            "city": "Dolny",
             "country": "Poland",
-            "type_and_players": "DS blitz"
+            "type_and_players": " klasyczneFIDE"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4809&n=",
-            "date": "28.10.2022",
-            "name": "GRAND PRIX POLONII WROCŁAW",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5353&n=",
+            "date": "26.10.2022",
+            "name": "Środy w KS AZS Wratislavia",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5696&n=",
-            "date": "30.10.2022",
-            "name": "Mistrzostwa Wałbrzycha - OPEN",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5761&n=",
+            "date": "29.10.2022",
+            "name": "Mistrzostwa Wałbrzycha - Juniorów",
             "city": "Wałbrzych",
             "country": "Poland",
             "type_and_players": "DS szybkie"
@@ -324,7 +316,7 @@
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4731&n=",
             "date": "05.11.2022",
-            "name": "II Memoriał Apolonii Litwińskiej - turniej eliminacyjny",
+            "name": "II Memoriał Apolonii Litwińskiej - PULA NAGRÓD 7600 PLN!!!",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
@@ -866,6 +858,14 @@
             "type_and_players": "WP klasyczne"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5796&n=",
+            "date": "27.11.2022",
+            "name": "3 turniej GP 2022/23 Klubu Raszyn",
+            "city": "Poznań",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5747&n=",
             "date": "04.12.2022",
             "name": "MIKOŁAJKOWY TURNIEJ SZACHOWY DLA DZIECI I DOROSŁYCH 4 GRUDZIEŃ 2022",
@@ -922,23 +922,15 @@
             "type_and_players": "WP klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5796&n=",
-            "date": "27.11.2022",
-            "name": "3 turniej GP 2022/23 Klubu Raszyn",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5828&n=",
+            "date": "23.11.2022",
+            "name": "Szkolenie Online: Turniej Szachowy w Szkole? To Proste!",
             "city": "Poznań",
             "country": "Poland",
-            "type_and_players": "WP szybkie"
+            "type_and_players": "WP inne"
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/6403193505316864",
-            "date": "19.10.2022",
-            "name": "Pomysł GrandPrix #12.1",
-            "city": "Poznan",
-            "country": "Polska",
-            "type_and_players": "Błyskawiczne"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6361656608161792",
             "date": "21.10.2022",
