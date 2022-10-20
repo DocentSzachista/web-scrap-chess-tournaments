@@ -106,20 +106,28 @@
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5420&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5661&n=",
             "date": "05.11.2022",
-            "name": "Turniej o Puchar Wójta Gminy Mysłakowice OPEN (zgłoszony do FIDE)",
+            "name": "OTWARTE MISTRZOSTWA POWIATU KAMIENNOGÓRSKIEGO W SZACHACH",
+            "city": "Kamienna",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5422&n=",
+            "date": "05.11.2022",
+            "name": "Turniej o Puchar Wójta Gminy Mysłakowice U10",
             "city": "Mysłakowice",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5421&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3174&n=",
             "date": "05.11.2022",
-            "name": "Turniej o Puchar Wójta Gminy Mysłakowice U14",
-            "city": "Mysłakowice",
+            "name": "Turniej SSM PLUM + POK 2022",
+            "city": "Piechowice",
             "country": "Poland",
-            "type_and_players": "DS szybkie"
+            "type_and_players": "DS klasyczne"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5407&n=",
@@ -338,17 +346,25 @@
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5661&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5860&n=",
             "date": "05.11.2022",
-            "name": "OTWARTE MISTRZOSTWA POWIATU KAMIENNOGÓRSKIEGO W SZACHACH",
-            "city": "Kamienna",
+            "name": "Jesienny Turniej Klubu Logicznego",
+            "city": "Piechowice",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5420&n=",
+            "date": "05.11.2022",
+            "name": "Turniej o Puchar Wójta Gminy Mysłakowice OPEN (zgłoszony do FIDE)",
+            "city": "Mysłakowice",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5422&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5421&n=",
             "date": "05.11.2022",
-            "name": "Turniej o Puchar Wójta Gminy Mysłakowice U10",
+            "name": "Turniej o Puchar Wójta Gminy Mysłakowice U14",
             "city": "Mysłakowice",
             "country": "Poland",
             "type_and_players": "DS szybkie"
@@ -786,34 +802,26 @@
    "WP": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5790&n=",
-            "date": "20.10.2022",
-            "name": "II Turniej - Szachowa Liga Najmłodszych",
-            "city": "Kostrzyn",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5589&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5588&n=",
             "date": "21.10.2022",
-            "name": "Mistrzostwa KTS Kalisz październik grupa do lat 12 (do rank 1400)",
+            "name": "Mistrzostwa KTS Kalisz październik grupa OPEN ",
             "city": "Kalisz",
             "country": "Poland",
             "type_and_players": "WP blitz"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5082&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5150&n=",
             "date": "22.10.2022",
-            "name": "Gr. A - II Dziecięcy Szachowy cykl 8 turniejów GRAND PRIX - turniej pierwszy ",
+            "name": "GRAND PRIX - gr. A - II Dziecięcy Szachowy cykl - turniej 1",
             "city": "Swarzędz",
             "country": "Poland",
             "type_and_players": "WP szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5151&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5870&n=",
             "date": "22.10.2022",
-            "name": "GRAND PRIX - gr. B - II Dziecięcy Szachowy cykl - turniej 1",
-            "city": "Swarzędz",
+            "name": "II Turniej z Cyklu Grand Prix Nowego Tomyśla w Szachach Szybkich",
+            "city": "Nowy",
             "country": "Poland",
             "type_and_players": "WP szybkie"
          },
@@ -874,17 +882,25 @@
             "type_and_players": "WP szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5588&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5589&n=",
             "date": "21.10.2022",
-            "name": "Mistrzostwa KTS Kalisz październik grupa OPEN ",
+            "name": "Mistrzostwa KTS Kalisz październik grupa do lat 12 (do rank 1400)",
             "city": "Kalisz",
             "country": "Poland",
             "type_and_players": "WP blitz"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5150&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5082&n=",
             "date": "22.10.2022",
-            "name": "GRAND PRIX - gr. A - II Dziecięcy Szachowy cykl - turniej 1",
+            "name": "Gr. A - II Dziecięcy Szachowy cykl 8 turniejów GRAND PRIX - turniej pierwszy ",
+            "city": "Swarzędz",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5151&n=",
+            "date": "22.10.2022",
+            "name": "GRAND PRIX - gr. B - II Dziecięcy Szachowy cykl - turniej 1",
             "city": "Swarzędz",
             "country": "Poland",
             "type_and_players": "WP szybkie"
