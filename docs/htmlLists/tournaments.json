@@ -2,22 +2,6 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5575&n=",
-            "date": "22.10.2022",
-            "name": "III Otwarte Mistrzostwa Gminy Długołęka w Szachach do lat 10",
-            "city": "Kiełczów",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5577&n=",
-            "date": "22.10.2022",
-            "name": "III Otwarte Mistrzostwa Gminy Długołęka w Szachach OPEN",
-            "city": "Kiełczów",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/tdr_5643&n=",
             "date": "23.10.2022",
             "name": "Drużynowe Mistrzostwa Dolnego Śląska - LIGA DOLNOŚLĄSKA",
@@ -246,22 +230,6 @@
             "date": "21.12.2022",
             "name": "Środy w KS AZS Wratislavia",
             "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5576&n=",
-            "date": "22.10.2022",
-            "name": "III Otwarte Mistrzostwa Gminy Długołęka w Szachach do lat 14",
-            "city": "Kiełczów",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5364&n=",
-            "date": "22.10.2022",
-            "name": "Turniej z Okazji 10-lecia Klubu Szachowego Wieża Pęgów",
-            "city": "Pęgów",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
@@ -770,22 +738,6 @@
    "WP": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5082&n=",
-            "date": "22.10.2022",
-            "name": "Gr. A - II Dziecięcy Szachowy cykl 8 turniejów GRAND PRIX - turniej pierwszy ",
-            "city": "Swarzędz",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5151&n=",
-            "date": "22.10.2022",
-            "name": "GRAND PRIX - gr. B - II Dziecięcy Szachowy cykl - turniej 1",
-            "city": "Swarzędz",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4203&n=",
             "date": "23.10.2022",
             "name": "XXIX Festiwal Szachowy w Poznaniu   | OPEN A | OPEN B | ",
@@ -850,22 +802,6 @@
             "type_and_players": "WP szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5150&n=",
-            "date": "22.10.2022",
-            "name": "GRAND PRIX - gr. A - II Dziecięcy Szachowy cykl - turniej 1",
-            "city": "Swarzędz",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5870&n=",
-            "date": "22.10.2022",
-            "name": "II Turniej z Cyklu Grand Prix Nowego Tomyśla w Szachach Szybkich",
-            "city": "Nowy",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5659&n=",
             "date": "29.10.2022",
             "name": "Pierwszy krok szachowy  rocznik 2010 i młodsi do rankingu 1600",
@@ -900,7 +836,7 @@
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5754&n=",
             "date": "19.11.2022",
-            "name": "VIII Turniej o Puchar Prezydenta Kalisza gr. B (ranking 1600 PZSzach)",
+            "name": "VIII Turniej o Puchar Prezydenta Kalisza gr. B (ranking 1600-1700 PZSzach)",
             "city": "Kalisz",
             "country": "Poland",
             "type_and_players": "WP klasyczne"
@@ -938,6 +874,22 @@
             "city": "Poznań",
             "country": "Polska",
             "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5398966498754560",
+            "date": "24.10.2022",
+            "name": "Turniej Szachowy Grand Prix #3.3  Rojber Pub",
+            "city": "Poznan",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6083679546769408",
+            "date": "27.10.2022",
+            "name": "LOKOLODrużyna szkolna",
+            "city": "Poznan",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
          },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/5398681151864832",
