@@ -85,7 +85,7 @@
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5422&n=",
             "date": "05.11.2022",
             "name": "Turniej o Puchar Wójta Gminy Mysłakowice U10",
-            "city": "Mysłakowice",
+            "city": "Łomnica",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
@@ -301,7 +301,7 @@
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5420&n=",
             "date": "05.11.2022",
             "name": "Turniej o Puchar Wójta Gminy Mysłakowice OPEN (zgłoszony do FIDE)",
-            "city": "Mysłakowice",
+            "city": "Łomnica",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
@@ -309,7 +309,7 @@
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5421&n=",
             "date": "05.11.2022",
             "name": "Turniej o Puchar Wójta Gminy Mysłakowice U14",
-            "city": "Mysłakowice",
+            "city": "Łomnica",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
@@ -730,6 +730,14 @@
             "type_and_players": "WP blitz"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5970&n=",
+            "date": "04.11.2022",
+            "name": "Mistrzostwa listopada w KTS Kalisz - grupa do lat 12 (do rankingu 1400)",
+            "city": "Kalisz",
+            "country": "Poland",
+            "type_and_players": "WP blitz"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5554&n=",
             "date": "11.11.2022",
             "name": "TURNIEJ Z OKAZJI ŚWIĘTA NIEPODLEGŁOŚCI",
@@ -810,6 +818,14 @@
             "type_and_players": "WP szybkie"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5969&n=",
+            "date": "04.11.2022",
+            "name": "Mistrzostwa listopada w KTS Kalisz - grupa OPEN",
+            "city": "Kalisz",
+            "country": "Poland",
+            "type_and_players": "WP blitz"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5891&n=",
             "date": "12.11.2022",
             "name": "II Turniej Błyskwaiczny w Buku FIDE  start godz. 15.00",
@@ -860,10 +876,18 @@
       ],
       "chessManager": [
          {
-            "link": " https://www.chessmanager.com/pl/tournaments/4669632364412928",
-            "date": "25.10.2022",
-            "name": "ZŁOTOWSKA LIGA SZACHOWA - 2022/2023 - runda 8",
-            "city": "Złotów",
+            "link": " https://www.chessmanager.com/pl/tournaments/6032764018098176",
+            "date": "26.10.2022",
+            "name": "Pomysł GrandPrix #12.2",
+            "city": "Poznan",
+            "country": "Polska",
+            "type_and_players": "Błyskawiczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5477472763117568",
+            "date": "27.10.2022",
+            "name": "Jesienny turniej LO",
+            "city": "Oborniki",
             "country": "Polska",
             "type_and_players": "Szybkie"
          },
@@ -889,7 +913,7 @@
             "name": "Otwarte Mistrzostwa Wielkopolski w Szachach Błyskawicznych",
             "city": "Poznan",
             "country": "Polska",
-            "type_and_players": "Szybkie"
+            "type_and_players": "Błyskawiczne"
          },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/5398681151864832",
@@ -936,6 +960,22 @@
             "date": "13.11.2022",
             "name": "XII Międzynarodowy Memoriał Szachowy Ferdynanda Dziedzica - Mistrzostwa Polski w Szachach Szybkich",
             "city": "Trzcianka",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/4890447907389440",
+            "date": "27.11.2022",
+            "name": "Turniej Adwentowy OPEN FIDE",
+            "city": "Przeźmierowo",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/4914522809696256",
+            "date": "27.11.2022",
+            "name": "Turniej Adwentowy grupa B - rocznik 2008 i młodsi",
+            "city": "Przeźmierowo",
             "country": "Polska",
             "type_and_players": "Szybkie"
          },
