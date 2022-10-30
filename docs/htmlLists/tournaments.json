@@ -2,14 +2,6 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5696&n=",
-            "date": "30.10.2022",
-            "name": "Mistrzostwa Wałbrzycha - OPEN",
-            "city": "Wałbrzych",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5354&n=",
             "date": "02.11.2022",
             "name": "Środy w KS AZS Wratislavia",
@@ -508,6 +500,14 @@
             "type_and_players": "Szybkie"
          },
          {
+            "link": " https://www.chessmanager.com/pl/tournaments/6565135112994816",
+            "date": "07.11.2023",
+            "name": "VB 2022/23",
+            "city": "Grębocice",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
             "link": " https://www.chessmanager.com/pl/tournaments/5155026872827904",
             "date": "09.11.2022",
             "name": "Winterpol Blitz 2022- listopad",
@@ -527,14 +527,6 @@
    },
    "LB": {
       "chessarbiter": [
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4755&n=",
-            "date": "30.10.2022",
-            "name": "Turniej Szachowy na II kat. w Skwierzynie 30 X i 5 XI 2022r.",
-            "city": "Skwierzyna",
-            "country": "Poland",
-            "type_and_players": "LB klasyczne"
-         },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6099&n=",
             "date": "05.11.2022",
@@ -614,14 +606,6 @@
             "city": "Gubin",
             "country": "Poland",
             "type_and_players": "LB klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4760&n=",
-            "date": "30.10.2022",
-            "name": "Turniej Szachowy na IV kat. w Skwierzynie 30 X 2022r.",
-            "city": "Skwierzyna",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5568&n=",
@@ -713,14 +697,6 @@
    },
    "WP": {
       "chessarbiter": [
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5938&n=",
-            "date": "30.10.2022",
-            "name": "Otwarte Mistrzostwa Wielkopolski w Szachach Błyskawicznych",
-            "city": "Poznań",
-            "country": "Poland",
-            "type_and_players": "WP blitz"
-         },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5970&n=",
             "date": "04.11.2022",
@@ -880,17 +856,17 @@
             "city": "Poznań",
             "country": "Poland",
             "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6113&n=",
+            "date": "10.12.2022",
+            "name": "Gwiazkowy Turniej dla dzieci i młodzieży w DK Na Pięterku Poznań",
+            "city": "Poznań",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/6285755174354944",
-            "date": "30.10.2022",
-            "name": "Otwarte Mistrzostwa Wielkopolski w Szachach Błyskawicznych",
-            "city": "Poznan",
-            "country": "Polska",
-            "type_and_players": "Błyskawiczne"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6035478571646976",
             "date": "06.11.2022",
