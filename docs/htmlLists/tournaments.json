@@ -528,6 +528,14 @@
    "LB": {
       "chessarbiter": [
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6123&n=",
+            "date": "03.11.2022",
+            "name": "Dla początkujących \"ZIELONI\" (3)",
+            "city": "Zielona",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6099&n=",
             "date": "05.11.2022",
             "name": "II Turniej Szachowy na IV kat. w Skwierzynie 5 XI 2022r.",
@@ -606,6 +614,14 @@
             "city": "Gubin",
             "country": "Poland",
             "type_and_players": "LB klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6122&n=",
+            "date": "04.11.2022",
+            "name": "XII  Grand Prix SP-1 Zielona Góra.(7)",
+            "city": "Zielona",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5568&n=",
@@ -774,6 +790,14 @@
             "date": "04.12.2022",
             "name": "MIKOŁAJKOWY TURNIEJ SZACHOWY DLA DZIECI I DOROSŁYCH 4 GRUDZIEŃ 2022",
             "city": "POZNAŃ",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6139&n=",
+            "date": "10.12.2022",
+            "name": "Klasyfikacyjny Szachowy Turniej Mikołajkowy dla dzieci",
+            "city": "Poznań",
             "country": "Poland",
             "type_and_players": "WP szybkie"
          },
