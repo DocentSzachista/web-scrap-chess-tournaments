@@ -2,230 +2,6 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/tdr_5183&n=",
-            "date": "03.11.2022",
-            "name": "Memorial of Krystyna Holuj-Radzikowska 2022 - match Poland vs Rest of the World",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": " klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5730&n=",
-            "date": "04.11.2022",
-            "name": "Turniej Otwarcia w ramach Arcymistrzowskiego Festiwalu Szachowego Kobiet",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS blitz"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5788&n=",
-            "date": "05.11.2022",
-            "name": "30. Otwarte Mistrzostwa Wroclawia Mlodziezy - Grupa B (do lat 11)",
-            "city": "Wroclaw",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4731&n=",
-            "date": "05.11.2022",
-            "name": "II Memoriał Apolonii Litwińskiej - PULA NAGRÓD 7600 PLN!!!",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4884&n=",
-            "date": "05.11.2022",
-            "name": "III Świdnicki Festiwal Szachowy Open B (II kat)",
-            "city": "Burkatów",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4886&n=",
-            "date": "05.11.2022",
-            "name": "III Świdnicki Festiwal Szachowy Open D (III kat)",
-            "city": "Burkatów",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5860&n=",
-            "date": "05.11.2022",
-            "name": "Jesienny Turniej Klubu Logicznego",
-            "city": "Piechowice",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5420&n=",
-            "date": "05.11.2022",
-            "name": "Turniej o Puchar Wójta Gminy Mysłakowice OPEN (zgłoszony do FIDE)",
-            "city": "Łomnica",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5421&n=",
-            "date": "05.11.2022",
-            "name": "Turniej o Puchar Wójta Gminy Mysłakowice U14",
-            "city": "Łomnica",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4888&n=",
-            "date": "06.11.2022",
-            "name": "III Świdnicki Festiwal Szachowy Open F (V i IV kat)",
-            "city": "Burkatów",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5407&n=",
-            "date": "09.11.2022",
-            "name": "Środy w KS AZS Wratislavia",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5777&n=",
-            "date": "10.11.2022",
-            "name": "Turniej Niepodległości 2022 - Grupa A",
-            "city": "Wroclaw",
-            "country": "Poland",
-            "type_and_players": "DS klasyczneFIDE"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4431&n=",
-            "date": "11.11.2022",
-            "name": "Turniej z okazji Dnia Niepodległości",
-            "city": "Polanica-Zdrój",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6008&n=",
-            "date": "11.11.2022",
-            "name": "XII Turniej Szachowy o Szablę Piłsudskiego Gr A",
-            "city": "Świdnica",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6010&n=",
-            "date": "11.11.2022",
-            "name": "XII Turniej Szachowy o Szablę Piłsudskiego Gr. C",
-            "city": "Świdnica",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5779&n=",
-            "date": "12.11.2022",
-            "name": "Turniej Niepodleglosci 2022 - Grupa C",
-            "city": "Wroclaw",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5408&n=",
-            "date": "16.11.2022",
-            "name": "Środy w KS AZS Wratislavia",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5308&n=",
-            "date": "19.11.2022",
-            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 10",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5304&n=",
-            "date": "19.11.2022",
-            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 5",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5306&n=",
-            "date": "19.11.2022",
-            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 7",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5409&n=",
-            "date": "23.11.2022",
-            "name": "Środy w KS AZS Wratislavia",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4380&n=",
-            "date": "26.11.2022",
-            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LISTOPAD do lat 12",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5410&n=",
-            "date": "30.11.2022",
-            "name": "Środy w KS AZS Wratislavia",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3410&n=",
-            "date": "01.12.2022",
-            "name": "01-02.12.2022_Mistrzostwa 10 BKPanc w szachach klasycznych",
-            "city": "Świętoszów",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5453&n=",
-            "date": "02.12.2022",
-            "name": "Półfinał Mistrzostw Polski Kobiet",
-            "city": "Kapracz",
-            "country": "Poland",
-            "type_and_players": "DS klasyczneFIDE"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5411&n=",
-            "date": "07.12.2022",
-            "name": "Środy w KS AZS Wratislavia",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5412&n=",
-            "date": "14.12.2022",
-            "name": "Środy w KS AZS Wratislavia",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5413&n=",
-            "date": "21.12.2022",
-            "name": "Środy w KS AZS Wratislavia",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4810&n=",
             "date": "04.11.2022",
             "name": "GRAND PRIX POLONII WROCŁAW",
@@ -362,6 +138,14 @@
             "type_and_players": "DS szybkie"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6215&n=",
+            "date": "19.11.2022",
+            "name": "CYKL 4 PÓR ROKU: JESIENNE TURNIEJE SZACHOWE OPEN  KS AZS Wratislavia",
+            "city": "WROCŁAW",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5309&n=",
             "date": "19.11.2022",
             "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 12",
@@ -397,6 +181,230 @@
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4381&n=",
             "date": "26.11.2022",
             "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LISTOPAD od lat 13",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_3410&n=",
+            "date": "01.12.2022",
+            "name": "01-02.12.2022_Mistrzostwa 10 BKPanc w szachach klasycznych",
+            "city": "Świętoszów",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5453&n=",
+            "date": "02.12.2022",
+            "name": "Półfinał Mistrzostw Polski Kobiet",
+            "city": "Kapracz",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5411&n=",
+            "date": "07.12.2022",
+            "name": "Środy w KS AZS Wratislavia",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5412&n=",
+            "date": "14.12.2022",
+            "name": "Środy w KS AZS Wratislavia",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5413&n=",
+            "date": "21.12.2022",
+            "name": "Środy w KS AZS Wratislavia",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5730&n=",
+            "date": "04.11.2022",
+            "name": "Turniej Otwarcia w ramach Arcymistrzowskiego Festiwalu Szachowego Kobiet",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS blitz"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5788&n=",
+            "date": "05.11.2022",
+            "name": "30. Otwarte Mistrzostwa Wroclawia Mlodziezy - Grupa B (do lat 11)",
+            "city": "Wroclaw",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4731&n=",
+            "date": "05.11.2022",
+            "name": "II Memoriał Apolonii Litwińskiej - PULA NAGRÓD 7600 PLN!!!",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4884&n=",
+            "date": "05.11.2022",
+            "name": "III Świdnicki Festiwal Szachowy Open B (II kat)",
+            "city": "Burkatów",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4886&n=",
+            "date": "05.11.2022",
+            "name": "III Świdnicki Festiwal Szachowy Open D (III kat)",
+            "city": "Burkatów",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5860&n=",
+            "date": "05.11.2022",
+            "name": "Jesienny Turniej Klubu Logicznego",
+            "city": "Piechowice",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5420&n=",
+            "date": "05.11.2022",
+            "name": "Turniej o Puchar Wójta Gminy Mysłakowice OPEN (zgłoszony do FIDE)",
+            "city": "Łomnica",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5421&n=",
+            "date": "05.11.2022",
+            "name": "Turniej o Puchar Wójta Gminy Mysłakowice U14",
+            "city": "Łomnica",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4888&n=",
+            "date": "06.11.2022",
+            "name": "III Świdnicki Festiwal Szachowy Open F (V i IV kat)",
+            "city": "Burkatów",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5407&n=",
+            "date": "09.11.2022",
+            "name": "Środy w KS AZS Wratislavia",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5777&n=",
+            "date": "10.11.2022",
+            "name": "Turniej Niepodległości 2022 - Grupa A",
+            "city": "Wroclaw",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4431&n=",
+            "date": "11.11.2022",
+            "name": "Turniej z okazji Dnia Niepodległości",
+            "city": "Polanica-Zdrój",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6008&n=",
+            "date": "11.11.2022",
+            "name": "XII Turniej Szachowy o Szablę Piłsudskiego Gr A",
+            "city": "Świdnica",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6010&n=",
+            "date": "11.11.2022",
+            "name": "XII Turniej Szachowy o Szablę Piłsudskiego Gr. C",
+            "city": "Świdnica",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5779&n=",
+            "date": "12.11.2022",
+            "name": "Turniej Niepodleglosci 2022 - Grupa C",
+            "city": "Wroclaw",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5408&n=",
+            "date": "16.11.2022",
+            "name": "Środy w KS AZS Wratislavia",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6214&n=",
+            "date": "19.11.2022",
+            "name": "CYKL 4 PÓR ROKU: JESIENNE TURNIEJE SZACHOWE DO LAT 9  KS AZS Wratislavia",
+            "city": "WROCŁAW",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5308&n=",
+            "date": "19.11.2022",
+            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 10",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5304&n=",
+            "date": "19.11.2022",
+            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 5",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5306&n=",
+            "date": "19.11.2022",
+            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 7",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5409&n=",
+            "date": "23.11.2022",
+            "name": "Środy w KS AZS Wratislavia",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4380&n=",
+            "date": "26.11.2022",
+            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LISTOPAD do lat 12",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5410&n=",
+            "date": "30.11.2022",
+            "name": "Środy w KS AZS Wratislavia",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
@@ -528,12 +536,84 @@
    "LB": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6123&n=",
-            "date": "03.11.2022",
-            "name": "Dla początkujących \"ZIELONI\" (3)",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6122&n=",
+            "date": "04.11.2022",
+            "name": "XII  Grand Prix SP-1 Zielona Góra.(7)",
             "city": "Zielona",
             "country": "Poland",
             "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5568&n=",
+            "date": "05.11.2022",
+            "name": "Lubuska Akademia Szachowa",
+            "city": "Gorzów",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4761&n=",
+            "date": "05.11.2022",
+            "name": "Turniej Szachowy na IV kat. w Skwierzynie 5 XI 2022r.",
+            "city": "Skwierzyna",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2286&n=",
+            "date": "06.11.2022",
+            "name": "XI TURNIEJ SZACHOWY Z OKAZJI ŚWIĘTA NIEPODLEGŁOŚCI - GRUPA B",
+            "city": "ZIELONA",
+            "country": "Poland",
+            "type_and_players": "LB blitz"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6036&n=",
+            "date": "11.11.2022",
+            "name": "BIAŁO - CZERWONY TURNIEJ SZACHOWY O PUCHAR BURMISTRZA KROSNA ODRZAŃSKIEGO - B",
+            "city": "Krosno",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2645&n=",
+            "date": "19.11.2022",
+            "name": "Mistrzostwa Sulechowa w szachach szybkich w ramach GP ZIEMI LUBUSKIEJ - Grupa A",
+            "city": "Sulechów",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/tdr_5250&n=",
+            "date": "20.11.2022",
+            "name": "Turniej Szachów Rodzinnych",
+            "city": "Strzelce",
+            "country": "Poland",
+            "type_and_players": " szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5142&n=",
+            "date": "04.12.2022",
+            "name": "Otwarty Turniej Szachowy o Puchar Wójta Gminy Pszczew",
+            "city": "Pszczew",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5045&n=",
+            "date": "10.12.2022",
+            "name": "WEEKEND SZACHOWY - Standard",
+            "city": "GORZÓW",
+            "country": "Poland",
+            "type_and_players": "LB klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_244&n=",
+            "date": "27.12.2022",
+            "name": "Szachy klasyczne z GKSz'em",
+            "city": "Gubin",
+            "country": "Poland",
+            "type_and_players": "LB klasyczne"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6099&n=",
@@ -592,86 +672,6 @@
             "type_and_players": "LB szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5142&n=",
-            "date": "04.12.2022",
-            "name": "Otwarty Turniej Szachowy o Puchar Wójta Gminy Pszczew",
-            "city": "Pszczew",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5045&n=",
-            "date": "10.12.2022",
-            "name": "WEEKEND SZACHOWY - Standard",
-            "city": "GORZÓW",
-            "country": "Poland",
-            "type_and_players": "LB klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_244&n=",
-            "date": "27.12.2022",
-            "name": "Szachy klasyczne z GKSz'em",
-            "city": "Gubin",
-            "country": "Poland",
-            "type_and_players": "LB klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6122&n=",
-            "date": "04.11.2022",
-            "name": "XII  Grand Prix SP-1 Zielona Góra.(7)",
-            "city": "Zielona",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5568&n=",
-            "date": "05.11.2022",
-            "name": "Lubuska Akademia Szachowa",
-            "city": "Gorzów",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4761&n=",
-            "date": "05.11.2022",
-            "name": "Turniej Szachowy na IV kat. w Skwierzynie 5 XI 2022r.",
-            "city": "Skwierzyna",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2286&n=",
-            "date": "06.11.2022",
-            "name": "XI TURNIEJ SZACHOWY Z OKAZJI ŚWIĘTA NIEPODLEGŁOŚCI - GRUPA B",
-            "city": "ZIELONA",
-            "country": "Poland",
-            "type_and_players": "LB blitz"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6036&n=",
-            "date": "11.11.2022",
-            "name": "BIAŁO - CZERWONY TURNIEJ SZACHOWY O PUCHAR BURMISTRZA KROSNA ODRZAŃSKIEGO - B",
-            "city": "Krosno",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_2645&n=",
-            "date": "19.11.2022",
-            "name": "Mistrzostwa Sulechowa w szachach szybkich w ramach GP ZIEMI LUBUSKIEJ - Grupa A",
-            "city": "Sulechów",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/tdr_5250&n=",
-            "date": "20.11.2022",
-            "name": "Turniej Szachów Rodzinnych",
-            "city": "Strzelce",
-            "country": "Poland",
-            "type_and_players": " szybkie"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5250&n=",
             "date": "10.12.2022",
             "name": "Mikołajkowo - Świąteczny Turniej Szachowy",
@@ -709,7 +709,16 @@
             "type_and_players": "OP szybkie"
          }
       ],
-      "chessManager": []
+      "chessManager": [
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6296924740124672",
+            "date": "13.11.2022",
+            "name": "II Mistrzostwa Głuchołaz w Szachach Szybkich P15 pod patronatem Dyrektora Centrum Kultury im. Kawalerów Orderu Uśmiechu w Głuchołazach",
+            "city": "Głuchołazy",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         }
+      ]
    },
    "WP": {
       "chessarbiter": [
@@ -940,12 +949,28 @@
             "type_and_players": "Szybkie"
          },
          {
+            "link": " https://www.chessmanager.com/pl/tournaments/6536380978036736",
+            "date": "08.11.2022",
+            "name": "Wtorkowe Szaszki w Pomyśle",
+            "city": "Poznan",
+            "country": "Polska",
+            "type_and_players": "Błyskawiczne"
+         },
+         {
             "link": " https://www.chessmanager.com/pl/tournaments/4928006054215680",
             "date": "08.11.2022",
             "name": "ZŁOTOWSKA LIGA SZACHOWA - 2022/2023 - runda 9",
             "city": "Złotów",
             "country": "Polska",
             "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/4861347792683008",
+            "date": "09.11.2022",
+            "name": "Pomysł GrandPrix #12.4",
+            "city": "Poznan",
+            "country": "Polska",
+            "type_and_players": "Błyskawiczne"
          },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6569956884873216",
