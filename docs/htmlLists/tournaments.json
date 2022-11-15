@@ -2,14 +2,6 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6253&n=",
-            "date": "15.11.2022",
-            "name": "Mistrzostwa 12 LO w Szachach",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS blitz"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5408&n=",
             "date": "16.11.2022",
             "name": "Środy w KS AZS Wratislavia",
@@ -170,14 +162,6 @@
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6252&n=",
-            "date": "15.11.2022",
-            "name": "Mistrzostwa Szachowe w 12 LO ",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS blitz"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4811&n=",
             "date": "18.11.2022",
             "name": "GRAND PRIX POLONII WROCŁAW",
@@ -324,6 +308,22 @@
             "type_and_players": "Szybkie"
          },
          {
+            "link": " https://www.chessmanager.com/pl/tournaments/4805180928294912",
+            "date": "04.12.2022",
+            "name": "Otwarte Mistrzostwa Powiatu Milickiego w Szachach - OPEN",
+            "city": "Milicz",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5484139961647104",
+            "date": "04.12.2022",
+            "name": "Otwarte Mistrzostwa Powiatu Milickiego w Szachach - do lat 12 \"Dolnośląski Szach Mat\"",
+            "city": "Milicz",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
             "link": " https://www.chessmanager.com/pl/tournaments/5676113704517632",
             "date": "10.12.2022",
             "name": "Winterpol Blitz 2022- grudzień",
@@ -458,6 +458,94 @@
    "WP": {
       "chessarbiter": [
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4989&n=",
+            "date": "18.11.2022",
+            "name": "Szachowy Grand Prix o Puchar APATOR POWGAZ -Listopad",
+            "city": "Kórnik",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/tdr_6401&n=",
+            "date": "19.11.2022",
+            "name": "Igrzyska Młodzieży Szkolnej",
+            "city": "Konin",
+            "country": "Poland",
+            "type_and_players": " szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5952&n=",
+            "date": "19.11.2022",
+            "name": "Turniej 2 - GRAND PRIX - gr. A - II Dziecięcy cykl Szachowy ",
+            "city": "Swarzędz",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5744&n=",
+            "date": "19.11.2022",
+            "name": "TURNIEJE O PUCHARY GALERII MM DLA DZIECI I DOROSŁYCH 19 LISTOPAD 2022",
+            "city": "POZNAŃ",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5754&n=",
+            "date": "19.11.2022",
+            "name": "VIII Turniej o Puchar Prezydenta Kalisza gr. B (ranking 1600-1700 PZSzach)",
+            "city": "Kalisz",
+            "country": "Poland",
+            "type_and_players": "WP klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5756&n=",
+            "date": "19.11.2022",
+            "name": "VIII Turniej o Puchar Prezydenta Kalisza gr. D (rank 1000-1250 PZSzach)",
+            "city": "Kalisz",
+            "country": "Poland",
+            "type_and_players": "WP klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/tdr_6340&n=",
+            "date": "26.11.2022",
+            "name": "IV Wielkopolska Liga Seniorów gr B w sezonie 2021/22",
+            "city": "Ślesin",
+            "country": "Poland",
+            "type_and_players": " klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5747&n=",
+            "date": "04.12.2022",
+            "name": "MIKOŁAJKOWY TURNIEJ SZACHOWY DLA DZIECI I DOROSŁYCH 4 GRUDZIEŃ 2022",
+            "city": "POZNAŃ",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6113&n=",
+            "date": "10.12.2022",
+            "name": "Gwiazkowy Turniej dla dzieci i młodzieży w DK Na Pięterku Poznań",
+            "city": "Poznań",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6360&n=",
+            "date": "10.12.2022",
+            "name": "XXXI FESTIWAL SZACHOWY IM. KS. B - PA JERZEGO DĄBROWSKIEGO - grupa B",
+            "city": "Marzenin",
+            "country": "Poland",
+            "type_and_players": "WP klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6139&n=",
+            "date": "11.12.2022",
+            "name": "Klasyfikacyjny Szachowy Turniej Mikołajkowy dla dzieci",
+            "city": "Poznań",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/tdr_6403&n=",
             "date": "19.11.2022",
             "name": "Igrzyska Dzieci",
@@ -514,86 +602,6 @@
             "type_and_players": "WP szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5747&n=",
-            "date": "04.12.2022",
-            "name": "MIKOŁAJKOWY TURNIEJ SZACHOWY DLA DZIECI I DOROSŁYCH 4 GRUDZIEŃ 2022",
-            "city": "POZNAŃ",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6113&n=",
-            "date": "10.12.2022",
-            "name": "Gwiazkowy Turniej dla dzieci i młodzieży w DK Na Pięterku Poznań",
-            "city": "Poznań",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6360&n=",
-            "date": "10.12.2022",
-            "name": "XXXI FESTIWAL SZACHOWY IM. KS. B - PA JERZEGO DĄBROWSKIEGO - grupa B",
-            "city": "Marzenin",
-            "country": "Poland",
-            "type_and_players": "WP klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6139&n=",
-            "date": "11.12.2022",
-            "name": "Klasyfikacyjny Szachowy Turniej Mikołajkowy dla dzieci",
-            "city": "Poznań",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/tdr_6401&n=",
-            "date": "19.11.2022",
-            "name": "Igrzyska Młodzieży Szkolnej",
-            "city": "Konin",
-            "country": "Poland",
-            "type_and_players": " szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5952&n=",
-            "date": "19.11.2022",
-            "name": "Turniej 2 - GRAND PRIX - gr. A - II Dziecięcy cykl Szachowy ",
-            "city": "Swarzędz",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5744&n=",
-            "date": "19.11.2022",
-            "name": "TURNIEJE O PUCHARY GALERII MM DLA DZIECI I DOROSŁYCH 19 LISTOPAD 2022",
-            "city": "POZNAŃ",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5754&n=",
-            "date": "19.11.2022",
-            "name": "VIII Turniej o Puchar Prezydenta Kalisza gr. B (ranking 1600-1700 PZSzach)",
-            "city": "Kalisz",
-            "country": "Poland",
-            "type_and_players": "WP klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5756&n=",
-            "date": "19.11.2022",
-            "name": "VIII Turniej o Puchar Prezydenta Kalisza gr. D (rank 1000-1250 PZSzach)",
-            "city": "Kalisz",
-            "country": "Poland",
-            "type_and_players": "WP klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/tdr_6340&n=",
-            "date": "26.11.2022",
-            "name": "IV Wielkopolska Liga Seniorów gr B w sezonie 2021/22",
-            "city": "Ślesin",
-            "country": "Poland",
-            "type_and_players": " klasyczne"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6474&n=",
             "date": "04.12.2022",
             "name": "WOLSZTYŃSKIE SPOTKANIA SZACHOWE - MIKOŁAJKI 2022",
@@ -620,12 +628,12 @@
       ],
       "chessManager": [
          {
-            "link": " https://www.chessmanager.com/pl/tournaments/5159894341648384",
-            "date": "15.11.2022",
-            "name": "ZŁOTOWSKA LIGA SZACHOWA - 2022/2023 - runda 10",
-            "city": "Złotów",
+            "link": " https://www.chessmanager.com/pl/tournaments/5152201317023744",
+            "date": "16.11.2022",
+            "name": "Pomysł GrandPrix #12.5",
+            "city": "Poznan",
             "country": "Polska",
-            "type_and_players": "Szybkie"
+            "type_and_players": "Błyskawiczne"
          },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/5814704183181312",
