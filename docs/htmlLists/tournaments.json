@@ -352,58 +352,26 @@
             "type_and_players": "LB szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6690&n=",
-            "date": "03.12.2022",
-            "name": "III Otwarty Turniej o Mistrzostwo Nowogrodu Bobrzańskiego Grupa B",
-            "city": "Nowogród",
-            "country": "Poland",
-            "type_and_players": "LB klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5250&n=",
-            "date": "10.12.2022",
-            "name": "Mikołajkowo - Świąteczny Turniej Szachowy",
-            "city": "Strzelce",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6564&n=",
-            "date": "11.12.2022",
-            "name": "Kurs sędziowski na klasy okręgowe",
-            "city": "Strzelce",
-            "country": "Poland",
-            "type_and_players": "LB inne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_244&n=",
-            "date": "27.12.2022",
-            "name": "Szachy klasyczne z GKSz'em",
-            "city": "Gubin",
-            "country": "Poland",
-            "type_and_players": "LB klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/tdr_6578&n=",
-            "date": "29.11.2022",
-            "name": "Drużynowe Mistrzostwa Województwa Szkół w szachach - IGRZYSKA MŁODZIEŻY",
-            "city": "Sulechów",
-            "country": "Poland",
-            "type_and_players": " szybkie"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6689&n=",
             "date": "03.12.2022",
             "name": "III Otwarty Turniej o Mistrzostwo Nowogrodu Bobrzańskiego Grupa A",
             "city": "Nowogród",
             "country": "Poland",
-            "type_and_players": "LB klasyczne"
+            "type_and_players": "LB szybkie"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5142&n=",
             "date": "04.12.2022",
             "name": "Otwarty Turniej Szachowy o Puchar Wójta Gminy Pszczew",
             "city": "Pszczew",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6383&n=",
+            "date": "10.12.2022",
+            "name": "Mistrzostwa Gminy Drezdenko dla dzieci ze szkół podstawowych 10.12.2022",
+            "city": "Trzebicz",
             "country": "Poland",
             "type_and_players": "LB szybkie"
          },
@@ -419,6 +387,62 @@
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_245&n=",
             "date": "17.12.2022",
             "name": "Turniej na kategorie z GKSz'em",
+            "city": "Gubin",
+            "country": "Poland",
+            "type_and_players": "LB klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/tdr_6578&n=",
+            "date": "29.11.2022",
+            "name": "Drużynowe Mistrzostwa Województwa Szkół w szachach - IGRZYSKA MŁODZIEŻY",
+            "city": "Sulechów",
+            "country": "Poland",
+            "type_and_players": " szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6816&n=",
+            "date": "03.12.2022",
+            "name": "III Otwarty Turniej o Mistrzostwo Nowogrodu Bobrzańskiego - Grupa C",
+            "city": "Nowogród",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6690&n=",
+            "date": "03.12.2022",
+            "name": "III Otwarty Turniej o Mistrzostwo Nowogrodu Bobrzańskiego Grupa B",
+            "city": "Nowogród",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5250&n=",
+            "date": "10.12.2022",
+            "name": "Mikołajkowo - Świąteczny Turniej Szachowy",
+            "city": "Strzelce",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6812&n=",
+            "date": "10.12.2022",
+            "name": "Turniej Szachowy o \"Złamany Pionek\"",
+            "city": "Zielona",
+            "country": "Poland",
+            "type_and_players": "LB blitz"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6564&n=",
+            "date": "11.12.2022",
+            "name": "Kurs sędziowski na klasy okręgowe",
+            "city": "Strzelce",
+            "country": "Poland",
+            "type_and_players": "LB inne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_244&n=",
+            "date": "27.12.2022",
+            "name": "Szachy klasyczne z GKSz'em",
             "city": "Gubin",
             "country": "Poland",
             "type_and_players": "LB klasyczne"
@@ -457,14 +481,6 @@
    },
    "WP": {
       "chessarbiter": [
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5796&n=",
-            "date": "27.11.2022",
-            "name": "3 turniej GP 2022/23 Klubu Raszyn",
-            "city": "Poznań",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4989&n=",
             "date": "01.12.2022",
@@ -555,22 +571,6 @@
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/4890447907389440",
-            "date": "27.11.2022",
-            "name": "Turniej Adwentowy OPEN FIDE",
-            "city": "Przeźmierowo",
-            "country": "Polska",
-            "type_and_players": "Szybkie"
-         },
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/4914522809696256",
-            "date": "27.11.2022",
-            "name": "Turniej Adwentowy grupa B - rocznik 2008 i młodsi",
-            "city": "Przeźmierowo",
-            "country": "Polska",
-            "type_and_players": "Szybkie"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6125534992924672",
             "date": "29.11.2022",
