@@ -138,6 +138,14 @@
             "type_and_players": "DS szybkie"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/tdr_6870&n=",
+            "date": "30.11.2022",
+            "name": "Igrzyska Młodzieży 2022/23 - Drużynowe Mistrzostwa Szkół Podstawowych (2008-9)",
+            "city": "Jelenia",
+            "country": "Poland",
+            "type_and_players": " szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4813&n=",
             "date": "02.12.2022",
             "name": "GRAND PRIX POLONII WROCŁAW",
@@ -368,9 +376,9 @@
    "LB": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/tdr_6578&n=",
-            "date": "29.11.2022",
-            "name": "Drużynowe Mistrzostwa Województwa Szkół w szachach - IGRZYSKA MŁODZIEŻY",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/tdr_6579&n=",
+            "date": "30.11.2022",
+            "name": "Drużynowe Mistrzostwa Województwa Szkół w szachach - IGRZYSKA DZIECI",
             "city": "Sulechów",
             "country": "Poland",
             "type_and_players": " szybkie"
@@ -422,14 +430,6 @@
             "city": "Gubin",
             "country": "Poland",
             "type_and_players": "LB klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/tdr_6579&n=",
-            "date": "30.11.2022",
-            "name": "Drużynowe Mistrzostwa Województwa Szkół w szachach - IGRZYSKA DZIECI",
-            "city": "Sulechów",
-            "country": "Poland",
-            "type_and_players": " szybkie"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6816&n=",
@@ -522,6 +522,14 @@
             "type_and_players": "WP szybkie"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6873&n=",
+            "date": "02.12.2022",
+            "name": "Mistrzostwa grudnia w KTS Kalisz grupa OPEN",
+            "city": "Kalisz",
+            "country": "Poland",
+            "type_and_players": "WP blitz"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6474&n=",
             "date": "04.12.2022",
             "name": "WOLSZTYŃSKIE SPOTKANIA SZACHOWE - MIKOŁAJKI 2022",
@@ -568,6 +576,14 @@
             "city": "POZNAŃ",
             "country": "Poland",
             "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6874&n=",
+            "date": "02.12.2022",
+            "name": "Mistrzostwa grudnia w KTS Kalisz grupa do lat 12 do rankingu 1400",
+            "city": "Kalisz",
+            "country": "Poland",
+            "type_and_players": "WP blitz"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5747&n=",
@@ -620,14 +636,6 @@
       ],
       "chessManager": [
          {
-            "link": " https://www.chessmanager.com/pl/tournaments/6125534992924672",
-            "date": "29.11.2022",
-            "name": "ZŁOTOWSKA LIGA SZACHOWA - 2022/2023 - runda 11",
-            "city": "Złotów",
-            "country": "Polska",
-            "type_and_players": "Szybkie"
-         },
-         {
             "link": " https://www.chessmanager.com/pl/tournaments/5154386582962176",
             "date": "01.12.2022",
             "name": "Maxima 20221229",
@@ -672,6 +680,38 @@
             "date": "04.12.2022",
             "name": "Obornicki Mikołajkowy Turniej Szachowy",
             "city": "Oborniki",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5511736183488512",
+            "date": "09.12.2022",
+            "name": "II Złotowski Międzyszkolny Turniej Szachowy 2022 - grupa C11/D11",
+            "city": "Złotów",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/4850682969456640",
+            "date": "09.12.2022",
+            "name": "II Złotowski Międzyszkolny Turniej Szachowy 2022 - grupa C13/D13",
+            "city": "Złotów",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5931453104783360",
+            "date": "09.12.2022",
+            "name": "II Złotowski Międzyszkolny Turniej Szachowy 2022 - grupa C15/D15",
+            "city": "Złotów",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6254700966969344",
+            "date": "09.12.2022",
+            "name": "II Złotowski Międzyszkolny Turniej Szachowy 2022 - grupa C9/D9",
+            "city": "Złotów",
             "country": "Polska",
             "type_and_players": "Szybkie"
          },
