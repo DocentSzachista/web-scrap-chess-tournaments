@@ -2,14 +2,6 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/tdr_6909&n=",
-            "date": "05.12.2022",
-            "name": "Wałbrzyska Licealiada",
-            "city": "Wałbrzych",
-            "country": "Poland",
-            "type_and_players": " szybkie"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5411&n=",
             "date": "07.12.2022",
             "name": "Środy w KS AZS Wratislavia",
@@ -128,14 +120,6 @@
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/tdr_6976&n=",
-            "date": "05.12.2022",
-            "name": "Wałbrzyskie Igrzyska Dzieci",
-            "city": "Wałbrzych",
-            "country": "Poland",
-            "type_and_players": " szybkie"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4814&n=",
@@ -548,10 +532,10 @@
       ],
       "chessManager": [
          {
-            "link": " https://www.chessmanager.com/pl/tournaments/4803972113104896",
-            "date": "05.12.2022",
-            "name": "Mikołajkowy Turniej Szachowy I-IV",
-            "city": "Otorowo",
+            "link": " https://www.chessmanager.com/pl/tournaments/5528022296821760",
+            "date": "06.12.2022",
+            "name": "ZŁOTOWSKA LIGA SZACHOWA - 2022/2023 - runda 12",
+            "city": "Złotów",
             "country": "Polska",
             "type_and_players": "Szybkie"
          },
