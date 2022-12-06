@@ -532,10 +532,34 @@
       ],
       "chessManager": [
          {
-            "link": " https://www.chessmanager.com/pl/tournaments/5528022296821760",
-            "date": "06.12.2022",
-            "name": "ZŁOTOWSKA LIGA SZACHOWA - 2022/2023 - runda 12",
-            "city": "Złotów",
+            "link": " https://www.chessmanager.com/pl/tournaments/4753562618822656",
+            "date": "07.12.2022",
+            "name": "Pomysł GrandPrix #13.2",
+            "city": "Poznan",
+            "country": "Polska",
+            "type_and_players": "Błyskawiczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6022355852722176",
+            "date": "08.12.2022",
+            "name": "Turniej Mikołajkowy 1-3",
+            "city": "Poznan",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6206685010984960",
+            "date": "08.12.2022",
+            "name": "Turniej Mikołajkowy 4-6",
+            "city": "Poznan",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/4853673743089664",
+            "date": "08.12.2022",
+            "name": "Turniej Mikołajkowy 7-8",
+            "city": "Poznan",
             "country": "Polska",
             "type_and_players": "Szybkie"
          },
