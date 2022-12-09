@@ -2,14 +2,6 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4814&n=",
-            "date": "09.12.2022",
-            "name": "GRAND PRIX POLONII WROCŁAW",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6442&n=",
             "date": "10.12.2022",
             "name": "Świąteczne Mistrzostwa Akademii Młodego Szachisty 2022 - Grupa A+B",
@@ -30,6 +22,14 @@
             "date": "10.12.2022",
             "name": "Świąteczne Mistrzostwa Akademii Młodego Szachisty 2022 U7",
             "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7100&n=",
+            "date": "10.12.2022",
+            "name": "Grand Prix Śródmieścia - Grupa A",
+            "city": "Wroclaw",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
@@ -114,20 +114,28 @@
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5413&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7096&n=",
+            "date": "20.12.2022",
+            "name": "Świąteczny Turniej o Kategorie- grupa A ",
+            "city": "Szymanów",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7097&n=",
             "date": "21.12.2022",
-            "name": "Środy w KS AZS Wratislavia",
-            "city": "Wrocław",
+            "name": "Świąteczny Turniej o Kategorie- grupa B",
+            "city": "Szymanów",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6896&n=",
-            "date": "09.12.2022",
-            "name": "IX Turniej FORszachMATY",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7088&n=",
+            "date": "27.12.2022",
+            "name": "Otwarte Mistrzostwa Hetmana (klasyczne : FIDE)",
             "city": "Wrocław",
             "country": "Poland",
-            "type_and_players": "DS szybkie"
+            "type_and_players": "DS klasyczne"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6443&n=",
@@ -150,6 +158,14 @@
             "date": "10.12.2022",
             "name": "Świąteczne Mistrzostwa Akademii Młodego Szachisty 2022 U9",
             "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7101&n=",
+            "date": "10.12.2022",
+            "name": "Grand Prix Śródmieścia - Grupa B",
+            "city": "Wroclaw",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
@@ -234,6 +250,14 @@
             "type_and_players": "DS szybkie"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5413&n=",
+            "date": "21.12.2022",
+            "name": "Środy w KS AZS Wratislavia",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4816&n=",
             "date": "23.12.2022",
             "name": "GRAND PRIX POLONII WROCŁAW",
@@ -279,54 +303,6 @@
    },
    "LB": {
       "chessarbiter": [
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6344&n=",
-            "date": "09.12.2022",
-            "name": "XII  Grand Prix SP-1 Zielona Góra.(11)",
-            "city": "Zielona",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6922&n=",
-            "date": "10.12.2022",
-            "name": "Mikołajkowy Turniej Szachowy do lat 6",
-            "city": "Żary",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6939&n=",
-            "date": "10.12.2022",
-            "name": "Mikołajkowy Turniej Szachowy do lat 9",
-            "city": "Żary",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6971&n=",
-            "date": "10.12.2022",
-            "name": "Turniej Szachowy o \"Złamany Pionek\"",
-            "city": "Zielona",
-            "country": "Poland",
-            "type_and_players": "LB blitz"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6564&n=",
-            "date": "11.12.2022",
-            "name": "Kurs sędziowski na klasy okręgowe. PRZESUNIĘTY NA 23.01.2023",
-            "city": "Strzelce",
-            "country": "Poland",
-            "type_and_players": "LB inne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_245&n=",
-            "date": "17.12.2022",
-            "name": "GRAND PRIX ZIEMI LUBUSKIEJ - 5. Turniej - Szachy szybkie z GKSz'em - Grupa B",
-            "city": "Gubin",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
-         },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5250&n=",
             "date": "10.12.2022",
@@ -374,6 +350,46 @@
             "city": "Gubin",
             "country": "Poland",
             "type_and_players": "LB klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6922&n=",
+            "date": "10.12.2022",
+            "name": "Mikołajkowy Turniej Szachowy do lat 6",
+            "city": "Żary",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6939&n=",
+            "date": "10.12.2022",
+            "name": "Mikołajkowy Turniej Szachowy do lat 9",
+            "city": "Żary",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6971&n=",
+            "date": "10.12.2022",
+            "name": "Turniej Szachowy o \"Złamany Pionek\"",
+            "city": "Zielona",
+            "country": "Poland",
+            "type_and_players": "LB blitz"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6564&n=",
+            "date": "11.12.2022",
+            "name": "Kurs sędziowski na klasy okręgowe. PRZESUNIĘTY NA 23.01.2023",
+            "city": "Strzelce",
+            "country": "Poland",
+            "type_and_players": "LB inne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_245&n=",
+            "date": "17.12.2022",
+            "name": "GRAND PRIX ZIEMI LUBUSKIEJ - 5. Turniej - Szachy szybkie z GKSz'em - Grupa B",
+            "city": "Gubin",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
          }
       ],
       "chessManager": []
@@ -413,7 +429,32 @@
             "type_and_players": "OP szybkie"
          }
       ],
-      "chessManager": []
+      "chessManager": [
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5521682555994112",
+            "date": "10.12.2022",
+            "name": "Turniej A dla dzieci z rocznika 2013 i starszych Grand Prix nr 3",
+            "city": "Opole",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5178079199625216",
+            "date": "10.12.2022",
+            "name": "Turniej B dla dzieci z rocznika 2014 i 2015 Grand Prix nr 3",
+            "city": "Opole",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/4858484307787776",
+            "date": "10.12.2022",
+            "name": "Turniej C dla dzieci z rocznika 2016-2017 Grand Prix nr 3",
+            "city": "Opole",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         }
+      ]
    },
    "WP": {
       "chessarbiter": [
@@ -539,38 +580,6 @@
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/5511736183488512",
-            "date": "09.12.2022",
-            "name": "II Złotowski Międzyszkolny Turniej Szachowy 2022 - grupa C11/D11",
-            "city": "Złotów",
-            "country": "Polska",
-            "type_and_players": "Szybkie"
-         },
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/4850682969456640",
-            "date": "09.12.2022",
-            "name": "II Złotowski Międzyszkolny Turniej Szachowy 2022 - grupa C13/D13",
-            "city": "Złotów",
-            "country": "Polska",
-            "type_and_players": "Szybkie"
-         },
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/5931453104783360",
-            "date": "09.12.2022",
-            "name": "II Złotowski Międzyszkolny Turniej Szachowy 2022 - grupa C15/D15",
-            "city": "Złotów",
-            "country": "Polska",
-            "type_and_players": "Szybkie"
-         },
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/6254700966969344",
-            "date": "09.12.2022",
-            "name": "II Złotowski Międzyszkolny Turniej Szachowy 2022 - grupa C9/D9",
-            "city": "Złotów",
-            "country": "Polska",
-            "type_and_players": "Szybkie"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/4793837433126912",
             "date": "10.12.2022",
