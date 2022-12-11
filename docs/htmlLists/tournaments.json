@@ -103,22 +103,6 @@
    "LB": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6564&n=",
-            "date": "11.12.2022",
-            "name": "Kurs sędziowski na klasy okręgowe. PRZESUNIĘTY NA 23.01.2023",
-            "city": "Strzelce",
-            "country": "Poland",
-            "type_and_players": "LB inne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_245&n=",
-            "date": "17.12.2022",
-            "name": "GRAND PRIX ZIEMI LUBUSKIEJ - 5. Turniej - Szachy szybkie z GKSz'em - Grupa B",
-            "city": "Gubin",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6947&n=",
             "date": "17.12.2022",
             "name": "GRAND PRIX ZIEMI LUBUSKIEJ - 5. Turniej  - FIDE RAPID -  Grupa A",
@@ -129,10 +113,34 @@
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_244&n=",
             "date": "27.12.2022",
-            "name": "Szachy klasyczne z GKSz'em",
+            "name": "II Zimowy Festiwal Szachowy w Gubinie - Turniej A - 1600+",
+            "city": "Gubin",
+            "country": "Poland",
+            "type_and_players": "LB klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7158&n=",
+            "date": "28.12.2022",
+            "name": "II Zimowy Festiwal Szachowy w Gubinie - Turniej B - 1250-1400",
             "city": "Gubin",
             "country": "Poland",
             "type_and_players": "LB klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_245&n=",
+            "date": "17.12.2022",
+            "name": "GRAND PRIX ZIEMI LUBUSKIEJ - 5. Turniej - Szachy szybkie z GKSz'em - Grupa B",
+            "city": "Gubin",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7159&n=",
+            "date": "27.12.2022",
+            "name": "II Zimowy Festiwal Szachowy w Gubinie - Turniej C - na kategorie V-IV",
+            "city": "Gubin",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
          }
       ],
       "chessManager": []
@@ -144,17 +152,9 @@
    "WP": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6980&n=",
-            "date": "11.12.2022",
-            "name": "100 lecie Gnieźnieńskiego Klubu Szachistów | GP Wielkopolski",
-            "city": "Gniezno",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/tdr_6917&n=",
             "date": "12.12.2022",
-            "name": "XXIV Igrzyska (1-6) WIMS - Wapno",
+            "name": "XXIV Igrzyska Dzieci(1-6) WIMS - Wapno",
             "city": "Wapno",
             "country": "Poland",
             "type_and_players": " szybkie"
@@ -171,14 +171,6 @@
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6839&n=",
             "date": "18.12.2022",
             "name": "IV Turniej GP Klubu Raszyn ",
-            "city": "Poznań",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6139&n=",
-            "date": "11.12.2022",
-            "name": "Klasyfikacyjny Szachowy Turniej Mikołajkowy dla dzieci",
             "city": "Poznań",
             "country": "Poland",
             "type_and_players": "WP szybkie"
@@ -209,14 +201,6 @@
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/4805799923679232",
-            "date": "11.12.2022",
-            "name": "100 lecie Gnieźnieńskiego Klubu Szachistów ♞ GP Wielkopolski ♞",
-            "city": "Gniezno",
-            "country": "Polska",
-            "type_and_players": "Szybkie"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6267424367181824",
             "date": "03.05.2023",
