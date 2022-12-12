@@ -152,30 +152,6 @@
    "WP": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/tdr_6917&n=",
-            "date": "12.12.2022",
-            "name": "XXIV Igrzyska Dzieci(1-6) WIMS - Wapno",
-            "city": "Wapno",
-            "country": "Poland",
-            "type_and_players": " szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6838&n=",
-            "date": "16.12.2022",
-            "name": "KONIN MASTERS VIII - VI MEMORIAŁ WIKTORA KORCZNOJA",
-            "city": "Konin",
-            "country": "Poland",
-            "type_and_players": "WP klasyczneFIDE"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6839&n=",
-            "date": "18.12.2022",
-            "name": "IV Turniej GP Klubu Raszyn ",
-            "city": "Poznań",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/tdr_6918&n=",
             "date": "13.12.2022",
             "name": "XXIV Igrzyska (7-8) WIMS - Wapno",
@@ -198,9 +174,41 @@
             "city": "POZNAŃ",
             "country": "Poland",
             "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6838&n=",
+            "date": "16.12.2022",
+            "name": "KONIN MASTERS VIII - VI MEMORIAŁ WIKTORA KORCZNOJA",
+            "city": "Konin",
+            "country": "Poland",
+            "type_and_players": "WP klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6839&n=",
+            "date": "18.12.2022",
+            "name": "IV Turniej GP Klubu Raszyn ",
+            "city": "Poznań",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
          }
       ],
       "chessManager": [
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6453825146716160",
+            "date": "13.12.2022",
+            "name": "ZŁOTOWSKA LIGA SZACHOWA - 2022/2023 - runda 13",
+            "city": "Złotów",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/4796137086124032",
+            "date": "16.12.2022",
+            "name": "Szkolna Liga Szachowa - runda 11 w SP nr 1 w Złotowie - 2022/2023",
+            "city": "Złotów",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6267424367181824",
             "date": "03.05.2023",
