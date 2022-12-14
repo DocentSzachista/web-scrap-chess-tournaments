@@ -2,28 +2,36 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5412&n=",
-            "date": "14.12.2022",
-            "name": "Środy w KS AZS Wratislavia",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4815&n=",
+            "date": "16.12.2022",
+            "name": "GRAND PRIX POLONII WROCŁAW",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6900&n=",
-            "date": "14.12.2022",
-            "name": "Dolnośląski SZACH-MAT klasy 1-2",
-            "city": "Lubin",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7096&n=",
+            "date": "20.12.2022",
+            "name": "Świąteczny Turniej o Kategorie- grupa A ",
+            "city": "Szymanów",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7097&n=",
+            "date": "21.12.2022",
+            "name": "Świąteczny Turniej o Kategorie- grupa B",
+            "city": "Szymanów",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6902&n=",
-            "date": "14.12.2022",
-            "name": "Dolnośląski SZACH-MAT klasy 5-8",
-            "city": "Lubin",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7088&n=",
+            "date": "27.12.2022",
+            "name": "Otwarte Mistrzostwa Hetmana (klasyczne : FIDE)",
+            "city": "Wrocław",
             "country": "Poland",
-            "type_and_players": "DS szybkie"
+            "type_and_players": "DS klasyczne"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7134&n=",
@@ -56,54 +64,6 @@
             "city": "Wroclaw",
             "country": "Poland",
             "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6899&n=",
-            "date": "14.12.2022",
-            "name": "Dolnośląski SZACH-MAT klasa 0 i młodsi",
-            "city": "Lubin",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6901&n=",
-            "date": "14.12.2022",
-            "name": "Dolnośląski SZACH-MAT klasy 3-4",
-            "city": "Lubin",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4815&n=",
-            "date": "16.12.2022",
-            "name": "GRAND PRIX POLONII WROCŁAW",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7096&n=",
-            "date": "20.12.2022",
-            "name": "Świąteczny Turniej o Kategorie- grupa A ",
-            "city": "Szymanów",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7097&n=",
-            "date": "21.12.2022",
-            "name": "Świąteczny Turniej o Kategorie- grupa B",
-            "city": "Szymanów",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7088&n=",
-            "date": "27.12.2022",
-            "name": "Otwarte Mistrzostwa Hetmana (klasyczne : FIDE)",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
          }
       ],
       "chessManager": []
@@ -151,7 +111,24 @@
             "type_and_players": "LB szybkie"
          }
       ],
-      "chessManager": []
+      "chessManager": [
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5236070988906496",
+            "date": "19.12.2022",
+            "name": "Szkolny Turniej Szachowy Klasy 1-4",
+            "city": "Niegosławice",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6328184065753088",
+            "date": "19.12.2022",
+            "name": "Szkolny Turniej Szachowy Klasy 5-8",
+            "city": "Niegosławice",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         }
+      ]
    },
    "OP": {
       "chessarbiter": [],
@@ -193,14 +170,6 @@
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/6008432340500480",
-            "date": "14.12.2022",
-            "name": "Pomysł GrandPrix #13.3",
-            "city": "Poznan",
-            "country": "Polska",
-            "type_and_players": "Błyskawiczne"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/5096694870966272",
             "date": "16.12.2022",
