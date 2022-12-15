@@ -71,6 +71,30 @@
    "LB": {
       "chessarbiter": [
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6344&n=",
+            "date": "16.12.2022",
+            "name": "XII  Grand Prix SP-1 Zielona Góra.(12)",
+            "city": "Zielona",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_245&n=",
+            "date": "17.12.2022",
+            "name": "GRAND PRIX ZIEMI LUBUSKIEJ - 5. Turniej - Szachy szybkie z GKSz'em - Grupa B",
+            "city": "Gubin",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7159&n=",
+            "date": "27.12.2022",
+            "name": "II Zimowy Festiwal Szachowy w Gubinie - Turniej C - na kategorie V-IV",
+            "city": "Gubin",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6947&n=",
             "date": "17.12.2022",
             "name": "GRAND PRIX ZIEMI LUBUSKIEJ - 5. Turniej  - FIDE RAPID -  Grupa A",
@@ -93,22 +117,6 @@
             "city": "Gubin",
             "country": "Poland",
             "type_and_players": "LB klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_245&n=",
-            "date": "17.12.2022",
-            "name": "GRAND PRIX ZIEMI LUBUSKIEJ - 5. Turniej - Szachy szybkie z GKSz'em - Grupa B",
-            "city": "Gubin",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7159&n=",
-            "date": "27.12.2022",
-            "name": "II Zimowy Festiwal Szachowy w Gubinie - Turniej C - na kategorie V-IV",
-            "city": "Gubin",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
          }
       ],
       "chessManager": [
