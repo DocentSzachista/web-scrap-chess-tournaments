@@ -2,38 +2,6 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4815&n=",
-            "date": "16.12.2022",
-            "name": "GRAND PRIX POLONII WROCŁAW",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7096&n=",
-            "date": "20.12.2022",
-            "name": "Świąteczny Turniej o Kategorie- grupa A ",
-            "city": "Szymanów",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7097&n=",
-            "date": "21.12.2022",
-            "name": "Świąteczny Turniej o Kategorie- grupa B",
-            "city": "Szymanów",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7088&n=",
-            "date": "27.12.2022",
-            "name": "Otwarte Mistrzostwa Hetmana (klasyczne : FIDE)",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7134&n=",
             "date": "17.12.2022",
             "name": "Pierwsze Kroki Turniejowe",
@@ -64,36 +32,36 @@
             "city": "Wroclaw",
             "country": "Poland",
             "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7096&n=",
+            "date": "20.12.2022",
+            "name": "Świąteczny Turniej o Kategorie- grupa A ",
+            "city": "Szymanów",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7097&n=",
+            "date": "21.12.2022",
+            "name": "Świąteczny Turniej o Kategorie- grupa B",
+            "city": "Szymanów",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7088&n=",
+            "date": "27.12.2022",
+            "name": "Otwarte Mistrzostwa Hetmana (klasyczne : FIDE)",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
          }
       ],
       "chessManager": []
    },
    "LB": {
       "chessarbiter": [
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6344&n=",
-            "date": "16.12.2022",
-            "name": "XII  Grand Prix SP-1 Zielona Góra.(12)",
-            "city": "Zielona",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_245&n=",
-            "date": "17.12.2022",
-            "name": "GRAND PRIX ZIEMI LUBUSKIEJ - 5. Turniej - Szachy szybkie z GKSz'em - Grupa B",
-            "city": "Gubin",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7159&n=",
-            "date": "27.12.2022",
-            "name": "II Zimowy Festiwal Szachowy w Gubinie - Turniej C - na kategorie V-IV",
-            "city": "Gubin",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
-         },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6947&n=",
             "date": "17.12.2022",
@@ -117,6 +85,22 @@
             "city": "Gubin",
             "country": "Poland",
             "type_and_players": "LB klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_245&n=",
+            "date": "17.12.2022",
+            "name": "GRAND PRIX ZIEMI LUBUSKIEJ - 5. Turniej - Szachy szybkie z GKSz'em - Grupa B",
+            "city": "Gubin",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7159&n=",
+            "date": "27.12.2022",
+            "name": "II Zimowy Festiwal Szachowy w Gubinie - Turniej C - na kategorie V-IV",
+            "city": "Gubin",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
          }
       ],
       "chessManager": [
@@ -145,22 +129,6 @@
    "WP": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6838&n=",
-            "date": "16.12.2022",
-            "name": "Konin Masters - UWAGA NASTĘPUJE ZMIANA TERMINU NA LUTY ORAZ PULI NAGRÓD",
-            "city": "Konin",
-            "country": "Poland",
-            "type_and_players": "WP klasyczneFIDE"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6839&n=",
-            "date": "18.12.2022",
-            "name": "IV Turniej GP Klubu Raszyn ",
-            "city": "Poznań",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6662&n=",
             "date": "17.12.2022",
             "name": "Turniej 3 - GRAND PRIX - gr. A i B - II Dziecięcy cykl Szachowy",
@@ -175,25 +143,25 @@
             "city": "POZNAŃ",
             "country": "Poland",
             "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6839&n=",
+            "date": "18.12.2022",
+            "name": "IV Turniej GP Klubu Raszyn ",
+            "city": "Poznań",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7281&n=",
+            "date": "22.12.2022",
+            "name": "Gwiazdkowy Turniej Szachowy ODK Wiktoria",
+            "city": "Poznań",
+            "country": "Poland",
+            "type_and_players": "WP blitz"
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/5096694870966272",
-            "date": "16.12.2022",
-            "name": "Grand Prix Stulecia Gnieźnieńskiego Klubu Szachistów – 6 turniej",
-            "city": "Gniezno",
-            "country": "Polska",
-            "type_and_players": "Szybkie"
-         },
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/4796137086124032",
-            "date": "16.12.2022",
-            "name": "Szkolna Liga Szachowa - runda 11 w SP nr 1 w Złotowie - 2022/2023",
-            "city": "Złotów",
-            "country": "Polska",
-            "type_and_players": "Szybkie"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6267424367181824",
             "date": "03.05.2023",
