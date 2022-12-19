@@ -79,24 +79,7 @@
             "type_and_players": "LB szybkie"
          }
       ],
-      "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/5236070988906496",
-            "date": "19.12.2022",
-            "name": "Szkolny Turniej Szachowy Klasy 1-4",
-            "city": "Niegosławice",
-            "country": "Polska",
-            "type_and_players": "Szybkie"
-         },
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/6328184065753088",
-            "date": "19.12.2022",
-            "name": "Szkolny Turniej Szachowy Klasy 5-8",
-            "city": "Niegosławice",
-            "country": "Polska",
-            "type_and_players": "Szybkie"
-         }
-      ]
+      "chessManager": []
    },
    "OP": {
       "chessarbiter": [],
