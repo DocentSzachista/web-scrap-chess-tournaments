@@ -2,30 +2,6 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7096&n=",
-            "date": "20.12.2022",
-            "name": "Świąteczny Turniej o Kategorie- grupa A ",
-            "city": "Szymanów",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7097&n=",
-            "date": "21.12.2022",
-            "name": "Świąteczny Turniej o Kategorie- grupa B",
-            "city": "Szymanów",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7088&n=",
-            "date": "27.12.2022",
-            "name": "Otwarte Mistrzostwa Hetmana (klasyczne : FIDE)",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_5413&n=",
             "date": "21.12.2022",
             "name": "Środy w KS AZS Wratislavia",
@@ -48,9 +24,34 @@
             "city": "Wroclaw",
             "country": "Poland",
             "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7097&n=",
+            "date": "21.12.2022",
+            "name": "Świąteczny Turniej o Kategorie- grupa B",
+            "city": "Szymanów",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7088&n=",
+            "date": "27.12.2022",
+            "name": "Otwarte Mistrzostwa Hetmana (klasyczne : FIDE)",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
          }
       ],
-      "chessManager": []
+      "chessManager": [
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6649099819417600",
+            "date": "02.01.2023",
+            "name": "Vc 2023",
+            "city": "Grębocice",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         }
+      ]
    },
    "LB": {
       "chessarbiter": [
@@ -98,12 +99,12 @@
       ],
       "chessManager": [
          {
-            "link": " https://www.chessmanager.com/pl/tournaments/5352259786375168",
-            "date": "20.12.2022",
-            "name": "ZŁOTOWSKA LIGA SZACHOWA - 2022/2023 - runda 14",
-            "city": "Złotów",
+            "link": " https://www.chessmanager.com/pl/tournaments/5082626772697088",
+            "date": "21.12.2022",
+            "name": "Pomysł GrandPrix #13.4",
+            "city": "Poznan",
             "country": "Polska",
-            "type_and_players": "Szybkie"
+            "type_and_players": "Błyskawiczne"
          },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6267424367181824",
