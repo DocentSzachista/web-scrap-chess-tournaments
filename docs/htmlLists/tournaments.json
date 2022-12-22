@@ -68,28 +68,10 @@
    },
    "OP": {
       "chessarbiter": [],
-      "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/5929634546843648",
-            "date": "22.12.2022",
-            "name": "Mistrzostwa Szkółki KS Korona Zakrzewo",
-            "city": "Dąbrowa",
-            "country": "Polska",
-            "type_and_players": "Błyskawiczne"
-         }
-      ]
+      "chessManager": []
    },
    "WP": {
-      "chessarbiter": [
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7281&n=",
-            "date": "22.12.2022",
-            "name": "Gwiazdkowy Turniej Szachowy ODK Wiktoria",
-            "city": "Poznań",
-            "country": "Poland",
-            "type_and_players": "WP blitz"
-         }
-      ],
+      "chessarbiter": [],
       "chessManager": [
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6042972022898688",
