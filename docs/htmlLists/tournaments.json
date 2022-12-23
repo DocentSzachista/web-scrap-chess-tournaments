@@ -2,12 +2,12 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4816&n=",
-            "date": "23.12.2022",
-            "name": "GRAND PRIX POLONII WROCŁAW",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7088&n=",
+            "date": "27.12.2022",
+            "name": "Otwarte Mistrzostwa Hetmana (klasyczne : FIDE)",
             "city": "Wrocław",
             "country": "Poland",
-            "type_and_players": "DS szybkie"
+            "type_and_players": "DS klasyczne"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7207&n=",
@@ -16,14 +16,6 @@
             "city": "Wroclaw",
             "country": "Poland",
             "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7088&n=",
-            "date": "27.12.2022",
-            "name": "Otwarte Mistrzostwa Hetmana (klasyczne : FIDE)",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
          }
       ],
       "chessManager": [
@@ -73,6 +65,14 @@
    "WP": {
       "chessarbiter": [],
       "chessManager": [
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6308906105044992",
+            "date": "27.12.2022",
+            "name": "ZŁOTOWSKA LIGA SZACHOWA - 2022/2023 - runda 15",
+            "city": "Złotów",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6042972022898688",
             "date": "06.01.2023",
