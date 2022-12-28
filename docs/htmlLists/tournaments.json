@@ -22,16 +22,7 @@
       ]
    },
    "LB": {
-      "chessarbiter": [
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7158&n=",
-            "date": "28.12.2022",
-            "name": "II Zimowy Festiwal Szachowy w Gubinie - Turniej B - 1250-1400",
-            "city": "Gubin",
-            "country": "Poland",
-            "type_and_players": "LB klasyczne"
-         }
-      ],
+      "chessarbiter": [],
       "chessManager": []
    },
    "OP": {
