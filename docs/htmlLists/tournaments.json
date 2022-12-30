@@ -1,15 +1,6 @@
 {
    "DS": {
-      "chessarbiter": [
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7207&n=",
-            "date": "30.12.2022",
-            "name": "Turniej Noworoczny - Grupa D (Pierwszy Krok)",
-            "city": "Wroclaw",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         }
-      ],
+      "chessarbiter": [],
       "chessManager": [
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6649099819417600",
