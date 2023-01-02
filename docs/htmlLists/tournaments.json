@@ -202,6 +202,14 @@
             "type_and_players": "DS szybkie"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_7&n=",
+            "date": "21.01.2023",
+            "name": "Turniej Klockowy 2023",
+            "city": "Jelenia",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7041&n=",
             "date": "11.02.2023",
             "name": "X TURNIEJ SZACHOWY O PUCHAR DZSZACH GRUPA DO 1600",
@@ -276,10 +284,34 @@
       ],
       "chessManager": [
          {
-            "link": " https://www.chessmanager.com/pl/tournaments/6649099819417600",
-            "date": "02.01.2023",
-            "name": "Vc 2023",
-            "city": "Grębocice",
+            "link": " https://www.chessmanager.com/pl/tournaments/4885897305653248",
+            "date": "21.01.2023",
+            "name": "Turniej Klockowy 2023- OPEN A",
+            "city": "Jelenia Gora",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5135101701652480",
+            "date": "21.01.2023",
+            "name": "Turniej Klockowy 2023- OPEN B",
+            "city": "Jelenia Gora",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5172404272758784",
+            "date": "21.01.2023",
+            "name": "Turniej Klockowy 2023- U7",
+            "city": "Jelenia Gora",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5096473277497344",
+            "date": "21.01.2023",
+            "name": "Turniej Klockowy 2023- U8",
+            "city": "Jelenia Gora",
             "country": "Polska",
             "type_and_players": "Szybkie"
          }
@@ -435,6 +467,14 @@
          }
       ],
       "chessManager": [
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5164692013056000",
+            "date": "03.01.2023",
+            "name": "ZŁOTOWSKA LIGA SZACHOWA - 2022/2023 - runda 16",
+            "city": "Złotów",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6042972022898688",
             "date": "06.01.2023",
