@@ -589,6 +589,14 @@
             "type_and_players": "OP szybkie"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_115&n=",
+            "date": "27.01.2023",
+            "name": "Szybki Piątek w Strzelcu - Styczeń 2023 (FIDE)",
+            "city": "Strzelce",
+            "country": "Poland",
+            "type_and_players": "OP szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7447&n=",
             "date": "25.02.2023",
             "name": "II Puchar Ziemi Strzeleckiej w Szachach - Open B (PZSzach 1400-1600)",
@@ -675,14 +683,6 @@
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/6003349070544896",
-            "date": "04.01.2023",
-            "name": "Pomysł GrandPrix #13.5",
-            "city": "Poznan",
-            "country": "Polska",
-            "type_and_players": "Błyskawiczne"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6042972022898688",
             "date": "06.01.2023",
