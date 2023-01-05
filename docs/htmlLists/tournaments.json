@@ -502,7 +502,7 @@
          {
             "link": " https://www.chessmanager.com/pl/tournaments/5172404272758784",
             "date": "21.01.2023",
-            "name": "Turniej Klockowy 2023- U7",
+            "name": "Turniej Klockowy 2023- U8",
             "city": "Jelenia Gora",
             "country": "Polska",
             "type_and_players": "Szybkie"
@@ -510,7 +510,7 @@
          {
             "link": " https://www.chessmanager.com/pl/tournaments/5096473277497344",
             "date": "21.01.2023",
-            "name": "Turniej Klockowy 2023- U8",
+            "name": "Turniej Klockowy 2023- U9",
             "city": "Jelenia Gora",
             "country": "Polska",
             "type_and_players": "Szybkie"
@@ -544,6 +544,14 @@
             "type_and_players": "LB klasyczne"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_145&n=",
+            "date": "29.01.2023",
+            "name": "Rodzinny Turniej Szachowy",
+            "city": "Świebodzin",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7365&n=",
             "date": "07.01.2023",
             "name": "Rapid B - Weekend przy Szachownicy",
@@ -558,6 +566,14 @@
             "city": "Gorzów",
             "country": "Poland",
             "type_and_players": "LB klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_141&n=",
+            "date": "21.01.2023",
+            "name": "Weekend z szachami ",
+            "city": "Strzelce",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7095&n=",
