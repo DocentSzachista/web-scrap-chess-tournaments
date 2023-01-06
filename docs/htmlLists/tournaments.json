@@ -2,74 +2,58 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7208&n=",
-            "date": "06.01.2023",
-            "name": "Turniej Noworoczn 2023 - Grupa B",
-            "city": "Wroclaw",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6733&n=",
-            "date": "06.01.2023",
-            "name": "TURNIEJ NOWOROCZNY POLONII WROCŁAW",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6308&n=",
-            "date": "14.01.2023",
-            "name": "IV Świdnicki Festiwal Szachowy Open A (na I i k)",
-            "city": "Burkatów",
-            "country": "Poland",
-            "type_and_players": "DS klasyczneFIDE"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6311&n=",
-            "date": "14.01.2023",
-            "name": "IV Świdnicki Festiwal Szachowy Open C (kobiety)",
-            "city": "Burkatów",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6313&n=",
-            "date": "14.01.2023",
-            "name": "IV Świdnicki Festiwal Szachowy Open E (V i IV kat)",
-            "city": "Burkatów",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7425&n=",
-            "date": "14.01.2023",
-            "name": "Pierwsze Kroki Turniejowe",
-            "city": "Legnica",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6924&n=",
-            "date": "14.01.2023",
-            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - STYCZEŃ od lat 13",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_37&n=",
-            "date": "20.01.2023",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_36&n=",
+            "date": "13.01.2023",
             "name": "GRAND PRIX POLONII WROCŁAW",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_38&n=",
-            "date": "27.01.2023",
-            "name": "GRAND PRIX POLONII WROCŁAW",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6309&n=",
+            "date": "14.01.2023",
+            "name": "IV Świdnicki Festiwal Szachowy Open B (II kat)",
+            "city": "Burkatów",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6312&n=",
+            "date": "14.01.2023",
+            "name": "IV Świdnicki Festiwal Szachowy Open D (III kat)",
+            "city": "Burkatów",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7017&n=",
+            "date": "14.01.2023",
+            "name": "MINI Turniej z Akademią",
             "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6923&n=",
+            "date": "14.01.2023",
+            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - STYCZEŃ do lat 12",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6314&n=",
+            "date": "15.01.2023",
+            "name": "IV Świdnicki Festiwal Szachowy Open F (V i IV kat)",
+            "city": "Burkatów",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_7&n=",
+            "date": "21.01.2023",
+            "name": "Turniej Klockowy 2023",
+            "city": "Jelenia",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
@@ -80,6 +64,14 @@
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS blitz"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_153&n=",
+            "date": "04.02.2023",
+            "name": "X EDYCJA GRAND PRIX RADKOWA I ZIEMI KŁODZKIEJ - GRUPA B DLA DZIECI DO 14 LAT",
+            "city": "ŚCINAWKA",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7042&n=",
@@ -250,66 +242,66 @@
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7206&n=",
-            "date": "06.01.2023",
-            "name": "Turniej Noworoczny 2023 - Grupa C",
-            "city": "Wroclaw",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6308&n=",
+            "date": "14.01.2023",
+            "name": "IV Świdnicki Festiwal Szachowy Open A (na I i k)",
+            "city": "Burkatów",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6311&n=",
+            "date": "14.01.2023",
+            "name": "IV Świdnicki Festiwal Szachowy Open C (kobiety)",
+            "city": "Burkatów",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_36&n=",
-            "date": "13.01.2023",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6313&n=",
+            "date": "14.01.2023",
+            "name": "IV Świdnicki Festiwal Szachowy Open E (V i IV kat)",
+            "city": "Burkatów",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7425&n=",
+            "date": "14.01.2023",
+            "name": "Pierwsze Kroki Turniejowe",
+            "city": "Legnica",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6924&n=",
+            "date": "14.01.2023",
+            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - STYCZEŃ od lat 13",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_37&n=",
+            "date": "20.01.2023",
             "name": "GRAND PRIX POLONII WROCŁAW",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6309&n=",
-            "date": "14.01.2023",
-            "name": "IV Świdnicki Festiwal Szachowy Open B (II kat)",
-            "city": "Burkatów",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6312&n=",
-            "date": "14.01.2023",
-            "name": "IV Świdnicki Festiwal Szachowy Open D (III kat)",
-            "city": "Burkatów",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7017&n=",
-            "date": "14.01.2023",
-            "name": "MINI Turniej z Akademią",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_38&n=",
+            "date": "27.01.2023",
+            "name": "GRAND PRIX POLONII WROCŁAW",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6923&n=",
-            "date": "14.01.2023",
-            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - STYCZEŃ do lat 12",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6314&n=",
-            "date": "15.01.2023",
-            "name": "IV Świdnicki Festiwal Szachowy Open F (V i IV kat)",
-            "city": "Burkatów",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_7&n=",
-            "date": "21.01.2023",
-            "name": "Turniej Klockowy 2023",
-            "city": "Jelenia",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_152&n=",
+            "date": "04.02.2023",
+            "name": "X  EDYCJA  GRAND PRIX RADKOWA i ZIEMI KLODZKIEJ na FIDE OPEN  A ",
+            "city": "SCINAWKA",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
@@ -700,10 +692,10 @@
       ],
       "chessManager": [
          {
-            "link": " https://www.chessmanager.com/pl/tournaments/6042972022898688",
-            "date": "06.01.2023",
-            "name": "XXII Turniej Szachowy \"Trzech Króli\"  o Puchar Prezesa RSM",
-            "city": "Rawicz",
+            "link": " https://www.chessmanager.com/pl/tournaments/5589902742781952",
+            "date": "10.01.2023",
+            "name": "ZŁOTOWSKA LIGA SZACHOWA - 2022/2023 - runda 17",
+            "city": "Złotów",
             "country": "Polska",
             "type_and_players": "Szybkie"
          },
@@ -714,6 +706,14 @@
             "city": "Wagrowiec",
             "country": "Polska",
             "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6369996981665792",
+            "date": "15.01.2023",
+            "name": "IV OGÓLNOPOLSKI TURNIEJ SZACHOWY IM. PLATONA PLESKACZA",
+            "city": "Odolanów",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
          },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6267424367181824",
