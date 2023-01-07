@@ -50,10 +50,18 @@
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_7&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_159&n=",
             "date": "21.01.2023",
-            "name": "Turniej Klockowy 2023",
-            "city": "Jelenia",
+            "name": "Kurs Sędziowski DZSzach",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_38&n=",
+            "date": "27.01.2023",
+            "name": "GRAND PRIX POLONII WROCŁAW",
+            "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
@@ -290,10 +298,10 @@
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_38&n=",
-            "date": "27.01.2023",
-            "name": "GRAND PRIX POLONII WROCŁAW",
-            "city": "Wrocław",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_7&n=",
+            "date": "21.01.2023",
+            "name": "Turniej Klockowy 2023",
+            "city": "Jelenia",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
@@ -506,19 +514,19 @@
             "city": "Jelenia Gora",
             "country": "Polska",
             "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6315055424471040",
+            "date": "21.01.2023",
+            "name": "#01. Styczniowe Rozgrywki o tytuł",
+            "city": "Klasyczne: 75'/3 +44' +2''",
+            "country": "No data",
+            "type_and_players": ",, Dolnośląski Mistrz Miesiąca\" 2023"
          }
       ]
    },
    "LB": {
       "chessarbiter": [
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7364&n=",
-            "date": "07.01.2023",
-            "name": "Rapid A - Weekend przy Szachownicy - zgłoszony do FIDE",
-            "city": "Gorzów",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
-         },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6344&n=",
             "date": "13.01.2023",
@@ -540,14 +548,6 @@
             "date": "29.01.2023",
             "name": "Rodzinny Turniej Szachowy",
             "city": "Świebodzin",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7365&n=",
-            "date": "07.01.2023",
-            "name": "Rapid B - Weekend przy Szachownicy",
-            "city": "Gorzów",
             "country": "Poland",
             "type_and_players": "LB szybkie"
          },
