@@ -50,6 +50,14 @@
             "type_and_players": "DS klasyczne"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_195&n=",
+            "date": "21.01.2023",
+            "name": "Grand Prix Śródmieścia 2022/23 - II turniej - grupa A",
+            "city": "Wroclaw",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_159&n=",
             "date": "21.01.2023",
             "name": "Kurs Sędziowski DZSzach",
@@ -294,6 +302,14 @@
             "date": "20.01.2023",
             "name": "GRAND PRIX POLONII WROCŁAW",
             "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_196&n=",
+            "date": "21.01.2023",
+            "name": "Grand Prix Śródmieścia 2022/23 - II turniej - grupa B",
+            "city": "Wroclaw",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
@@ -544,12 +560,12 @@
             "type_and_players": "LB klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_145&n=",
-            "date": "29.01.2023",
-            "name": "Rodzinny Turniej Szachowy",
-            "city": "Świebodzin",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6564&n=",
+            "date": "22.01.2023",
+            "name": "Kurs sędziowski na klasy okręgowe",
+            "city": "Strzelce",
             "country": "Poland",
-            "type_and_players": "LB szybkie"
+            "type_and_players": "LB inne"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_176&n=",
@@ -588,6 +604,14 @@
             "date": "21.01.2023",
             "name": "Weekend z szachami ",
             "city": "Strzelce",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_145&n=",
+            "date": "29.01.2023",
+            "name": "Rodzinny Turniej Szachowy",
+            "city": "Świebodzin",
             "country": "Poland",
             "type_and_players": "LB szybkie"
          },
@@ -650,18 +674,18 @@
    "WP": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7330&n=",
-            "date": "14.01.2023",
-            "name": "Turniej 4 - GRAND PRIX - gr. A i B - II Dziecięcy cykl Szachowy",
-            "city": "Swarzędz",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4989&n=",
+            "date": "13.01.2023",
+            "name": "Szachowy Grand Prix o Puchar APATOR POWOGAZ -Grudzień",
+            "city": "Kórnik",
             "country": "Poland",
-            "type_and_players": "WP szybkie"
+            "type_and_players": "WP blitz"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7319&n=",
-            "date": "22.01.2023",
-            "name": "V Turniej GP Klubu Raszyn 2022/23",
-            "city": "Poznań",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7329&n=",
+            "date": "21.01.2023",
+            "name": "Rodzinny Szachowy Turniej Deblowy - z okazji Dnia Babci i Dziadka",
+            "city": "Wiry",
             "country": "Poland",
             "type_and_players": "WP szybkie"
          },
@@ -682,10 +706,10 @@
             "type_and_players": "WP blitz"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_70&n=",
-            "date": "26.02.2023",
-            "name": "X TURNIEJ SZACHY W SZKOLE DK ORLE GNIAZDO POZNAŃ",
-            "city": "POZNAŃ",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_197&n=",
+            "date": "25.02.2023",
+            "name": "VII Otwarte Indywidualne i Drużynowe  Mistrzostwa Poznania Niepublicznych Szkół Podstawowych",
+            "city": "Poznań",
             "country": "Poland",
             "type_and_players": "WP szybkie"
          },
@@ -698,10 +722,18 @@
             "type_and_players": "WP szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7329&n=",
-            "date": "21.01.2023",
-            "name": "Rodzinny Szachowy Turniej Deblowy - z okazji Dnia Babci i Dziadka",
-            "city": "Wiry",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7330&n=",
+            "date": "14.01.2023",
+            "name": "Turniej 4 - GRAND PRIX - gr. A i B - II Dziecięcy cykl Szachowy",
+            "city": "Swarzędz",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7319&n=",
+            "date": "22.01.2023",
+            "name": "V Turniej GP Klubu Raszyn 2022/23",
+            "city": "Poznań",
             "country": "Poland",
             "type_and_players": "WP szybkie"
          },
@@ -718,6 +750,14 @@
             "date": "04.02.2023",
             "name": "V OGÓLNOPOLSKI TURNIEJ SZACHOWY O MISTRZOSWO GMINY KOŚCIELEC 2023 - GRUPA C",
             "city": "Kościelec",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_70&n=",
+            "date": "26.02.2023",
+            "name": "X TURNIEJ SZACHY W SZKOLE DK ORLE GNIAZDO POZNAŃ",
+            "city": "POZNAŃ",
             "country": "Poland",
             "type_and_players": "WP szybkie"
          }
@@ -740,6 +780,14 @@
             "type_and_players": "Szybkie"
          },
          {
+            "link": " https://www.chessmanager.com/pl/tournaments/5069873228021760",
+            "date": "13.01.2023",
+            "name": "Wągrowiecki Turniej Klasyfikacyjny  23-2 (na V lub IV kat.)",
+            "city": "Wągrowiec",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
             "link": " https://www.chessmanager.com/pl/tournaments/6313007798812672",
             "date": "13.01.2023",
             "name": "Wągrowiecki Turniej Klasyfikacyjny  23-1",
@@ -754,6 +802,22 @@
             "city": "Odolanów",
             "country": "Polska",
             "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5980159040552960",
+            "date": "21.01.2023",
+            "name": "Budzynianie zdobywają kategorie 2023",
+            "city": "Budzyń",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5091209123987456",
+            "date": "21.01.2023",
+            "name": "Budzynianki zdobywają kategorie 2023",
+            "city": "Budzyń",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
          },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6267424367181824",
