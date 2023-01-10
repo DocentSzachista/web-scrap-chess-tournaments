@@ -106,17 +106,17 @@
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6941&n=",
-            "date": "17.02.2023",
-            "name": "TURNIEJ FERYJNY POLONII WROCŁAW",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6926&n=",
+            "date": "18.02.2023",
+            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LUTY do lat 12",
             "city": "Wrocław",
             "country": "Poland",
-            "type_and_players": "DS klasyczne"
+            "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6926&n=",
-            "date": "25.02.2023",
-            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LUTY do lat 12",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_41&n=",
+            "date": "24.02.2023",
+            "name": "GRAND PRIX POLONII WROCŁAW",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
@@ -354,20 +354,20 @@
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_41&n=",
-            "date": "24.02.2023",
-            "name": "GRAND PRIX POLONII WROCŁAW",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6927&n=",
+            "date": "18.02.2023",
+            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LUTY od lat 13",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6927&n=",
-            "date": "25.02.2023",
-            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LUTY od lat 13",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6941&n=",
+            "date": "24.02.2023",
+            "name": "TURNIEJ FERYJNY POLONII WROCŁAW",
             "city": "Wrocław",
             "country": "Poland",
-            "type_and_players": "DS szybkie"
+            "type_and_players": "DS klasyczne"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_43&n=",
@@ -674,18 +674,18 @@
    "WP": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4989&n=",
-            "date": "13.01.2023",
-            "name": "Szachowy Grand Prix o Puchar APATOR POWOGAZ -Grudzień",
-            "city": "Kórnik",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7330&n=",
+            "date": "14.01.2023",
+            "name": "Turniej 4 - GRAND PRIX - gr. A i B - II Dziecięcy cykl Szachowy",
+            "city": "Swarzędz",
             "country": "Poland",
-            "type_and_players": "WP blitz"
+            "type_and_players": "WP szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7329&n=",
-            "date": "21.01.2023",
-            "name": "Rodzinny Szachowy Turniej Deblowy - z okazji Dnia Babci i Dziadka",
-            "city": "Wiry",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7319&n=",
+            "date": "22.01.2023",
+            "name": "V Turniej GP Klubu Raszyn 2022/23",
+            "city": "Poznań",
             "country": "Poland",
             "type_and_players": "WP szybkie"
          },
@@ -722,20 +722,20 @@
             "type_and_players": "WP szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7330&n=",
-            "date": "14.01.2023",
-            "name": "Turniej 4 - GRAND PRIX - gr. A i B - II Dziecięcy cykl Szachowy",
-            "city": "Swarzędz",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7329&n=",
+            "date": "21.01.2023",
+            "name": "Rodzinny Szachowy Turniej Deblowy - z okazji Dnia Babci i Dziadka",
+            "city": "Wiry",
             "country": "Poland",
             "type_and_players": "WP szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7319&n=",
-            "date": "22.01.2023",
-            "name": "V Turniej GP Klubu Raszyn 2022/23",
-            "city": "Poznań",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4989&n=",
+            "date": "27.01.2023",
+            "name": "Szachowy Grand Prix o Puchar APATOR POWOGAZ -Styczeń",
+            "city": "Kórnik",
             "country": "Poland",
-            "type_and_players": "WP szybkie"
+            "type_and_players": "WP blitz"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7261&n=",
@@ -764,12 +764,12 @@
       ],
       "chessManager": [
          {
-            "link": " https://www.chessmanager.com/pl/tournaments/5589902742781952",
-            "date": "10.01.2023",
-            "name": "ZŁOTOWSKA LIGA SZACHOWA - 2022/2023 - runda 17",
-            "city": "Złotów",
+            "link": " https://www.chessmanager.com/pl/tournaments/5129340246294528",
+            "date": "11.01.2023",
+            "name": "Pomysł GrandPrix #14.1",
+            "city": "Poznan",
             "country": "Polska",
-            "type_and_players": "Szybkie"
+            "type_and_players": "Błyskawiczne"
          },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/4819073822097408",
