@@ -90,6 +90,30 @@
             "type_and_players": "DS klasyczne"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_219&n=",
+            "date": "11.02.2023",
+            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 10",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_215&n=",
+            "date": "11.02.2023",
+            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 5",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_217&n=",
+            "date": "11.02.2023",
+            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 7",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7042&n=",
             "date": "11.02.2023",
             "name": "X TURNIEJ SZACHOWY O PUCHAR DZSZACH GRUPA DO 1250",
@@ -333,6 +357,30 @@
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_40&n=",
             "date": "10.02.2023",
             "name": "GRAND PRIX POLONII WROCŁAW",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_220&n=",
+            "date": "11.02.2023",
+            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 12",
+            "city": "Wroclaw",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_216&n=",
+            "date": "11.02.2023",
+            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 6",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_218&n=",
+            "date": "11.02.2023",
+            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 8",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
@@ -763,14 +811,6 @@
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/5129340246294528",
-            "date": "11.01.2023",
-            "name": "Pomysł GrandPrix #14.1",
-            "city": "Poznan",
-            "country": "Polska",
-            "type_and_players": "Błyskawiczne"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/4819073822097408",
             "date": "13.01.2023",
