@@ -130,6 +130,14 @@
             "type_and_players": "DS klasyczne"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_258&n=",
+            "date": "17.02.2023",
+            "name": "I MiędzynarodowyTurniej Szachowy o Wrocławską Podkowę \"CZARNEGO KONIA\" - Open A",
+            "city": "WROCŁAW",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6926&n=",
             "date": "18.02.2023",
             "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LUTY do lat 12",
@@ -141,6 +149,14 @@
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_41&n=",
             "date": "24.02.2023",
             "name": "GRAND PRIX POLONII WROCŁAW",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_241&n=",
+            "date": "24.02.2023",
+            "name": "Turniej Szachowy Pierwszy Skok (w ramach Festiwalu im. S. Tarrascha)",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
@@ -402,6 +418,14 @@
             "type_and_players": "DS klasyczne"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_259&n=",
+            "date": "17.02.2023",
+            "name": "I MiędzynarodowyTurniej Szachowy o Wrocławską Podkowę \"CZARNEGO KONIA\" - Open B",
+            "city": "WROCŁAW",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6927&n=",
             "date": "18.02.2023",
             "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LUTY od lat 13",
@@ -586,6 +610,14 @@
             "city": "Klasyczne: 75'/3 +44' +2''",
             "country": "No data",
             "type_and_players": ",, Dolnośląski Mistrz Miesiąca\" 2023"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5667532057870336",
+            "date": "18.02.2023",
+            "name": "C4 Blitz & Rapid - luty 2023",
+            "city": "Jelenia Góra",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
          }
       ]
    },
@@ -685,12 +717,12 @@
    "OP": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_115&n=",
-            "date": "27.01.2023",
-            "name": "Szybki Piątek w Strzelcu - Styczeń 2023 (FIDE)",
-            "city": "Strzelce",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_243&n=",
+            "date": "13.01.2023",
+            "name": "Turniej Blitz Szkolne Indywidualne Mistrzostwa Polski  w Szachach",
+            "city": "Pokrzywna",
             "country": "Poland",
-            "type_and_players": "OP szybkie"
+            "type_and_players": "OP blitz"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7446&n=",
@@ -704,6 +736,14 @@
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7448&n=",
             "date": "25.02.2023",
             "name": "II Puchar Ziemi Strzeleckiej w Szachach - Open C (PZSzach 1000-1200)",
+            "city": "Strzelce",
+            "country": "Poland",
+            "type_and_players": "OP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_115&n=",
+            "date": "27.01.2023",
+            "name": "Szybki Piątek w Strzelcu - Styczeń 2023 (FIDE)",
             "city": "Strzelce",
             "country": "Poland",
             "type_and_players": "OP szybkie"
@@ -856,6 +896,22 @@
             "date": "21.01.2023",
             "name": "Budzynianki zdobywają kategorie 2023",
             "city": "Budzyń",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6598734348550144",
+            "date": "11.02.2023",
+            "name": "Zimowy Turniej Szachowy",
+            "city": "Przeźmierowo",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5451968593002496",
+            "date": "11.02.2023",
+            "name": "Zimowy Turniej Szachowy OPEN FIDE",
+            "city": "Przeźmierowo",
             "country": "Polska",
             "type_and_players": "Klasyczne"
          },
