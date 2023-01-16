@@ -648,6 +648,14 @@
             "type_and_players": "LB szybkie"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7095&n=",
+            "date": "19.02.2023",
+            "name": "XXII Zimowe Zgrupowanie Szkoleniowe ZIMA PSZCZEW 2023",
+            "city": "Pszczew",
+            "country": "Poland",
+            "type_and_players": "LB klasyczne"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_176&n=",
             "date": "03.05.2023",
             "name": "Turniej Szachowy w Szachach Szybkich w Skwierzynie 03.05.2023r.",
@@ -688,12 +696,12 @@
             "type_and_players": "LB inne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7095&n=",
-            "date": "19.02.2023",
-            "name": "XXII Zimowe Zgrupowanie Szkoleniowe ZIMA PSZCZEW 2023",
-            "city": "Pszczew",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_354&n=",
+            "date": "12.02.2023",
+            "name": "Turniej Szachów Szybkich w Rokitnie o Puchar Wójta Przytocznej",
+            "city": "Rokitno",
             "country": "Poland",
-            "type_and_players": "LB klasyczne"
+            "type_and_players": "LB szybkie"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_179&n=",
@@ -778,6 +786,14 @@
             "type_and_players": "WP blitz"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_357&n=",
+            "date": "11.02.2023",
+            "name": "Zimowy Turniej Szachowy Juniorzy na kategorie",
+            "city": "Przeźmierowo",
+            "country": "Poland",
+            "type_and_players": "WP klasyczne"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_346&n=",
             "date": "18.02.2023",
             "name": "Turniej 5 - GRAND PRIX - gr. A i B - II Dziecięcy cykl Szachowy",
@@ -786,10 +802,10 @@
             "type_and_players": "WP szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_70&n=",
-            "date": "26.02.2023",
-            "name": "X TURNIEJ SZACHY W SZKOLE DK ORLE GNIAZDO POZNAŃ",
-            "city": "POZNAŃ",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_197&n=",
+            "date": "25.02.2023",
+            "name": "VII Otwarte Indywidualne i Drużynowe  Mistrzostwa Poznania Niepublicznych Szkół Podstawowych klasy 0-3",
+            "city": "Poznań",
             "country": "Poland",
             "type_and_players": "WP szybkie"
          },
@@ -826,10 +842,26 @@
             "type_and_players": "WP szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_197&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_356&n=",
+            "date": "11.02.2023",
+            "name": "Zimowy Turniej Szachowy OPEN FIDE I 400zl II 300zl III 200z",
+            "city": "Przeźmierowo",
+            "country": "Poland",
+            "type_and_players": "WP klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_355&n=",
             "date": "25.02.2023",
-            "name": "VII Otwarte Indywidualne i Drużynowe  Mistrzostwa Poznania Niepublicznych Szkół Podstawowych",
+            "name": "VII Otwarte Indywidualne i Druż.ynowe Mistrzostwa  Poznania Niepublicznych Szkół Podstawowych  klasy 4-8",
             "city": "Poznań",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_70&n=",
+            "date": "26.02.2023",
+            "name": "X TURNIEJ SZACHY W SZKOLE DK ORLE GNIAZDO POZNAŃ",
+            "city": "POZNAŃ",
             "country": "Poland",
             "type_and_players": "WP szybkie"
          }
@@ -839,6 +871,14 @@
             "link": " https://www.chessmanager.com/pl/tournaments/4790002354487296",
             "date": "17.01.2023",
             "name": "ZŁOTOWSKA LIGA SZACHOWA - 2022/2023 - runda 18",
+            "city": "Złotów",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5931794646958080",
+            "date": "20.01.2023",
+            "name": "Szkolna Liga Szachowa - runda 13 w SP nr 1 w Złotowie - 2022/2023",
             "city": "Złotów",
             "country": "Polska",
             "type_and_players": "Szybkie"
