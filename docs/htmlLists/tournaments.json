@@ -754,6 +754,14 @@
    "WP": {
       "chessarbiter": [
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_386&n=",
+            "date": "20.01.2023",
+            "name": "Mistrzostwa KTS Kalisz 5 turniej grupa do lat 12 (do rankingu 1400)",
+            "city": "Kalisz",
+            "country": "Poland",
+            "type_and_players": "WP blitz"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7329&n=",
             "date": "21.01.2023",
             "name": "Rodzinny Szachowy Turniej Deblowy - z okazji Dnia Babci i Dziadka",
@@ -818,6 +826,14 @@
             "type_and_players": "WP szybkie"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_387&n=",
+            "date": "20.01.2023",
+            "name": "Mistrzostwa stycznia w KTS Kalisz - grupa OPEN (ur. 2009 i starsi)",
+            "city": "Kalisz",
+            "country": "Poland",
+            "type_and_players": "WP blitz"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7319&n=",
             "date": "22.01.2023",
             "name": "V Turniej GP Klubu Raszyn 2022/23",
@@ -868,12 +884,12 @@
       ],
       "chessManager": [
          {
-            "link": " https://www.chessmanager.com/pl/tournaments/4790002354487296",
-            "date": "17.01.2023",
-            "name": "ZŁOTOWSKA LIGA SZACHOWA - 2022/2023 - runda 18",
-            "city": "Złotów",
+            "link": " https://www.chessmanager.com/pl/tournaments/6160301201293312",
+            "date": "18.01.2023",
+            "name": "Pomysł GrandPrix #14.2",
+            "city": "Poznan",
             "country": "Polska",
-            "type_and_players": "Szybkie"
+            "type_and_players": "Błyskawiczne"
          },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/5931794646958080",
