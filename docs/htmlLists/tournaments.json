@@ -106,14 +106,6 @@
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_259&n=",
-            "date": "17.02.2023",
-            "name": "I MiędzynarodowyTurniej Szachowy o Wrocławską Podkowę \"CZARNEGO KONIA\" - Open B",
-            "city": "WROCŁAW",
-            "country": "Poland",
-            "type_and_players": "DS klasyczneFIDE"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6927&n=",
             "date": "18.02.2023",
             "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LUTY od lat 13",
@@ -394,28 +386,12 @@
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_258&n=",
-            "date": "17.02.2023",
-            "name": "I MiędzynarodowyTurniej Szachowy o Wrocławską Podkowę \"CZARNEGO KONIA\" - Open A",
-            "city": "WROCŁAW",
-            "country": "Poland",
-            "type_and_players": "DS klasyczneFIDE"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6926&n=",
             "date": "18.02.2023",
             "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LUTY do lat 12",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_291&n=",
-            "date": "19.02.2023",
-            "name": "I Międzynarodowy Turniej Szachowy o Wrocławską Podkowę \"CZARNEGO KONIA\" - Open C",
-            "city": "WROCŁAW",
-            "country": "Poland",
-            "type_and_players": "DS klasyczneFIDE"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6941&n=",
@@ -624,9 +600,17 @@
    "LB": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7366&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_421&n=",
+            "date": "20.01.2023",
+            "name": "XII  Grand Prix SP-1 Zielona Góra.(14)",
+            "city": "Zielona",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7367&n=",
             "date": "21.01.2023",
-            "name": "Standard A - Weekend przy Szachownicy - zgłoszony do FIDE",
+            "name": "Standard B - Weekend przy Szachownicy",
             "city": "Gorzów",
             "country": "Poland",
             "type_and_players": "LB klasyczne"
@@ -634,7 +618,7 @@
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_141&n=",
             "date": "21.01.2023",
-            "name": "Weekend z szachami ",
+            "name": "Weekend z szachami  - Gr.A",
             "city": "Strzelce",
             "country": "Poland",
             "type_and_players": "LB szybkie"
@@ -680,12 +664,20 @@
             "type_and_players": "LB klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7367&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7366&n=",
             "date": "21.01.2023",
-            "name": "Standard B - Weekend przy Szachownicy",
+            "name": "Standard A - Weekend przy Szachownicy - zgłoszony do FIDE",
             "city": "Gorzów",
             "country": "Poland",
             "type_and_players": "LB klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_417&n=",
+            "date": "21.01.2023",
+            "name": "Szachy dla dzieci - Grupa B",
+            "city": "Strzelce",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6564&n=",
@@ -694,6 +686,14 @@
             "city": "Strzelce",
             "country": "Poland",
             "type_and_players": "LB inne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_419&n=",
+            "date": "31.01.2023",
+            "name": "Turniej Szachowy o Puchar Zimy",
+            "city": "Lubsko",
+            "country": "Poland",
+            "type_and_players": "LB klasyczne"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_354&n=",
@@ -883,14 +883,6 @@
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/6160301201293312",
-            "date": "18.01.2023",
-            "name": "Pomysł GrandPrix #14.2",
-            "city": "Poznan",
-            "country": "Polska",
-            "type_and_players": "Błyskawiczne"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/5931794646958080",
             "date": "20.01.2023",
