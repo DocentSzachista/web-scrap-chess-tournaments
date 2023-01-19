@@ -18,18 +18,34 @@
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_7&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_431&n=",
             "date": "21.01.2023",
-            "name": "Turniej Klockowy 2023",
+            "name": "Turniej Klockowy 2023- OPEN A",
             "city": "Jelenia",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_316&n=",
-            "date": "28.01.2023",
-            "name": "MEMORIAŁ JERZEGO KUBIENIA",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_7&n=",
+            "date": "21.01.2023",
+            "name": "Turniej Klockowy 2023- U8",
+            "city": "Jelenia",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_38&n=",
+            "date": "27.01.2023",
+            "name": "GRAND PRIX POLONII WROCŁAW",
             "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_334&n=",
+            "date": "29.01.2023",
+            "name": "Turniej Szachowy WOSP 2023",
+            "city": "Polkowice",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
@@ -106,17 +122,9 @@
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6927&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6926&n=",
             "date": "18.02.2023",
-            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LUTY od lat 13",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_41&n=",
-            "date": "24.02.2023",
-            "name": "GRAND PRIX POLONII WROCŁAW",
+            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LUTY do lat 12",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
@@ -306,18 +314,26 @@
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_38&n=",
-            "date": "27.01.2023",
-            "name": "GRAND PRIX POLONII WROCŁAW",
-            "city": "Wrocław",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_432&n=",
+            "date": "21.01.2023",
+            "name": "Turniej Klockowy 2023- OPEN B",
+            "city": "Jelenia",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_334&n=",
-            "date": "29.01.2023",
-            "name": "Turniej Szachowy WOSP 2023",
-            "city": "Polkowice",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_434&n=",
+            "date": "21.01.2023",
+            "name": "Turniej Klockowy 2023- U9",
+            "city": "Jelenia",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_316&n=",
+            "date": "28.01.2023",
+            "name": "MEMORIAŁ JERZEGO KUBIENIA",
+            "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
@@ -386,9 +402,17 @@
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6926&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_41&n=",
+            "date": "17.02.2023",
+            "name": "GRAND PRIX POLONII WROCŁAW",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6927&n=",
             "date": "18.02.2023",
-            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LUTY do lat 12",
+            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LUTY od lat 13",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
@@ -892,6 +916,14 @@
             "type_and_players": "Szybkie"
          },
          {
+            "link": " https://www.chessmanager.com/pl/tournaments/4801558567976960",
+            "date": "20.01.2023",
+            "name": "Wągrowiecki Turniej Klasyfikacyjny 23-3 (na V lub IV kat.)",
+            "city": "Wągrowiec",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
             "link": " https://www.chessmanager.com/pl/tournaments/6313007798812672",
             "date": "20.01.2023",
             "name": "Wągrowiecki Turniej Klasyfikacyjny  23-1",
@@ -914,6 +946,14 @@
             "city": "Budzyń",
             "country": "Polska",
             "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6536232348680192",
+            "date": "24.01.2023",
+            "name": "Złotowska Liga Szachowa - 2022/2023 - runda 19",
+            "city": "Złotów",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
          },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6066455402512384",
