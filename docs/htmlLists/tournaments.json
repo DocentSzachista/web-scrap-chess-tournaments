@@ -2,50 +2,42 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_37&n=",
-            "date": "20.01.2023",
-            "name": "GRAND PRIX POLONII WROCŁAW",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_196&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_195&n=",
             "date": "21.01.2023",
-            "name": "Grand Prix Śródmieścia 2022/23 - II turniej - grupa B",
+            "name": "Grand Prix Śródmieścia 2022/23 - II turniej - grupa A",
             "city": "Wroclaw",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_431&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_159&n=",
             "date": "21.01.2023",
-            "name": "Turniej Klockowy 2023- OPEN A",
-            "city": "Jelenia",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_7&n=",
-            "date": "21.01.2023",
-            "name": "Turniej Klockowy 2023- U8",
-            "city": "Jelenia",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_38&n=",
-            "date": "27.01.2023",
-            "name": "GRAND PRIX POLONII WROCŁAW",
+            "name": "Kurs Sędziowski DZSzach",
             "city": "Wrocław",
             "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_432&n=",
+            "date": "21.01.2023",
+            "name": "Turniej Klockowy 2023- OPEN B",
+            "city": "Jelenia",
+            "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_334&n=",
-            "date": "29.01.2023",
-            "name": "Turniej Szachowy WOSP 2023",
-            "city": "Polkowice",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_434&n=",
+            "date": "21.01.2023",
+            "name": "Turniej Klockowy 2023- U9",
+            "city": "Jelenia",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_316&n=",
+            "date": "28.01.2023",
+            "name": "MEMORIAŁ JERZEGO KUBIENIA",
+            "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
@@ -298,42 +290,42 @@
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_195&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_196&n=",
             "date": "21.01.2023",
-            "name": "Grand Prix Śródmieścia 2022/23 - II turniej - grupa A",
+            "name": "Grand Prix Śródmieścia 2022/23 - II turniej - grupa B",
             "city": "Wroclaw",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_159&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_431&n=",
             "date": "21.01.2023",
-            "name": "Kurs Sędziowski DZSzach",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_432&n=",
-            "date": "21.01.2023",
-            "name": "Turniej Klockowy 2023- OPEN B",
+            "name": "Turniej Klockowy 2023- OPEN A",
             "city": "Jelenia",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_434&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_7&n=",
             "date": "21.01.2023",
-            "name": "Turniej Klockowy 2023- U9",
+            "name": "Turniej Klockowy 2023- U8",
             "city": "Jelenia",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_316&n=",
-            "date": "28.01.2023",
-            "name": "MEMORIAŁ JERZEGO KUBIENIA",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_38&n=",
+            "date": "27.01.2023",
+            "name": "GRAND PRIX POLONII WROCŁAW",
             "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_334&n=",
+            "date": "29.01.2023",
+            "name": "Turniej Szachowy WOSP 2023",
+            "city": "Polkowice",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
@@ -612,6 +604,30 @@
             "type_and_players": ",, Dolnośląski Mistrz Miesiąca\" 2023"
          },
          {
+            "link": " https://www.chessmanager.com/pl/tournaments/6024987988197376",
+            "date": "29.01.2023",
+            "name": "XIX International Solving Contest - ISC - Wroclaw - Kategoria III - zadania dla dzieci do lat 13",
+            "city": "Wroclaw",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5029475973595136",
+            "date": "29.01.2023",
+            "name": "XIX International Solving Contest - ISC - Wrocław - Kategoria I - zadania trudniejsze",
+            "city": "Wroclaw",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/4899088081354752",
+            "date": "29.01.2023",
+            "name": "XIX International Solving Contest - ISC - Wrocław - Kategoria II - zadania łatwiejsze",
+            "city": "Wroclaw",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
             "link": " https://www.chessmanager.com/pl/tournaments/5667532057870336",
             "date": "18.02.2023",
             "name": "C4 Blitz & Rapid - luty 2023",
@@ -624,36 +640,36 @@
    "LB": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_421&n=",
-            "date": "20.01.2023",
-            "name": "XII  Grand Prix SP-1 Zielona Góra.(14)",
-            "city": "Zielona",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7367&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7366&n=",
             "date": "21.01.2023",
-            "name": "Standard B - Weekend przy Szachownicy",
+            "name": "Standard A - Weekend przy Szachownicy - zgłoszony do FIDE",
             "city": "Gorzów",
             "country": "Poland",
             "type_and_players": "LB klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_141&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_417&n=",
             "date": "21.01.2023",
-            "name": "Weekend z szachami  - Gr.A",
+            "name": "Szachy dla dzieci - Grupa B",
             "city": "Strzelce",
             "country": "Poland",
             "type_and_players": "LB szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_145&n=",
-            "date": "29.01.2023",
-            "name": "Rodzinny Turniej Szachowy",
-            "city": "Świebodzin",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6564&n=",
+            "date": "22.01.2023",
+            "name": "Kurs sędziowski na klasy okręgowe",
+            "city": "Strzelce",
             "country": "Poland",
-            "type_and_players": "LB szybkie"
+            "type_and_players": "LB inne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_419&n=",
+            "date": "31.01.2023",
+            "name": "Turniej Szachowy o Puchar Zimy",
+            "city": "Lubsko",
+            "country": "Poland",
+            "type_and_players": "LB klasyczne"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7095&n=",
@@ -688,36 +704,28 @@
             "type_and_players": "LB klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7366&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7367&n=",
             "date": "21.01.2023",
-            "name": "Standard A - Weekend przy Szachownicy - zgłoszony do FIDE",
+            "name": "Standard B - Weekend przy Szachownicy",
             "city": "Gorzów",
             "country": "Poland",
             "type_and_players": "LB klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_417&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_141&n=",
             "date": "21.01.2023",
-            "name": "Szachy dla dzieci - Grupa B",
+            "name": "Weekend z szachami  - Gr.A",
             "city": "Strzelce",
             "country": "Poland",
             "type_and_players": "LB szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6564&n=",
-            "date": "22.01.2023",
-            "name": "Kurs sędziowski na klasy okręgowe",
-            "city": "Strzelce",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_145&n=",
+            "date": "29.01.2023",
+            "name": "Rodzinny Turniej Szachowy",
+            "city": "Świebodzin",
             "country": "Poland",
-            "type_and_players": "LB inne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_419&n=",
-            "date": "31.01.2023",
-            "name": "Turniej Szachowy o Puchar Zimy",
-            "city": "Lubsko",
-            "country": "Poland",
-            "type_and_players": "LB klasyczne"
+            "type_and_players": "LB szybkie"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_354&n=",
@@ -778,14 +786,6 @@
    "WP": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_386&n=",
-            "date": "20.01.2023",
-            "name": "Mistrzostwa KTS Kalisz 5 turniej grupa do lat 12 (do rankingu 1400)",
-            "city": "Kalisz",
-            "country": "Poland",
-            "type_and_players": "WP blitz"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7329&n=",
             "date": "21.01.2023",
             "name": "Rodzinny Szachowy Turniej Deblowy - z okazji Dnia Babci i Dziadka",
@@ -836,7 +836,7 @@
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_197&n=",
             "date": "25.02.2023",
-            "name": "VII Otwarte Indywidualne i Drużynowe  Mistrzostwa Poznania Niepublicznych Szkół Podstawowych klasy 0-3",
+            "name": "VII Otwarte Indywidualne i Drużynowe  Mistrzostwa Poznania Niepublicznych Szkół Podstawowych klasy 0-3 - będzie zmiana terminu",
             "city": "Poznań",
             "country": "Poland",
             "type_and_players": "WP szybkie"
@@ -848,14 +848,6 @@
             "city": "Wapno",
             "country": "Poland",
             "type_and_players": "WP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_387&n=",
-            "date": "20.01.2023",
-            "name": "Mistrzostwa stycznia w KTS Kalisz - grupa OPEN (ur. 2009 i starsi)",
-            "city": "Kalisz",
-            "country": "Poland",
-            "type_and_players": "WP blitz"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7319&n=",
@@ -892,7 +884,7 @@
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_355&n=",
             "date": "25.02.2023",
-            "name": "VII Otwarte Indywidualne i Druż.ynowe Mistrzostwa  Poznania Niepublicznych Szkół Podstawowych  klasy 4-8",
+            "name": "VII Otwarte Indywidualne i Druż.ynowe Mistrzostwa  Poznania Niepublicznych Szkół Podstawowych  klasy 4-8 - termin będzie zmieniony",
             "city": "Poznań",
             "country": "Poland",
             "type_and_players": "WP szybkie"
@@ -907,30 +899,6 @@
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/5931794646958080",
-            "date": "20.01.2023",
-            "name": "Szkolna Liga Szachowa - runda 13 w SP nr 1 w Złotowie - 2022/2023",
-            "city": "Złotów",
-            "country": "Polska",
-            "type_and_players": "Szybkie"
-         },
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/4801558567976960",
-            "date": "20.01.2023",
-            "name": "Wągrowiecki Turniej Klasyfikacyjny 23-3 (na V lub IV kat.)",
-            "city": "Wągrowiec",
-            "country": "Polska",
-            "type_and_players": "Klasyczne"
-         },
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/6313007798812672",
-            "date": "20.01.2023",
-            "name": "Wągrowiecki Turniej Klasyfikacyjny  23-1",
-            "city": "Wagrowiec",
-            "country": "Polska",
-            "type_and_players": "Klasyczne"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/5980159040552960",
             "date": "21.01.2023",
