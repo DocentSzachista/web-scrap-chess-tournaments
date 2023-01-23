@@ -10,6 +10,14 @@
             "type_and_players": "DS szybkie"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_495&n=",
+            "date": "28.01.2023",
+            "name": "JELENIOGÓRSKI SZACH-MAT dla WOŚP- OPEN",
+            "city": "Jelenia",
+            "country": "Poland",
+            "type_and_players": "DS blitz"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_478&n=",
             "date": "28.01.2023",
             "name": "Zimowy Wyścig po Kategorie - grupa A (od 1600 PZSzach)",
@@ -122,20 +130,28 @@
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6926&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_498&n=",
             "date": "18.02.2023",
-            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LUTY do lat 12",
+            "name": "C4 Blitz & Rapid - luty 2023",
+            "city": "Jelenia",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6927&n=",
+            "date": "18.02.2023",
+            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LUTY od lat 13",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_241&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6941&n=",
             "date": "24.02.2023",
-            "name": "Turniej Szachowy Pierwszy Skok (w ramach Festiwalu im. S. Tarrascha)",
+            "name": "TURNIEJ FERYJNY POLONII WROCŁAW",
             "city": "Wrocław",
             "country": "Poland",
-            "type_and_players": "DS szybkie"
+            "type_and_players": "DS klasyczne"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_42&n=",
@@ -298,6 +314,14 @@
             "type_and_players": "DS klasyczne"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_497&n=",
+            "date": "28.01.2023",
+            "name": "JELENIOGÓRSKI SZACH-MAT dla WOŚP - U8",
+            "city": "Jelenia",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_316&n=",
             "date": "28.01.2023",
             "name": "MEMORIAŁ JERZEGO KUBIENIA",
@@ -410,20 +434,20 @@
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6927&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6926&n=",
             "date": "18.02.2023",
-            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LUTY od lat 13",
+            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LUTY do lat 12",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6941&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_241&n=",
             "date": "24.02.2023",
-            "name": "TURNIEJ FERYJNY POLONII WROCŁAW",
+            "name": "Turniej Szachowy Pierwszy Skok (w ramach Festiwalu im. S. Tarrascha)",
             "city": "Wrocław",
             "country": "Poland",
-            "type_and_players": "DS klasyczne"
+            "type_and_players": "DS szybkie"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_43&n=",
@@ -614,7 +638,7 @@
          {
             "link": " https://www.chessmanager.com/pl/tournaments/5667532057870336",
             "date": "18.02.2023",
-            "name": "C4 Blitz & Rapid - luty 2023",
+            "name": "CZARNOW-SKI Blitz & Rapid - luty 2023",
             "city": "Jelenia Góra",
             "country": "Polska",
             "type_and_players": "Szybkie"
@@ -762,10 +786,18 @@
             "type_and_players": "WP klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_346&n=",
-            "date": "18.02.2023",
-            "name": "Turniej 5 - GRAND PRIX - gr. A i B - II Dziecięcy cykl Szachowy",
-            "city": "Swarzędz",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_500&n=",
+            "date": "12.02.2023",
+            "name": "VI Turniej GP 2022/23 Klubu Raszyn",
+            "city": "Poznań",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_70&n=",
+            "date": "26.02.2023",
+            "name": "X TURNIEJ SZACHY W SZKOLE DK ORLE GNIAZDO POZNAŃ",
+            "city": "POZNAŃ",
             "country": "Poland",
             "type_and_players": "WP szybkie"
          },
@@ -810,10 +842,10 @@
             "type_and_players": "WP klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_70&n=",
-            "date": "26.02.2023",
-            "name": "X TURNIEJ SZACHY W SZKOLE DK ORLE GNIAZDO POZNAŃ",
-            "city": "POZNAŃ",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_346&n=",
+            "date": "18.02.2023",
+            "name": "Turniej 5 - GRAND PRIX - gr. A i B - II Dziecięcy cykl Szachowy",
+            "city": "Swarzędz",
             "country": "Poland",
             "type_and_players": "WP szybkie"
          },
@@ -822,6 +854,14 @@
             "date": "25.03.2023",
             "name": "VII Otwarte Indywidualne i Drużynowe  Mistrzostwa Poznania Niepublicznych Szkół Podstawowych klasy 0-3 ",
             "city": "Poznań",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_513&n=",
+            "date": "14.05.2023",
+            "name": "Rodzinny Szachowy Turniej Deblowy z okazji \"Międzynarodowego Dnia Rodzin\"",
+            "city": "Wiry",
             "country": "Poland",
             "type_and_players": "WP szybkie"
          }
