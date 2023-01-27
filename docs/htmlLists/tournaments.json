@@ -2,44 +2,36 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_38&n=",
-            "date": "27.01.2023",
-            "name": "GRAND PRIX POLONII WROCŁAW",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_497&n=",
+            "date": "28.01.2023",
+            "name": "JELENIOGÓRSKI SZACH-MAT dla WOŚP - U8",
+            "city": "Jelenia",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_316&n=",
+            "date": "28.01.2023",
+            "name": "MEMORIAŁ JERZEGO KUBIENIA",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_495&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_479&n=",
             "date": "28.01.2023",
-            "name": "JELENIOGÓRSKI SZACH-MAT dla WOŚP- OPEN",
-            "city": "Jelenia",
-            "country": "Poland",
-            "type_and_players": "DS blitz"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_478&n=",
-            "date": "28.01.2023",
-            "name": "Zimowy Wyścig po Kategorie - grupa A (od 1600 PZSzach)",
+            "name": "Zimowy Wyścig po Kategorie - grupa B (1400 PZSzach)",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_480&n=",
-            "date": "28.01.2023",
-            "name": "Zimowy Wyścig po Kategorie - grupa C (od 1250-1200 PZSzach)",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_452&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_334&n=",
             "date": "29.01.2023",
-            "name": "XIX Międzynarodowy Turniej w Rozwiązywaniu Zadań Szachowych",
-            "city": "Wrocław",
+            "name": "Turniej Szachowy WOSP 2023",
+            "city": "Polkowice",
             "country": "Poland",
-            "type_and_players": "DS inne"
+            "type_and_players": "DS szybkie"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_39&n=",
@@ -370,36 +362,36 @@
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_497&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_495&n=",
             "date": "28.01.2023",
-            "name": "JELENIOGÓRSKI SZACH-MAT dla WOŚP - U8",
+            "name": "JELENIOGÓRSKI SZACH-MAT dla WOŚP- OPEN",
             "city": "Jelenia",
             "country": "Poland",
-            "type_and_players": "DS szybkie"
+            "type_and_players": "DS blitz"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_316&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_478&n=",
             "date": "28.01.2023",
-            "name": "MEMORIAŁ JERZEGO KUBIENIA",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_479&n=",
-            "date": "28.01.2023",
-            "name": "Zimowy Wyścig po Kategorie - grupa B (1400 PZSzach)",
+            "name": "Zimowy Wyścig po Kategorie - grupa A (od 1600 PZSzach)",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_334&n=",
-            "date": "29.01.2023",
-            "name": "Turniej Szachowy WOSP 2023",
-            "city": "Polkowice",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_480&n=",
+            "date": "28.01.2023",
+            "name": "Zimowy Wyścig po Kategorie - grupa C (od 1250-1200 PZSzach)",
+            "city": "Wrocław",
             "country": "Poland",
-            "type_and_players": "DS szybkie"
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_452&n=",
+            "date": "29.01.2023",
+            "name": "XIX Międzynarodowy Turniej w Rozwiązywaniu Zadań Szachowych",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS inne"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_619&n=",
@@ -800,28 +792,20 @@
    "LB": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_421&n=",
-            "date": "27.01.2023",
-            "name": "XII  Grand Prix SP-1 Zielona Góra.(15)",
-            "city": "Zielona",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_145&n=",
+            "date": "29.01.2023",
+            "name": "Rodzinny Turniej Szachowy",
+            "city": "Świebodzin",
             "country": "Poland",
             "type_and_players": "LB szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_419&n=",
-            "date": "31.01.2023",
-            "name": "Turniej Szachowy o Puchar Zimy",
-            "city": "Lubsko",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_634&n=",
+            "date": "18.02.2023",
+            "name": "Rapid - grupa A w KSz STILON - zgłoszony do ELO",
+            "city": "Gorzów",
             "country": "Poland",
-            "type_and_players": "LB klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7095&n=",
-            "date": "19.02.2023",
-            "name": "XXII Zimowe Zgrupowanie Szkoleniowe ZIMA PSZCZEW 2023",
-            "city": "Pszczew",
-            "country": "Poland",
-            "type_and_players": "LB klasyczne"
+            "type_and_players": "LB szybkie"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_176&n=",
@@ -848,18 +832,26 @@
             "type_and_players": "LB klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_145&n=",
-            "date": "29.01.2023",
-            "name": "Rodzinny Turniej Szachowy",
-            "city": "Świebodzin",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_419&n=",
+            "date": "31.01.2023",
+            "name": "Turniej Szachowy o Puchar Zimy",
+            "city": "Lubsko",
             "country": "Poland",
-            "type_and_players": "LB szybkie"
+            "type_and_players": "LB klasyczne"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_354&n=",
             "date": "12.02.2023",
             "name": "Turniej Szachów Szybkich w Rokitnie o Puchar Wójta Przytocznej",
             "city": "Rokitno",
+            "country": "Poland",
+            "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_635&n=",
+            "date": "18.02.2023",
+            "name": "Rapid - grupa B - 18.02.2023",
+            "city": "Gorzów",
             "country": "Poland",
             "type_and_players": "LB szybkie"
          },
@@ -876,14 +868,6 @@
    },
    "OP": {
       "chessarbiter": [
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_115&n=",
-            "date": "27.01.2023",
-            "name": "Szybki Piątek w Strzelcu - Styczeń 2023 (FIDE)",
-            "city": "Strzelce",
-            "country": "Poland",
-            "type_and_players": "OP szybkie"
-         },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7446&n=",
             "date": "25.02.2023",
@@ -921,14 +905,6 @@
    },
    "WP": {
       "chessarbiter": [
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_4989&n=",
-            "date": "27.01.2023",
-            "name": "Szachowy Grand Prix o Puchar APATOR POWOGAZ -Styczeń",
-            "city": "Kórnik",
-            "country": "Poland",
-            "type_and_players": "WP blitz"
-         },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7260&n=",
             "date": "01.02.2023",
