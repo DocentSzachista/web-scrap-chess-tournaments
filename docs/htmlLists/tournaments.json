@@ -2,30 +2,6 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_497&n=",
-            "date": "28.01.2023",
-            "name": "JELENIOGÓRSKI SZACH-MAT dla WOŚP - U8",
-            "city": "Jelenia",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_316&n=",
-            "date": "28.01.2023",
-            "name": "MEMORIAŁ JERZEGO KUBIENIA",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_479&n=",
-            "date": "28.01.2023",
-            "name": "Zimowy Wyścig po Kategorie - grupa B (1400 PZSzach)",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_334&n=",
             "date": "29.01.2023",
             "name": "Turniej Szachowy WOSP 2023",
@@ -362,30 +338,6 @@
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_495&n=",
-            "date": "28.01.2023",
-            "name": "JELENIOGÓRSKI SZACH-MAT dla WOŚP- OPEN",
-            "city": "Jelenia",
-            "country": "Poland",
-            "type_and_players": "DS blitz"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_478&n=",
-            "date": "28.01.2023",
-            "name": "Zimowy Wyścig po Kategorie - grupa A (od 1600 PZSzach)",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_480&n=",
-            "date": "28.01.2023",
-            "name": "Zimowy Wyścig po Kategorie - grupa C (od 1250-1200 PZSzach)",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_452&n=",
             "date": "29.01.2023",
             "name": "XIX Międzynarodowy Turniej w Rozwiązywaniu Zadań Szachowych",
@@ -692,22 +644,6 @@
       ],
       "chessManager": [
          {
-            "link": " https://www.chessmanager.com/pl/tournaments/5186830128381952",
-            "date": "28.01.2023",
-            "name": "JELENIOGÓRSKI SZACH-MAT dla WOŚP - U8",
-            "city": "Jelenia Góra",
-            "country": "Polska",
-            "type_and_players": "Błyskawiczne"
-         },
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/5164090113654784",
-            "date": "28.01.2023",
-            "name": "JELENIOGÓRSKI SZACH-MAT dla WOŚP- OPEN",
-            "city": "Jelenia Góra",
-            "country": "Polska",
-            "type_and_players": "Błyskawiczne"
-         },
-         {
             "link": " https://www.chessmanager.com/pl/tournaments/6024987988197376",
             "date": "29.01.2023",
             "name": "XIX International Solving Contest - ISC - Wroclaw - Kategoria III - zadania dla dzieci do lat 13",
@@ -854,6 +790,14 @@
             "city": "Gorzów",
             "country": "Poland",
             "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_646&n=",
+            "date": "20.05.2023",
+            "name": "Szkolenie szachowe i turnieje klasyfikacyjne",
+            "city": "PSZCZEW",
+            "country": "Poland",
+            "type_and_players": "LB klasyczne"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_179&n=",
