@@ -2,14 +2,6 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_334&n=",
-            "date": "29.01.2023",
-            "name": "Turniej Szachowy WOSP 2023",
-            "city": "Polkowice",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_39&n=",
             "date": "03.02.2023",
             "name": "GRAND PRIX POLONII WROCŁAW",
@@ -144,6 +136,14 @@
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_668&n=",
+            "date": "18.02.2023",
+            "name": "Wałbrzyskie Zimowe Turnieje Klasyfikacyjne - grupa B (1400 PZSZACH)",
+            "city": "Wałbrzych",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6941&n=",
@@ -338,14 +338,6 @@
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_452&n=",
-            "date": "29.01.2023",
-            "name": "XIX Międzynarodowy Turniej w Rozwiązywaniu Zadań Szachowych",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS inne"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_619&n=",
             "date": "04.02.2023",
             "name": "31. Otwarte Mistrzostwa Wroclawia - Grupa A (do lat 14)",
@@ -472,6 +464,14 @@
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_667&n=",
+            "date": "18.02.2023",
+            "name": "Wałbrzyskie Zimowe Turnieje Klasyfikacyjne - Grupa A (od 1600 PZSZACH)",
+            "city": "Wałbrzych",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_241&n=",
@@ -644,30 +644,6 @@
       ],
       "chessManager": [
          {
-            "link": " https://www.chessmanager.com/pl/tournaments/6024987988197376",
-            "date": "29.01.2023",
-            "name": "XIX International Solving Contest - ISC - Wroclaw - Kategoria III - zadania dla dzieci do lat 13",
-            "city": "Wroclaw",
-            "country": "Polska",
-            "type_and_players": "Klasyczne"
-         },
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/5029475973595136",
-            "date": "29.01.2023",
-            "name": "XIX International Solving Contest - ISC - Wrocław - Kategoria I - zadania trudniejsze",
-            "city": "Wroclaw",
-            "country": "Polska",
-            "type_and_players": "Klasyczne"
-         },
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/4899088081354752",
-            "date": "29.01.2023",
-            "name": "XIX International Solving Contest - ISC - Wrocław - Kategoria II - zadania łatwiejsze",
-            "city": "Wroclaw",
-            "country": "Polska",
-            "type_and_players": "Klasyczne"
-         },
-         {
             "link": " https://www.chessmanager.com/pl/tournaments/5162603987861504",
             "date": "08.02.2023",
             "name": "II Szkolny Turniej Szachowy",
@@ -728,12 +704,12 @@
    "LB": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_145&n=",
-            "date": "29.01.2023",
-            "name": "Rodzinny Turniej Szachowy",
-            "city": "Świebodzin",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_419&n=",
+            "date": "31.01.2023",
+            "name": "Turniej Szachowy o Puchar Zimy",
+            "city": "Lubsko",
             "country": "Poland",
-            "type_and_players": "LB szybkie"
+            "type_and_players": "LB klasyczne"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_634&n=",
@@ -764,14 +740,6 @@
             "date": "12.08.2023",
             "name": "Turniej Szachów Standardowych Puchar Lisek.pl 12-15.08.2023",
             "city": "Skwierzyna",
-            "country": "Poland",
-            "type_and_players": "LB klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_419&n=",
-            "date": "31.01.2023",
-            "name": "Turniej Szachowy o Puchar Zimy",
-            "city": "Lubsko",
             "country": "Poland",
             "type_and_players": "LB klasyczne"
          },
@@ -955,14 +923,6 @@
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/6066455402512384",
-            "date": "29.01.2023",
-            "name": "Symultana z Mistrzem - szachy pod wodą WOŚP",
-            "city": "Tarnowo Podgórne",
-            "country": "Polska",
-            "type_and_players": "Klasyczne"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6598734348550144",
             "date": "11.02.2023",
