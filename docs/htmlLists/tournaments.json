@@ -330,6 +330,38 @@
             "type_and_players": "DS szybkie"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_695&n=",
+            "date": "19.08.2023",
+            "name": "59. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN A",
+            "city": "Polanica-Zdrój",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_697&n=",
+            "date": "19.08.2023",
+            "name": "59. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN C - Seniorzy",
+            "city": "Polanica-Zdrój",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_699&n=",
+            "date": "19.08.2023",
+            "name": "59. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN E",
+            "city": "Polanica-Zdrój",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_701&n=",
+            "date": "19.08.2023",
+            "name": "59. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN G",
+            "city": "Polanica-Zdrój",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7327&n=",
             "date": "28.11.2023",
             "name": "Mistrzostwa Gminy Osiecznica i 10 Brygady Kawalerii Pancernej_szachy klasyczne",
@@ -640,6 +672,30 @@
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_696&n=",
+            "date": "19.08.2023",
+            "name": "59. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN B",
+            "city": "Polanica-Zdrój",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_698&n=",
+            "date": "19.08.2023",
+            "name": "59. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN D",
+            "city": "Polanica-Zdrój",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_700&n=",
+            "date": "19.08.2023",
+            "name": "59. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN F",
+            "city": "Polanica-Zdrój",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
          }
       ],
       "chessManager": [
@@ -698,6 +754,54 @@
             "city": "Jelenia Góra",
             "country": "Polska",
             "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/4857740229869568",
+            "date": "19.08.2023",
+            "name": "59. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN A",
+            "city": "Polanica-Zdrój",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/4844350065344512",
+            "date": "19.08.2023",
+            "name": "59. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN B",
+            "city": "Polanica-Zdrój",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5950508893208576",
+            "date": "19.08.2023",
+            "name": "59. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN C - SENIORZY",
+            "city": "Polanica-Zdrój",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/4808938932404224",
+            "date": "19.08.2023",
+            "name": "59. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN D",
+            "city": "Polanica-Zdrój",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/4789391932260352",
+            "date": "19.08.2023",
+            "name": "59. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN E",
+            "city": "Polanica-Zdrój",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5915291839102976",
+            "date": "19.08.2023",
+            "name": "59. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN F",
+            "city": "Polanica-Zdrój",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
          }
       ]
    },
@@ -712,9 +816,17 @@
             "type_and_players": "LB klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_634&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_691&n=",
+            "date": "17.02.2023",
+            "name": "Otwarte Mistrzostwa  SP-1 - klasyfikacyjny   MAGNUSIK 2023(1)",
+            "city": "Zielona",
+            "country": "Poland",
+            "type_and_players": "LB klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_635&n=",
             "date": "18.02.2023",
-            "name": "Rapid - grupa A w KSz STILON - zgłoszony do ELO",
+            "name": "Rapid - grupa B - 18.02.2023",
             "city": "Gorzów",
             "country": "Poland",
             "type_and_players": "LB szybkie"
@@ -752,9 +864,9 @@
             "type_and_players": "LB szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_635&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_634&n=",
             "date": "18.02.2023",
-            "name": "Rapid - grupa B - 18.02.2023",
+            "name": "Rapid - grupa A w KSz STILON - zgłoszony do ELO",
             "city": "Gorzów",
             "country": "Poland",
             "type_and_players": "LB szybkie"
@@ -834,18 +946,34 @@
             "type_and_players": "WP blitz"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_357&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_684&n=",
             "date": "11.02.2023",
-            "name": "Zimowy Turniej Szachowy Juniorzy na kategorie",
+            "name": "Zimowy Turniej Klasyfikacyjny  - GRUPA A ",
+            "city": "Włoszakowice",
+            "country": "Poland",
+            "type_and_players": "WP klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_686&n=",
+            "date": "11.02.2023",
+            "name": "Zimowy Turniej Klasyfikacyjny  - GRUPA C1",
+            "city": "Włoszakowice",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_356&n=",
+            "date": "11.02.2023",
+            "name": "Zimowy Turniej Szachowy OPEN FIDE I 400zl II 300zl III 200z",
             "city": "Przeźmierowo",
             "country": "Poland",
             "type_and_players": "WP klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_500&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_687&n=",
             "date": "12.02.2023",
-            "name": "VI Turniej GP 2022/23 Klubu Raszyn",
-            "city": "Poznań",
+            "name": "Zimowy Turniej Klasyfikacyjny C2",
+            "city": "Włoszakowice",
             "country": "Poland",
             "type_and_players": "WP szybkie"
          },
@@ -890,12 +1018,28 @@
             "type_and_players": "WP szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_356&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_685&n=",
             "date": "11.02.2023",
-            "name": "Zimowy Turniej Szachowy OPEN FIDE I 400zl II 300zl III 200z",
+            "name": "Zimowy Turniej Klasyfikacyjny  - GRUPA B",
+            "city": "Włoszakowice",
+            "country": "Poland",
+            "type_and_players": "WP klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_357&n=",
+            "date": "11.02.2023",
+            "name": "Zimowy Turniej Szachowy Juniorzy na kategorie",
             "city": "Przeźmierowo",
             "country": "Poland",
             "type_and_players": "WP klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_500&n=",
+            "date": "12.02.2023",
+            "name": "VI Turniej GP 2022/23 Klubu Raszyn",
+            "city": "Poznań",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_346&n=",
