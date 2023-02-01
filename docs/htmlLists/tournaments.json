@@ -994,14 +994,6 @@
    "WP": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7260&n=",
-            "date": "01.02.2023",
-            "name": "V Ogólnopolski Turniej Szachowy o Mistrzostwo Gminy Kościelec 2023 - grupa A",
-            "city": "Kościelec",
-            "country": "Poland",
-            "type_and_players": "WP klasyczne"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7263&n=",
             "date": "03.02.2023",
             "name": "V OGÓLNOPOLSKI TURNIEJ SZACHOWY O MISTRZOSWO GMINY KOŚCIELEC 2023 - BLITZ",
@@ -1066,14 +1058,6 @@
             "type_and_players": "WP szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7261&n=",
-            "date": "01.02.2023",
-            "name": "V OGÓLNOPOLSKI TURNIEJ SZACHOWY O MISTRZOSTWO GMINY KOŚCIELEC 2023 - GRUPA B",
-            "city": "Kościelec",
-            "country": "Poland",
-            "type_and_players": "WP klasyczne"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7262&n=",
             "date": "04.02.2023",
             "name": "V OGÓLNOPOLSKI TURNIEJ SZACHOWY O MISTRZOSWO GMINY KOŚCIELEC 2023 - GRUPA C",
@@ -1131,14 +1115,6 @@
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/5101432379277312",
-            "date": "01.02.2023",
-            "name": "Pomysł GrandPrix #14.4",
-            "city": "Poznan",
-            "country": "Polska",
-            "type_and_players": "Błyskawiczne"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6598734348550144",
             "date": "11.02.2023",
