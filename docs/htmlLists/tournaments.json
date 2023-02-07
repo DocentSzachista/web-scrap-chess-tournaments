@@ -186,6 +186,22 @@
             "type_and_players": "DS szybkie"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_927&n=",
+            "date": "01.04.2023",
+            "name": "Otwarte Mistrzostwa Żarowa w szachach - Gr. A OPEN (do FIDE)",
+            "city": "Żarów",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_929&n=",
+            "date": "01.04.2023",
+            "name": "Otwarte Mistrzostwa Żarowa w szachach - Gr. C do lat 11",
+            "city": "Żarów",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_47&n=",
             "date": "07.04.2023",
             "name": "GRAND PRIX POLONII WROCŁAW",
@@ -490,6 +506,22 @@
             "type_and_players": "DS szybkie"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_928&n=",
+            "date": "01.04.2023",
+            "name": "Otwarte Mistrzostwa Żarowa w szachach - Gr. B do lat 16  (do FIDE)",
+            "city": "Żarów",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_930&n=",
+            "date": "01.04.2023",
+            "name": "Otwarte Mistrzostwa Żarowa w szachach - Gr. D do lat 9",
+            "city": "Żarów",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_48&n=",
             "date": "14.04.2023",
             "name": "GRAND PRIX POLONII WROCŁAW",
@@ -608,6 +640,14 @@
             "date": "08.02.2023",
             "name": "II Szkolny Turniej Szachowy",
             "city": "Jerzmanki",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5487878671958016",
+            "date": "08.02.2023",
+            "name": "Turniej \"Gram w szachy\"",
+            "city": "Szczytna",
             "country": "Polska",
             "type_and_players": "Szybkie"
          },
@@ -864,33 +904,26 @@
             "type_and_players": "LB blitz"
          }
       ],
-      "chessManager": []
+      "chessManager": [
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/4851769084477440",
+            "date": "10.02.2023",
+            "name": "Hetman Wschowa 2023",
+            "city": "Wschowa",
+            "country": "Polska",
+            "type_and_players": "Klasyczne"
+         }
+      ]
    },
    "OP": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_787&n=",
-            "date": "24.02.2023",
-            "name": "Błyskawiczny Piątek w Strzelcu - Luty 2023 (FIDE)",
-            "city": "Strzelce",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_942&n=",
+            "date": "11.02.2023",
+            "name": "Turniej walentynkowy",
+            "city": "Nysa",
             "country": "Poland",
             "type_and_players": "OP blitz"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7447&n=",
-            "date": "25.02.2023",
-            "name": "II Puchar Ziemi Strzeleckiej w Szachach - Open B (PZSzach 1400-1600)",
-            "city": "Strzelce",
-            "country": "Poland",
-            "type_and_players": "OP klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_598&n=",
-            "date": "07.05.2023",
-            "name": "II MEMORIAŁ SZACHOWY STANISŁAWA ZMORY",
-            "city": "Namysłów",
-            "country": "Poland",
-            "type_and_players": "OP szybkie"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7446&n=",
@@ -907,6 +940,30 @@
             "city": "Strzelce",
             "country": "Poland",
             "type_and_players": "OP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_598&n=",
+            "date": "07.05.2023",
+            "name": "II MEMORIAŁ SZACHOWY STANISŁAWA ZMORY",
+            "city": "Namysłów",
+            "country": "Poland",
+            "type_and_players": "OP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_787&n=",
+            "date": "24.02.2023",
+            "name": "Błyskawiczny Piątek w Strzelcu - Luty 2023 (FIDE)",
+            "city": "Strzelce",
+            "country": "Poland",
+            "type_and_players": "OP blitz"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7447&n=",
+            "date": "25.02.2023",
+            "name": "II Puchar Ziemi Strzeleckiej w Szachach - Open B (PZSzach 1400-1600)",
+            "city": "Strzelce",
+            "country": "Poland",
+            "type_and_players": "OP klasyczne"
          }
       ],
       "chessManager": [
@@ -953,6 +1010,14 @@
             "city": "Włoszakowice",
             "country": "Poland",
             "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_925&n=",
+            "date": "17.02.2023",
+            "name": "Mistrzostwa lutego w KTS Kalisz grupa OPEN",
+            "city": "Kalisz",
+            "country": "Poland",
+            "type_and_players": "WP blitz"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_843&n=",
@@ -1019,6 +1084,14 @@
             "type_and_players": "WP szybkie"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_924&n=",
+            "date": "17.02.2023",
+            "name": "Mistrzostwa lutego w KTS Kalisz - do lat 12 (do rankingu 1400)",
+            "city": "Kalisz",
+            "country": "Poland",
+            "type_and_players": "WP blitz"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_346&n=",
             "date": "18.02.2023",
             "name": "Turniej 5 - GRAND PRIX - gr. A i B - II Dziecięcy cykl Szachowy",
@@ -1060,6 +1133,14 @@
          }
       ],
       "chessManager": [
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5387813617926144",
+            "date": "08.02.2023",
+            "name": "Pomysł GrandPrix #14.5",
+            "city": "Poznan",
+            "country": "Polska",
+            "type_and_players": "Błyskawiczne"
+         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6598734348550144",
             "date": "11.02.2023",
