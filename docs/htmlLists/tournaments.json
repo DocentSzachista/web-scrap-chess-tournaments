@@ -10,6 +10,14 @@
             "type_and_players": "DS szybkie"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_971&n=",
+            "date": "11.02.2023",
+            "name": "Grand Prix Śródmieścia 2022/23 - III turniej - grupa B",
+            "city": "Wroclaw",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_219&n=",
             "date": "11.02.2023",
             "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 10",
@@ -338,6 +346,14 @@
             "type_and_players": "DS klasyczne"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_970&n=",
+            "date": "11.02.2023",
+            "name": "Grand Prix Śródmieścia 2022/23 - III turniej - grupa A",
+            "city": "Wroclaw",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_475&n=",
             "date": "11.02.2023",
             "name": "I Mikama Saturday (do FIDE)",
@@ -635,22 +651,6 @@
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/5162603987861504",
-            "date": "08.02.2023",
-            "name": "II Szkolny Turniej Szachowy",
-            "city": "Jerzmanki",
-            "country": "Polska",
-            "type_and_players": "Szybkie"
-         },
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/5487878671958016",
-            "date": "08.02.2023",
-            "name": "Turniej \"Gram w szachy\"",
-            "city": "Szczytna",
-            "country": "Polska",
-            "type_and_players": "Szybkie"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/5667532057870336",
             "date": "18.02.2023",
@@ -964,6 +964,14 @@
             "city": "Strzelce",
             "country": "Poland",
             "type_and_players": "OP klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_955&n=",
+            "date": "28.02.2023",
+            "name": "Opolska Superliga Akademicka 2023",
+            "city": "Opole",
+            "country": "Poland",
+            "type_and_players": "OP szybkie"
          }
       ],
       "chessManager": [
@@ -1134,14 +1142,6 @@
       ],
       "chessManager": [
          {
-            "link": " https://www.chessmanager.com/pl/tournaments/5387813617926144",
-            "date": "08.02.2023",
-            "name": "Pomysł GrandPrix #14.5",
-            "city": "Poznan",
-            "country": "Polska",
-            "type_and_players": "Błyskawiczne"
-         },
-         {
             "link": " https://www.chessmanager.com/pl/tournaments/6598734348550144",
             "date": "11.02.2023",
             "name": "Zimowy Turniej Szachowy",
@@ -1158,6 +1158,14 @@
             "type_and_players": "Klasyczne"
          },
          {
+            "link": " https://www.chessmanager.com/pl/tournaments/5129838923874304",
+            "date": "16.02.2023",
+            "name": "Wrzesińskie Grand Prix (1 z 5)",
+            "city": "Września",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
             "link": " https://www.chessmanager.com/pl/tournaments/6498918704611328",
             "date": "19.02.2023",
             "name": "Turniej klasyfikacyjny na V i IV",
@@ -1166,10 +1174,34 @@
             "type_and_players": "Szybkie"
          },
          {
+            "link": " https://www.chessmanager.com/pl/tournaments/4656331563728896",
+            "date": "09.03.2023",
+            "name": "Wrzesińskie Grand Prix (2 z 5)",
+            "city": "Września",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
             "link": " https://www.chessmanager.com/pl/tournaments/4907152058613760",
             "date": "26.03.2023",
             "name": "II Sucholeski Turniej Szachowy Wiosna 2023 o puchar Wójta Gminy Suchy Las",
             "city": "Suchy Las",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5922157310771200",
+            "date": "30.03.2023",
+            "name": "Wrzesińskie Grand Prix (3 z 5)",
+            "city": "Września",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5111422607425536",
+            "date": "20.04.2023",
+            "name": "Wrzesińskie Grand Prix (4 z 5)",
+            "city": "Września",
             "country": "Polska",
             "type_and_players": "Szybkie"
          },
@@ -1186,6 +1218,14 @@
             "date": "03.05.2023",
             "name": "XXV PITS-Wapno-2023 B [niezgłoszony do FIDE]",
             "city": "Wapno",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5782231470571520",
+            "date": "11.05.2023",
+            "name": "Wrzesińskie Grand Prix (5 z 5)",
+            "city": "Września",
             "country": "Polska",
             "type_and_players": "Szybkie"
          }
