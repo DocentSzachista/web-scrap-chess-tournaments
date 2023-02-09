@@ -290,20 +290,20 @@
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_58&n=",
-            "date": "23.06.2023",
-            "name": "GRAND PRIX POLONII WROCŁAW",
-            "city": "Wrocław",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_990&n=",
+            "date": "18.06.2023",
+            "name": "Z SZACHAMI PRZEZ POLSKĘ - XIX TURNIEJ SZACHOWY SUDETY 2023",
+            "city": "Szklarska",
             "country": "Poland",
-            "type_and_players": "DS szybkie"
+            "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_59&n=",
-            "date": "30.06.2023",
-            "name": "GRAND PRIX POLONII WROCŁAW",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6940&n=",
+            "date": "24.06.2023",
+            "name": "Turniej DRUGI KROK (1250-1600 PZSzach) - CZERWIEC",
             "city": "Wrocław",
             "country": "Poland",
-            "type_and_players": "DS szybkie"
+            "type_and_players": "DS klasyczne"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_695&n=",
@@ -618,12 +618,20 @@
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6940&n=",
-            "date": "24.06.2023",
-            "name": "Turniej DRUGI KROK (1250-1600 PZSzach) - CZERWIEC",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_58&n=",
+            "date": "23.06.2023",
+            "name": "GRAND PRIX POLONII WROCŁAW",
             "city": "Wrocław",
             "country": "Poland",
-            "type_and_players": "DS klasyczne"
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_59&n=",
+            "date": "30.06.2023",
+            "name": "GRAND PRIX POLONII WROCŁAW",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_696&n=",
@@ -1170,6 +1178,22 @@
             "date": "19.02.2023",
             "name": "Turniej klasyfikacyjny na V i IV",
             "city": "Strykowo",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6343996751216640",
+            "date": "04.03.2023",
+            "name": "Otwarty Turniej Szachów Błyskawicznych",
+            "city": "Środa Wielkopolska",
+            "country": "Polska",
+            "type_and_players": "Błyskawiczne"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6016264976728064",
+            "date": "05.03.2023",
+            "name": "Otwarty Turniej Szachów Szybkich",
+            "city": "Środa Wielkopolska",
             "country": "Polska",
             "type_and_players": "Szybkie"
          },
