@@ -2,129 +2,121 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_40&n=",
-            "date": "10.02.2023",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_970&n=",
+            "date": "11.02.2023",
+            "name": "Grand Prix Śródmieścia 2022/23 - III turniej - grupa A",
+            "city": "Wroclaw",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_475&n=",
+            "date": "11.02.2023",
+            "name": "I Mikama Saturday (do FIDE)",
+            "city": "Świdnica",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_220&n=",
+            "date": "11.02.2023",
+            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 12",
+            "city": "Wroclaw",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_216&n=",
+            "date": "11.02.2023",
+            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 6",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_218&n=",
+            "date": "11.02.2023",
+            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 8",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7041&n=",
+            "date": "11.02.2023",
+            "name": "X TURNIEJ SZACHOWY O PUCHAR DZSZACH GRUPA DO 1600",
+            "city": "KUDOWA",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_454&n=",
+            "date": "12.02.2023",
+            "name": "XIII Szachowe Mistrzostwa Świdnicy - Grupa A",
+            "city": "Świdnica",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_456&n=",
+            "date": "12.02.2023",
+            "name": "XIII Szachowe Mistrzostwa Świdnicy - Grupa C",
+            "city": "Świdnica",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_41&n=",
+            "date": "17.02.2023",
             "name": "GRAND PRIX POLONII WROCŁAW",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_971&n=",
-            "date": "11.02.2023",
-            "name": "Grand Prix Śródmieścia 2022/23 - III turniej - grupa B",
-            "city": "Wroclaw",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_219&n=",
-            "date": "11.02.2023",
-            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 10",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_215&n=",
-            "date": "11.02.2023",
-            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 5",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_217&n=",
-            "date": "11.02.2023",
-            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 7",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7042&n=",
-            "date": "11.02.2023",
-            "name": "X TURNIEJ SZACHOWY O PUCHAR DZSZACH GRUPA DO 1250",
-            "city": "KUDOWA",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7040&n=",
-            "date": "11.02.2023",
-            "name": "X TURNIEJ SZACHOWY O PUCHAR DZSZACH GRUPA FIDE",
-            "city": "KUDOWA",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_455&n=",
-            "date": "12.02.2023",
-            "name": "XIII Szachowe Mistrzostwa Świdnicy - Grupa B",
-            "city": "Świdnica",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6447&n=",
-            "date": "13.02.2023",
-            "name": "Półkolonie Szachowe Akademii Młodego Szachisty - Zima 2023",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_498&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6926&n=",
             "date": "18.02.2023",
-            "name": "CZARNOW-SKI Blitz & Rapid - luty 2023",
-            "city": "Jelenia",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6927&n=",
-            "date": "18.02.2023",
-            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LUTY od lat 13",
+            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LUTY do lat 12",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_668&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_667&n=",
             "date": "18.02.2023",
-            "name": "Wałbrzyskie Zimowe Turnieje Klasyfikacyjne - grupa B (1400 PZSZACH)",
+            "name": "Wałbrzyskie Zimowe Turnieje Klasyfikacyjne - Grupa A (od 1600 PZSZACH)",
             "city": "Wałbrzych",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6941&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_241&n=",
             "date": "24.02.2023",
-            "name": "TURNIEJ FERYJNY POLONII WROCŁAW",
+            "name": "Turniej Szachowy Pierwszy Skok (w ramach Festiwalu im. S. Tarrascha)",
             "city": "Wrocław",
             "country": "Poland",
-            "type_and_players": "DS klasyczne"
+            "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_729&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_596&n=",
             "date": "25.02.2023",
-            "name": "Feryjne Mistrzostwa Polanicy-Zdrój Juniorów 2023",
-            "city": "Polanica-Zdrój",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_597&n=",
-            "date": "25.02.2023",
-            "name": "Turniej Feryjny 2023- OPEN B",
+            "name": "Turniej Feryjny 2023- OPEN A",
             "city": "Jelenia",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_600&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_599&n=",
             "date": "25.02.2023",
-            "name": "Turniej Feryjny 2023- OPEN D",
+            "name": "Turniej Feryjny 2023- OPEN C",
+            "city": "Jelenia",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_601&n=",
+            "date": "26.02.2023",
+            "name": "Turniej Feryjny 2023- OPEN E",
             "city": "Jelenia",
             "country": "Poland",
             "type_and_players": "DS szybkie"
@@ -146,41 +138,49 @@
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6936&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/tdr_869&n=",
             "date": "18.03.2023",
-            "name": "Turniej DRUGI KROK (1250-1600 PZSzach) - MARZEC",
+            "name": "Rodzinne Mistrzostwa Akademii Młodego Szachisty 2023",
             "city": "Wrocław",
             "country": "Poland",
-            "type_and_players": "DS klasyczne"
+            "type_and_players": " szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_302&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_301&n=",
             "date": "18.03.2023",
-            "name": "V Świdnicki Festiwal Szachowy Open B (II kat)",
+            "name": "V Świdnicki Festiwal Szachowy Open A (na I i k)",
             "city": "Burkatów/",
             "country": "Poland",
-            "type_and_players": "DS klasyczne"
+            "type_and_players": "DS klasyczneFIDE"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_306&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_303&n=",
             "date": "18.03.2023",
-            "name": "V Świdnicki Festiwal Szachowy Open D (III kat)",
+            "name": "V Świdnicki Festiwal Szachowy Open C (kobiety)",
             "city": "Burkatów",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_305&n=",
-            "date": "19.03.2023",
-            "name": "V Świdnicki Festiwal Szachowy Open F (V i IV kat)",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_304&n=",
+            "date": "18.03.2023",
+            "name": "V Świdnicki Festiwal Szachowy Open E (V i IV kat)",
             "city": "Burkatów",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6928&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_45&n=",
+            "date": "24.03.2023",
+            "name": "GRAND PRIX POLONII WROCŁAW",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6929&n=",
             "date": "25.03.2023",
-            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - MARZEC do lat 12",
+            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - MARZEC od lat 13",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
@@ -306,36 +306,60 @@
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_695&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1014&n=",
+            "date": "05.08.2023",
+            "name": "Memoriał Adolfa Anderssena - Międzynarodowy Festiwal Anderssena 2023",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1016&n=",
+            "date": "06.08.2023",
+            "name": "Wrocław Open B - Międzynarodowy Festiwal Anderssena 2023",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1020&n=",
+            "date": "10.08.2023",
+            "name": "Blitz Anderssena & Party na Przystani - Międzynarodowy Festiwal Anderssena 2023",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS blitz"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1019&n=",
+            "date": "12.08.2023",
+            "name": "GRUPA E \"PIERWSZY KROK\" - Międzynarodowy Festiwal Anderssena 2023",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_696&n=",
             "date": "19.08.2023",
-            "name": "59. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN A",
+            "name": "59. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN B",
             "city": "Polanica-Zdrój",
             "country": "Poland",
             "type_and_players": "DS klasyczneFIDE"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_697&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_698&n=",
             "date": "19.08.2023",
-            "name": "59. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN C - Seniorzy",
+            "name": "59. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN D",
             "city": "Polanica-Zdrój",
             "country": "Poland",
             "type_and_players": "DS klasyczneFIDE"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_699&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_700&n=",
             "date": "19.08.2023",
-            "name": "59. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN E",
+            "name": "59. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN F",
             "city": "Polanica-Zdrój",
             "country": "Poland",
             "type_and_players": "DS klasyczneFIDE"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_701&n=",
-            "date": "19.08.2023",
-            "name": "59. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN G",
-            "city": "Polanica-Zdrój",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7327&n=",
@@ -346,121 +370,121 @@
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_970&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_971&n=",
             "date": "11.02.2023",
-            "name": "Grand Prix Śródmieścia 2022/23 - III turniej - grupa A",
+            "name": "Grand Prix Śródmieścia 2022/23 - III turniej - grupa B",
             "city": "Wroclaw",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_475&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_219&n=",
             "date": "11.02.2023",
-            "name": "I Mikama Saturday (do FIDE)",
-            "city": "Świdnica",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_220&n=",
-            "date": "11.02.2023",
-            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 12",
-            "city": "Wroclaw",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_216&n=",
-            "date": "11.02.2023",
-            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 6",
+            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 10",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_218&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_215&n=",
             "date": "11.02.2023",
-            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 8",
+            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 5",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7041&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_217&n=",
             "date": "11.02.2023",
-            "name": "X TURNIEJ SZACHOWY O PUCHAR DZSZACH GRUPA DO 1600",
+            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 7",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7042&n=",
+            "date": "11.02.2023",
+            "name": "X TURNIEJ SZACHOWY O PUCHAR DZSZACH GRUPA DO 1250",
             "city": "KUDOWA",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_454&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7040&n=",
+            "date": "11.02.2023",
+            "name": "X TURNIEJ SZACHOWY O PUCHAR DZSZACH GRUPA FIDE",
+            "city": "KUDOWA",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_455&n=",
             "date": "12.02.2023",
-            "name": "XIII Szachowe Mistrzostwa Świdnicy - Grupa A",
+            "name": "XIII Szachowe Mistrzostwa Świdnicy - Grupa B",
             "city": "Świdnica",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_456&n=",
-            "date": "12.02.2023",
-            "name": "XIII Szachowe Mistrzostwa Świdnicy - Grupa C",
-            "city": "Świdnica",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6447&n=",
+            "date": "13.02.2023",
+            "name": "Półkolonie Szachowe Akademii Młodego Szachisty - Zima 2023",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_498&n=",
+            "date": "18.02.2023",
+            "name": "CZARNOW-SKI Blitz & Rapid - luty 2023",
+            "city": "Jelenia",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_41&n=",
-            "date": "17.02.2023",
-            "name": "GRAND PRIX POLONII WROCŁAW",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6927&n=",
+            "date": "18.02.2023",
+            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LUTY od lat 13",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6926&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_668&n=",
             "date": "18.02.2023",
-            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - LUTY do lat 12",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_667&n=",
-            "date": "18.02.2023",
-            "name": "Wałbrzyskie Zimowe Turnieje Klasyfikacyjne - Grupa A (od 1600 PZSZACH)",
+            "name": "Wałbrzyskie Zimowe Turnieje Klasyfikacyjne - grupa B (1400 PZSZACH)",
             "city": "Wałbrzych",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_241&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6941&n=",
             "date": "24.02.2023",
-            "name": "Turniej Szachowy Pierwszy Skok (w ramach Festiwalu im. S. Tarrascha)",
+            "name": "TURNIEJ FERYJNY POLONII WROCŁAW",
             "city": "Wrocław",
             "country": "Poland",
-            "type_and_players": "DS szybkie"
+            "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_596&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_729&n=",
             "date": "25.02.2023",
-            "name": "Turniej Feryjny 2023- OPEN A",
+            "name": "Feryjne Mistrzostwa Polanicy-Zdrój Juniorów 2023",
+            "city": "Polanica-Zdrój",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_597&n=",
+            "date": "25.02.2023",
+            "name": "Turniej Feryjny 2023- OPEN B",
             "city": "Jelenia",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_599&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_600&n=",
             "date": "25.02.2023",
-            "name": "Turniej Feryjny 2023- OPEN C",
-            "city": "Jelenia",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_601&n=",
-            "date": "26.02.2023",
-            "name": "Turniej Feryjny 2023- OPEN E",
+            "name": "Turniej Feryjny 2023- OPEN D",
             "city": "Jelenia",
             "country": "Poland",
             "type_and_players": "DS szybkie"
@@ -474,50 +498,50 @@
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/tdr_869&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6936&n=",
             "date": "18.03.2023",
-            "name": "Rodzinne Mistrzostwa Akademii Młodego Szachisty 2023",
+            "name": "Turniej DRUGI KROK (1250-1600 PZSzach) - MARZEC",
             "city": "Wrocław",
             "country": "Poland",
-            "type_and_players": " szybkie"
+            "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_301&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_302&n=",
             "date": "18.03.2023",
-            "name": "V Świdnicki Festiwal Szachowy Open A (na I i k)",
+            "name": "V Świdnicki Festiwal Szachowy Open B (II kat)",
             "city": "Burkatów/",
             "country": "Poland",
-            "type_and_players": "DS klasyczneFIDE"
+            "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_303&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_306&n=",
             "date": "18.03.2023",
-            "name": "V Świdnicki Festiwal Szachowy Open C (kobiety)",
+            "name": "V Świdnicki Festiwal Szachowy Open D (III kat)",
             "city": "Burkatów",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_304&n=",
-            "date": "18.03.2023",
-            "name": "V Świdnicki Festiwal Szachowy Open E (V i IV kat)",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_305&n=",
+            "date": "19.03.2023",
+            "name": "V Świdnicki Festiwal Szachowy Open F (V i IV kat)",
             "city": "Burkatów",
             "country": "Poland",
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_45&n=",
-            "date": "24.03.2023",
-            "name": "GRAND PRIX POLONII WROCŁAW",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6928&n=",
+            "date": "25.03.2023",
+            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - MARZEC do lat 12",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6929&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1001&n=",
             "date": "25.03.2023",
-            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - MARZEC od lat 13",
-            "city": "Wrocław",
+            "name": "V MEMORIAŁ ZBIGNIEWA CHOMICKIEGO",
+            "city": "Strzelin",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
@@ -634,28 +658,60 @@
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_696&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1015&n=",
+            "date": "06.08.2023",
+            "name": "Wrocław Open A - Międzynarodowy Festiwal Anderssena 2023",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1017&n=",
+            "date": "07.08.2023",
+            "name": "Wrocław Open C - Międzynarodowy Festiwal Anderssena 2023",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1018&n=",
+            "date": "12.08.2023",
+            "name": "GRUPA D \"DRUGI KROK\" - Międzynarodowy Festiwal Anderssena 2023",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_695&n=",
             "date": "19.08.2023",
-            "name": "59. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN B",
+            "name": "59. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN A",
             "city": "Polanica-Zdrój",
             "country": "Poland",
             "type_and_players": "DS klasyczneFIDE"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_698&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_697&n=",
             "date": "19.08.2023",
-            "name": "59. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN D",
+            "name": "59. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN C - Seniorzy",
             "city": "Polanica-Zdrój",
             "country": "Poland",
             "type_and_players": "DS klasyczneFIDE"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_700&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_699&n=",
             "date": "19.08.2023",
-            "name": "59. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN F",
+            "name": "59. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN E",
             "city": "Polanica-Zdrój",
             "country": "Poland",
             "type_and_players": "DS klasyczneFIDE"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_701&n=",
+            "date": "19.08.2023",
+            "name": "59. Międzynarodowy Festiwal Szachowy im. Akiby Rubinsteina - OPEN G",
+            "city": "Polanica-Zdrój",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
          }
       ],
       "chessManager": [
@@ -824,25 +880,17 @@
    "LB": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_852&n=",
-            "date": "10.02.2023",
-            "name": "Turniej na kategorie \"Turniej o tytuł Mistrza Szkoły w Bytnicy\" ",
-            "city": "Bytnica",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_354&n=",
+            "date": "12.02.2023",
+            "name": "Turniej Szachów Szybkich w Rokitnie o Puchar Wójta Przytocznej",
+            "city": "Rokitno",
             "country": "Poland",
             "type_and_players": "LB szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_691&n=",
-            "date": "17.02.2023",
-            "name": "Otwarte Mistrzostwa  SP-1 - klasyfikacyjny   MAGNUSIK 2023(1)",
-            "city": "Zielona",
-            "country": "Poland",
-            "type_and_players": "LB klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_635&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_634&n=",
             "date": "18.02.2023",
-            "name": "Rapid - grupa B - 18.02.2023",
+            "name": "Rapid - grupa A w KSz STILON - zgłoszony do ELO",
             "city": "Gorzów",
             "country": "Poland",
             "type_and_players": "LB szybkie"
@@ -872,25 +920,17 @@
             "type_and_players": "LB klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_856&n=",
-            "date": "10.02.2023",
-            "name": "Mistrzostwa Bytnicy w szachach błyskawicznych",
-            "city": "Bytnica",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_691&n=",
+            "date": "17.02.2023",
+            "name": "Otwarte Mistrzostwa  SP-1 - klasyfikacyjny   MAGNUSIK 2023(1)",
+            "city": "Zielona",
             "country": "Poland",
-            "type_and_players": "LB blitz"
+            "type_and_players": "LB klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_354&n=",
-            "date": "12.02.2023",
-            "name": "Turniej Szachów Szybkich w Rokitnie o Puchar Wójta Przytocznej",
-            "city": "Rokitno",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_634&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_635&n=",
             "date": "18.02.2023",
-            "name": "Rapid - grupa A w KSz STILON - zgłoszony do ELO",
+            "name": "Rapid - grupa B - 18.02.2023",
             "city": "Gorzów",
             "country": "Poland",
             "type_and_players": "LB szybkie"
@@ -912,16 +952,7 @@
             "type_and_players": "LB blitz"
          }
       ],
-      "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/4851769084477440",
-            "date": "10.02.2023",
-            "name": "Hetman Wschowa 2023",
-            "city": "Wschowa",
-            "country": "Polska",
-            "type_and_players": "Klasyczne"
-         }
-      ]
+      "chessManager": []
    },
    "OP": {
       "chessarbiter": [
@@ -984,9 +1015,41 @@
       ],
       "chessManager": [
          {
+            "link": " https://www.chessmanager.com/pl/tournaments/5071279058059264",
+            "date": "11.02.2023",
+            "name": "Turniej A dla dzieci z rocznika 2013 i starszych Grand Prix nr 5",
+            "city": "Opole",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5021564576727040",
+            "date": "11.02.2023",
+            "name": "Turniej B dla dzieci z rocznika 2014 i 2015 Grand Prix nr 5",
+            "city": "Opole",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/4912175584903168",
+            "date": "11.02.2023",
+            "name": "Turniej C dla dzieci z rocznika 2016-2017 Grand Prix nr 5",
+            "city": "Opole",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6253019478884352",
+            "date": "24.02.2023",
+            "name": "Błyskawiczny Piątek w Strzelcu - Luty 2023 (FIDE)",
+            "city": "Strzelce Opolskie",
+            "country": "Polska",
+            "type_and_players": "Błyskawiczne"
+         },
+         {
             "link": " https://www.chessmanager.com/pl/tournaments/5140681778528256",
             "date": "26.02.2023",
-            "name": "Zimowy Turniej Szachowy o Puchar Dyrektora Centrum Kultury im. Kawalerów Orderu Uśmiechu  w Głuchołazach",
+            "name": "Zimowy Turniej Szachowy o Puchar Burmistrza Głuchołaz",
             "city": "Głuchołazy",
             "country": "Polska",
             "type_and_players": "Szybkie"
