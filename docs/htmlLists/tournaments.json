@@ -2,20 +2,12 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6447&n=",
-            "date": "13.02.2023",
-            "name": "Półkolonie Szachowe Akademii Młodego Szachisty - Zima 2023",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_41&n=",
+            "date": "17.02.2023",
+            "name": "GRAND PRIX POLONII WROCŁAW",
             "city": "Wrocław",
             "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1087&n=",
-            "date": "13.02.2023",
-            "name": "Półkolonie Szachowe Akademii Młodego Szachisty - Zima 2023 - Grupa B",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
+            "type_and_players": "DS szybkie"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_498&n=",
@@ -338,18 +330,10 @@
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1086&n=",
-            "date": "13.02.2023",
-            "name": "Półkolonie Szachowe Akademii Młodego Szachisty - Zima 2023 - Grupa A",
-            "city": "Wrocław",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_41&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1128&n=",
             "date": "17.02.2023",
-            "name": "GRAND PRIX POLONII WROCŁAW",
-            "city": "Wrocław",
+            "name": "Pierwszy Krok",
+            "city": "Wroclaw",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
@@ -979,9 +963,17 @@
             "type_and_players": "WP blitz"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_355&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1090&n=",
+            "date": "19.03.2023",
+            "name": "VII Turniej GP 2022/23 Klubu Raszyn",
+            "city": "Poznań",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_197&n=",
             "date": "25.03.2023",
-            "name": "VII Otwarte Indywidualne i Druż.ynowe Mistrzostwa  Poznania Niepublicznych Szkół Podstawowych  klasy 4-8 -",
+            "name": "VII Otwarte Indywidualne i Drużynowe  Mistrzostwa Poznania Niepublicznych Szkół Podstawowych klasy 0-3 ",
             "city": "Poznań",
             "country": "Poland",
             "type_and_players": "WP szybkie"
@@ -1043,9 +1035,9 @@
             "type_and_players": "WP szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_197&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_355&n=",
             "date": "25.03.2023",
-            "name": "VII Otwarte Indywidualne i Drużynowe  Mistrzostwa Poznania Niepublicznych Szkół Podstawowych klasy 0-3 ",
+            "name": "VII Otwarte Indywidualne i Druż.ynowe Mistrzostwa  Poznania Niepublicznych Szkół Podstawowych  klasy 4-8 -",
             "city": "Poznań",
             "country": "Poland",
             "type_and_players": "WP szybkie"
