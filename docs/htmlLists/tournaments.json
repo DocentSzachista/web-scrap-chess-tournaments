@@ -58,12 +58,12 @@
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_601&n=",
-            "date": "26.02.2023",
-            "name": "Turniej Feryjny 2023- OPEN E",
-            "city": "Jelenia",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1216&n=",
+            "date": "25.02.2023",
+            "name": "VII Mikama blitz (FIDE) 25.02.2023",
+            "city": "Świdnica",
             "country": "Poland",
-            "type_and_players": "DS szybkie"
+            "type_and_players": "DS blitz"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_42&n=",
@@ -93,6 +93,30 @@
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_43&n=",
             "date": "10.03.2023",
             "name": "GRAND PRIX POLONII WROCŁAW",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_44&n=",
+            "date": "17.03.2023",
+            "name": "GRAND PRIX POLONII WROCŁAW",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1198&n=",
+            "date": "18.03.2023",
+            "name": "Mistrzostwa Młodych Szachistów - Królewska Gra dla Dzieci - GRUPA D (do lat 9)",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1200&n=",
+            "date": "18.03.2023",
+            "name": "Mistrzostwa Młodych Szachistów - Królewska Gra dla Dzieci - GRUPA F (do lat 7)",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
@@ -168,6 +192,38 @@
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS blitz"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_48&n=",
+            "date": "14.04.2023",
+            "name": "GRAND PRIX POLONII WROCŁAW",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1161&n=",
+            "date": "15.04.2023",
+            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 10",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1157&n=",
+            "date": "15.04.2023",
+            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 5",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1159&n=",
+            "date": "15.04.2023",
+            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 7",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_49&n=",
@@ -324,7 +380,7 @@
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1128&n=",
             "date": "17.02.2023",
-            "name": "Pierwszy Krok",
+            "name": "Turniej \"Pierwszy Krok\" - wpisowe 20 zł ",
             "city": "Wroclaw",
             "country": "Poland",
             "type_and_players": "DS szybkie"
@@ -386,6 +442,14 @@
             "type_and_players": "DS szybkie"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_601&n=",
+            "date": "26.02.2023",
+            "name": "Turniej Feryjny 2023- OPEN E",
+            "city": "Jelenia",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/tdr_1142&n=",
             "date": "04.03.2023",
             "name": "XVI Międzypowiatowa Liga Szachowa 2023",
@@ -410,9 +474,17 @@
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_44&n=",
-            "date": "17.03.2023",
-            "name": "GRAND PRIX POLONII WROCŁAW",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1203&n=",
+            "date": "11.03.2023",
+            "name": "XI RODZINNY TURNIEJ SZACHOWY",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1199&n=",
+            "date": "18.03.2023",
+            "name": "Mistrzostwa Młodych Szachistów - Królewska Gra dla Dzieci - GRUPA E (do lat 8)",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
@@ -490,9 +562,41 @@
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_48&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1178&n=",
+            "date": "07.04.2023",
+            "name": "TURNIEJ WIELKANOCNY POLONII WROCŁAW",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1169&n=",
             "date": "14.04.2023",
-            "name": "GRAND PRIX POLONII WROCŁAW",
+            "name": "KURS INSTRUKTORSKI PZSZACH (ONLINE)",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS klasyczne"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1162&n=",
+            "date": "15.04.2023",
+            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 12",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1158&n=",
+            "date": "15.04.2023",
+            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 6",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1160&n=",
+            "date": "15.04.2023",
+            "name": "Turniej Szachowy Wrocławskiego Krasnala do lat 8",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
@@ -824,6 +928,14 @@
             "type_and_players": "LB szybkie"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1196&n=",
+            "date": "01.04.2023",
+            "name": "VII Memoriał im. Emanuela Laskera",
+            "city": "Gorzów",
+            "country": "Poland",
+            "type_and_players": "LB klasyczne"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_176&n=",
             "date": "03.05.2023",
             "name": "Turniej Szachowy w Szachach Szybkich w Skwierzynie 03.05.2023r.",
@@ -854,6 +966,14 @@
             "city": "Gorzów",
             "country": "Poland",
             "type_and_players": "LB szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1197&n=",
+            "date": "01.04.2023",
+            "name": "XIX Lubuska Wiosna Szachowa",
+            "city": "GORZÓW",
+            "country": "Poland",
+            "type_and_players": "LB klasyczne"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_646&n=",
@@ -979,17 +1099,25 @@
             "type_and_players": "WP blitz"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1090&n=",
-            "date": "19.03.2023",
-            "name": "VII Turniej GP 2022/23 Klubu Raszyn",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1213&n=",
+            "date": "11.03.2023",
+            "name": "Pierwzy Krok Szachowy do 10 lat do rankingu 1200",
             "city": "Poznań",
             "country": "Poland",
             "type_and_players": "WP szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_197&n=",
-            "date": "25.03.2023",
-            "name": "VII Otwarte Indywidualne i Drużynowe  Mistrzostwa Poznania Niepublicznych Szkół Podstawowych klasy 0-3 ",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_355&n=",
+            "date": "18.03.2023",
+            "name": "VII Otwarte Indywidualne i Druż.ynowe Mistrzostwa  Poznania Niepublicznych Szkół Podstawowych  klasy 4-8 -",
+            "city": "Poznań",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1090&n=",
+            "date": "19.03.2023",
+            "name": "VII Turniej GP 2022/23 Klubu Raszyn",
             "city": "Poznań",
             "country": "Poland",
             "type_and_players": "WP szybkie"
@@ -1051,9 +1179,17 @@
             "type_and_players": "WP szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_355&n=",
-            "date": "25.03.2023",
-            "name": "VII Otwarte Indywidualne i Druż.ynowe Mistrzostwa  Poznania Niepublicznych Szkół Podstawowych  klasy 4-8 -",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1163&n=",
+            "date": "11.03.2023",
+            "name": "XII TURNIEJ SZACHOWY O PUCHARY DYREKTORA GAUDIUM ET STUDIUM",
+            "city": "POZNAŃ",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_197&n=",
+            "date": "18.03.2023",
+            "name": "VII Otwarte Indywidualne i Drużynowe  Mistrzostwa Poznania Niepublicznych Szkół Podstawowych klasy 0-3 ",
             "city": "Poznań",
             "country": "Poland",
             "type_and_players": "WP szybkie"
@@ -1076,14 +1212,6 @@
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/5198343014711296",
-            "date": "15.02.2023",
-            "name": "Pomysł GrandPrix #15.1",
-            "city": "Poznan",
-            "country": "Polska",
-            "type_and_players": "Błyskawiczne"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/5129838923874304",
             "date": "16.02.2023",
