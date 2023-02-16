@@ -266,17 +266,17 @@
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_54&n=",
-            "date": "26.05.2023",
-            "name": "GRAND PRIX POLONII WROCŁAW",
-            "city": "Wrocław",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1232&n=",
+            "date": "21.05.2023",
+            "name": "XXII Wiosenne Zgrupowanie Szkoleniowe Szklarska Poręba 2023",
+            "city": "Szklarska",
             "country": "Poland",
-            "type_and_players": "DS szybkie"
+            "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6933&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6932&n=",
             "date": "27.05.2023",
-            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - MAJ od lat 13",
+            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - MAJ do lat 12",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
@@ -380,7 +380,7 @@
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1128&n=",
             "date": "17.02.2023",
-            "name": "Turniej \"Pierwszy Krok\" - wpisowe 20 zł ",
+            "name": "Turniej \"Pierwszy Krok\"",
             "city": "Wroclaw",
             "country": "Poland",
             "type_and_players": "DS szybkie"
@@ -642,9 +642,17 @@
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6932&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_54&n=",
+            "date": "26.05.2023",
+            "name": "GRAND PRIX POLONII WROCŁAW",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6933&n=",
             "date": "27.05.2023",
-            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - MAJ do lat 12",
+            "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - MAJ od lat 13",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
@@ -1091,33 +1099,33 @@
             "type_and_players": "WP klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1057&n=",
-            "date": "04.03.2023",
-            "name": "Otwarty Turniej Szachów Błyskawicznych ",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/tdr_1240&n=",
+            "date": "03.03.2023",
+            "name": "Turniej Szachowych Drużyn - Święto Patrona Szkoły. Udział - zaproszone drużyny.",
+            "city": "Włoszakowice",
+            "country": "Poland",
+            "type_and_players": " blitz"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1058&n=",
+            "date": "05.03.2023",
+            "name": "Otwarty Turniej Szachów Szybkich ",
             "city": "Środa",
             "country": "Poland",
-            "type_and_players": "WP blitz"
+            "type_and_players": "WP szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1213&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1163&n=",
             "date": "11.03.2023",
-            "name": "Pierwzy Krok Szachowy do 10 lat do rankingu 1200",
-            "city": "Poznań",
+            "name": "XII TURNIEJ SZACHOWY O PUCHARY DYREKTORA GAUDIUM ET STUDIUM",
+            "city": "POZNAŃ",
             "country": "Poland",
             "type_and_players": "WP szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_355&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_197&n=",
             "date": "18.03.2023",
-            "name": "VII Otwarte Indywidualne i Druż.ynowe Mistrzostwa  Poznania Niepublicznych Szkół Podstawowych  klasy 4-8 -",
-            "city": "Poznań",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1090&n=",
-            "date": "19.03.2023",
-            "name": "VII Turniej GP 2022/23 Klubu Raszyn",
+            "name": "VII Otwarte Indywidualne i Drużynowe  Mistrzostwa Poznania Niepublicznych Szkół Podstawowych klasy 0-3 ",
             "city": "Poznań",
             "country": "Poland",
             "type_and_players": "WP szybkie"
@@ -1171,28 +1179,44 @@
             "type_and_players": "WP szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1058&n=",
-            "date": "05.03.2023",
-            "name": "Otwarty Turniej Szachów Szybkich ",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1057&n=",
+            "date": "04.03.2023",
+            "name": "Otwarty Turniej Szachów Błyskawicznych ",
             "city": "Środa",
             "country": "Poland",
-            "type_and_players": "WP szybkie"
+            "type_and_players": "WP blitz"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1163&n=",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1213&n=",
             "date": "11.03.2023",
-            "name": "XII TURNIEJ SZACHOWY O PUCHARY DYREKTORA GAUDIUM ET STUDIUM",
-            "city": "POZNAŃ",
-            "country": "Poland",
-            "type_and_players": "WP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_197&n=",
-            "date": "18.03.2023",
-            "name": "VII Otwarte Indywidualne i Drużynowe  Mistrzostwa Poznania Niepublicznych Szkół Podstawowych klasy 0-3 ",
+            "name": "Pierwzy Krok Szachowy do 10 lat do rankingu 1200",
             "city": "Poznań",
             "country": "Poland",
             "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_355&n=",
+            "date": "18.03.2023",
+            "name": "VII Otwarte Indywidualne i Druż.ynowe Mistrzostwa  Poznania Niepublicznych Szkół Podstawowych  klasy 4-8 -",
+            "city": "Poznań",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1090&n=",
+            "date": "19.03.2023",
+            "name": "VII Turniej GP 2022/23 Klubu Raszyn",
+            "city": "Poznań",
+            "country": "Poland",
+            "type_and_players": "WP szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/tdr_1237&n=",
+            "date": "16.04.2023",
+            "name": "VII Rodzinne Szachowanie",
+            "city": "Włoszakowice",
+            "country": "Poland",
+            "type_and_players": " szybkie"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_513&n=",
@@ -1213,10 +1237,10 @@
       ],
       "chessManager": [
          {
-            "link": " https://www.chessmanager.com/pl/tournaments/5129838923874304",
-            "date": "16.02.2023",
-            "name": "Wrzesińskie Grand Prix (1 z 5)",
-            "city": "Września",
+            "link": " https://www.chessmanager.com/pl/tournaments/6238322369232896",
+            "date": "17.02.2023",
+            "name": "Szkolna Liga Szachowa - runda 15 w SP nr 1 w Złotowie - 2022/2023",
+            "city": "Złotów",
             "country": "Polska",
             "type_and_players": "Szybkie"
          },
