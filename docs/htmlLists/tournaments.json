@@ -2,30 +2,6 @@
    "DS": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_729&n=",
-            "date": "25.02.2023",
-            "name": "Feryjne Mistrzostwa Polanicy-Zdrój Juniorów 2023",
-            "city": "Polanica-Zdrój",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_597&n=",
-            "date": "25.02.2023",
-            "name": "Turniej Feryjny 2023- OPEN B",
-            "city": "Jelenia",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_600&n=",
-            "date": "25.02.2023",
-            "name": "Turniej Feryjny 2023- OPEN D",
-            "city": "Jelenia",
-            "country": "Poland",
-            "type_and_players": "DS szybkie"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_601&n=",
             "date": "26.02.2023",
             "name": "Turniej Feryjny 2023- OPEN E",
@@ -186,10 +162,10 @@
             "type_and_players": "DS szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_46&n=",
-            "date": "31.03.2023",
-            "name": "GRAND PRIX POLONII WROCŁAW",
-            "city": "Wrocław",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1460&n=",
+            "date": "25.03.2023",
+            "name": "X EDYCJA GRAND PRIX RADKOWA I ZIEMI KŁODZKIEJ - GRUPA B DLA DZIECI DO 14 LAT - II TURNIEJ",
+            "city": "ŚCINAWKA",
             "country": "Poland",
             "type_and_players": "DS szybkie"
          },
@@ -442,30 +418,6 @@
             "type_and_players": "DS klasyczne"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_596&n=",
-            "date": "25.02.2023",
-            "name": "Turniej Feryjny 2023- OPEN A",
-            "city": "Jelenia",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_599&n=",
-            "date": "25.02.2023",
-            "name": "Turniej Feryjny 2023- OPEN C",
-            "city": "Jelenia",
-            "country": "Poland",
-            "type_and_players": "DS klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1216&n=",
-            "date": "25.02.2023",
-            "name": "VII Mikama blitz (FIDE) 25.02.2023",
-            "city": "Świdnica",
-            "country": "Poland",
-            "type_and_players": "DS blitz"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1328&n=",
             "date": "04.03.2023",
             "name": "Grand Prix Śródmieścia 2022/23 - 4. turniej - grupa A",
@@ -605,6 +557,14 @@
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_6929&n=",
             "date": "25.03.2023",
             "name": "Turniej PIERWSZY KROK (1000-1200 PZSzach) - MARZEC od lat 13",
+            "city": "Wrocław",
+            "country": "Poland",
+            "type_and_players": "DS szybkie"
+         },
+         {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_46&n=",
+            "date": "31.03.2023",
+            "name": "GRAND PRIX POLONII WROCŁAW",
             "city": "Wrocław",
             "country": "Poland",
             "type_and_players": "DS szybkie"
@@ -844,38 +804,6 @@
       ],
       "chessManager": [
          {
-            "link": " https://www.chessmanager.com/pl/tournaments/4589566968201216",
-            "date": "25.02.2023",
-            "name": "TURNIEJ FERYJNY 2023- OPEN D",
-            "city": "Jelenia Góra",
-            "country": "Polska",
-            "type_and_players": "Szybkie"
-         },
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/5172404272758784",
-            "date": "25.02.2023",
-            "name": "TURNIEJ FERYJNY 2023- OPEN A",
-            "city": "Jelenia Góra",
-            "country": "Polska",
-            "type_and_players": "Klasyczne"
-         },
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/5541777994940416",
-            "date": "25.02.2023",
-            "name": "TURNIEJ FERYJNY 2023- OPEN B",
-            "city": "Jelenia Góra",
-            "country": "Polska",
-            "type_and_players": "Klasyczne"
-         },
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/4658043577958400",
-            "date": "25.02.2023",
-            "name": "TURNIEJ FERYJNY 2023- OPEN C",
-            "city": "Jelenia Góra",
-            "country": "Polska",
-            "type_and_players": "Klasyczne"
-         },
-         {
             "link": " https://www.chessmanager.com/pl/tournaments/6011237113528320",
             "date": "26.02.2023",
             "name": "TURNIEJ FERYJNY 2023- OPEN E",
@@ -1008,14 +936,6 @@
    "LB": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1419&n=",
-            "date": "25.02.2023",
-            "name": "Turniej dla dzieci o Puchar Sołtysa wsi Trzebicz",
-            "city": "Trzebicz",
-            "country": "Poland",
-            "type_and_players": "LB szybkie"
-         },
-         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1338&n=",
             "date": "04.03.2023",
             "name": "Weekend przy Szachownicy - grupa B",
@@ -1101,18 +1021,10 @@
    "OP": {
       "chessarbiter": [
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7446&n=",
-            "date": "25.02.2023",
-            "name": "II Puchar Ziemi Strzeleckiej w Szachach - Open A (FIDE)",
-            "city": "Strzelce",
-            "country": "Poland",
-            "type_and_players": "OP klasyczneFIDE"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7448&n=",
-            "date": "25.02.2023",
-            "name": "II Puchar Ziemi Strzeleckiej w Szachach - Open C (PZSzach 1000-1200)",
-            "city": "Strzelce",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_955&n=",
+            "date": "28.02.2023",
+            "name": "Opolska Superliga Akademicka 2023 (FIDE)",
+            "city": "Opole",
             "country": "Poland",
             "type_and_players": "OP szybkie"
          },
@@ -1129,22 +1041,6 @@
             "date": "07.05.2023",
             "name": "II MEMORIAŁ SZACHOWY STANISŁAWA ZMORY",
             "city": "Namysłów",
-            "country": "Poland",
-            "type_and_players": "OP szybkie"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2022/ti_7447&n=",
-            "date": "25.02.2023",
-            "name": "II Puchar Ziemi Strzeleckiej w Szachach - Open B (PZSzach 1400-1600)",
-            "city": "Strzelce",
-            "country": "Poland",
-            "type_and_players": "OP klasyczne"
-         },
-         {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_955&n=",
-            "date": "28.02.2023",
-            "name": "Opolska Superliga Akademicka 2023 (FIDE)",
-            "city": "Opole",
             "country": "Poland",
             "type_and_players": "OP szybkie"
          }
@@ -1372,14 +1268,6 @@
          }
       ],
       "chessManager": [
-         {
-            "link": " https://www.chessmanager.com/pl/tournaments/5416322335768576",
-            "date": "25.02.2023",
-            "name": "Turniej z możliwością uzyskania kategorii centralnej , zgłoszony do FIDE",
-            "city": "Nowe Skalmierzyce",
-            "country": "Polska",
-            "type_and_players": "Klasyczne"
-         },
          {
             "link": " https://www.chessmanager.com/pl/tournaments/6343996751216640",
             "date": "04.03.2023",
