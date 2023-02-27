@@ -1146,6 +1146,14 @@
             "type_and_players": " klasyczne"
          },
          {
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1411&n=",
+            "date": "30.03.2023",
+            "name": "Szkolenie Online: Turniej Szachowy w Szkole? To Proste!",
+            "city": "Poznań",
+            "country": "Poland",
+            "type_and_players": "WP klasyczne"
+         },
+         {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1472&n=",
             "date": "01.04.2023",
             "name": "Półfinał MWJiM 2023 Leszno - C11",
@@ -1290,12 +1298,12 @@
             "type_and_players": "WP szybkie"
          },
          {
-            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1411&n=",
-            "date": "30.03.2023",
-            "name": "Szkolenie Online: Turniej Szachowy w Szkole? To Proste!",
-            "city": "Poznań",
+            "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/tdr_1514&n=",
+            "date": "25.03.2023",
+            "name": "WIELKOPOLSKA LIGA JUNIORÓW IV GRUPA A-2023 ",
+            "city": "Kostrzyn",
             "country": "Poland",
-            "type_and_players": "WP klasyczne"
+            "type_and_players": " klasyczne"
          },
          {
             "link": "http://www.chessarbiter.com/turnieje/open.php?turn=2023/ti_1474&n=",
@@ -1416,6 +1424,22 @@
             "date": "09.03.2023",
             "name": "Wrzesińskie Grand Prix (2 z 5)",
             "city": "Września",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/5842991601156096",
+            "date": "11.03.2023",
+            "name": "Turniej Szachowy o Puchar GOK w Komornikach - grupa do lat 10",
+            "city": "Komorniki koło Poznania",
+            "country": "Polska",
+            "type_and_players": "Szybkie"
+         },
+         {
+            "link": " https://www.chessmanager.com/pl/tournaments/6587397681709056",
+            "date": "11.03.2023",
+            "name": "Turniej Szachowy o Puchar GOK w Komornikach - grupa do lat 18",
+            "city": "Komorniki koło Poznania",
             "country": "Polska",
             "type_and_players": "Szybkie"
          },
