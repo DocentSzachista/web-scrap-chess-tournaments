@@ -189,5 +189,6 @@ apscheduler
 ```
 ## Additional informations
 If you want to use Google Gmail as a SMTP provider, you need to enable 2-factor authetincation  because at 30.05.2022 Google has turned off simpler way to enable for use your own gmail account as SMTP service due to safe risks which that way imposed. If you want to know how to do it, [here](https://stackoverflow.com/questions/72577189/gmail-smtp-server-stopped-working-as-it-no-longer-support-less-secure-apps) is described process the proccess.
-
+## Notes at 30.03.2023
+Chessmanager has changed its form variables so it needs to be refactored 
 
