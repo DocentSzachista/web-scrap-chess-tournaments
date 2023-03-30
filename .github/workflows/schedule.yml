@@ -1,42 +1,42 @@
-name: Update tournaments
+# name: Update tournaments
 
-on:
-  schedule:
-    - cron: "0 0 * * *" #runs at 00:00 UTC everyday
+# on:
+#   schedule:
+#     - cron: "0 0 * * *" #runs at 00:00 UTC everyday
 
-jobs:
-  build:
-   runs-on: ubuntu-latest
-   steps:
-     - name: checkout repo content
-       uses: actions/checkout@v2 # checkout the repository content to github runner.
-     - name: setup python
-       uses: actions/setup-python@v2
-       with:
-        python-version: '3.10' #install the python needed
-     - name: install python packages # install requirements.txt
-       run: |
-           python -m pip install --upgrade pip 
-           pip install -r ./api/requirements.txt
-     - name: execute script webscrapping data
-       run: python ./api/script.py repository ./api/userPreferences.json
-     - name: commit files
-       run: |
-          git config --local user.email "idontknow5325@gmail.com"
-          git config --local user.name "DocentSzachista"
-          git add -A
-          git commit -m "update data" -a
-     - name: push changes
-       uses: ad-m/github-push-action@v0.6.0
-       with:
-         github_token: ${{ secrets.GITHUB_TOKEN }}
-         branch: master
-     - name: Trigger GitHub pages rebuild
-       run: |
-          curl --fail --request POST \
-            --url https://api.github.com/repos/${{ github.repository }}/pages/builds \
-            --header "Authorization: Bearer $USER_TOKEN"
-       env:
-          # You must create a personal token with repo access as GitHub does
-          # not yet support server-to-server page builds.
-          USER_TOKEN: ${{ secrets.USER_TOKEN }}
+# jobs:
+#   build:
+#    runs-on: ubuntu-latest
+#    steps:
+#      - name: checkout repo content
+#        uses: actions/checkout@v2 # checkout the repository content to github runner.
+#      - name: setup python
+#        uses: actions/setup-python@v2
+#        with:
+#         python-version: '3.10' #install the python needed
+#      - name: install python packages # install requirements.txt
+#        run: |
+#            python -m pip install --upgrade pip 
+#            pip install -r ./api/requirements.txt
+#      - name: execute script webscrapping data
+#        run: python ./api/script.py repository ./api/userPreferences.json
+#      - name: commit files
+#        run: |
+#           git config --local user.email ""
+#           git config --local user.name "DocentSzachista"
+#           git add -A
+#           git commit -m "update data" -a
+#      - name: push changes
+#        uses: ad-m/github-push-action@v0.6.0
+#        with:
+#          github_token: ${{ secrets.GITHUB_TOKEN }}
+#          branch: master
+#      - name: Trigger GitHub pages rebuild
+#        run: |
+#           curl --fail --request POST \
+#             --url https://api.github.com/repos/${{ github.repository }}/pages/builds \
+#             --header "Authorization: Bearer $USER_TOKEN"
+#        env:
+#           # You must create a personal token with repo access as GitHub does
+#           # not yet support server-to-server page builds.
+#           USER_TOKEN: ${{ secrets.USER_TOKEN }}
